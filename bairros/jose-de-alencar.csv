@@ -1,0 +1,551 @@
+,Código,Categoria,Condomínio,Área,Quartos,Banheiros,Vagas na garagem,Município,Bairro,Preço
+0,895437360,Casas,1500.0,242,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1550000.0
+1,934046506,Casas,855.0,121,3,5 ou mais,2,Fortaleza,José de Alencar,469000.0
+2,920539732,Casas,1.0,95,3,2,2,Fortaleza,José de Alencar,295000.0
+3,961805774,Casas,1.0,55,2,2,2,Fortaleza,José de Alencar,189990.0
+4,955413871,Apartamentos,350.0,56,2,2,1,Fortaleza,José de Alencar,168000.0
+5,955413875,Casas,0.0,53,2,2,2,Fortaleza,José de Alencar,189900.0
+6,906536864,Apartamentos,0.0,51,2,1,1,Fortaleza,José de Alencar,185000.0
+7,954960241,Casas,0.0,123,2,3,3,Fortaleza,José de Alencar,480000.0
+8,958447547,Casas,820.0,125,3,4,1,Fortaleza,José de Alencar,470000.0
+9,895437240,Apartamentos,730.0,100,3,4,2,Fortaleza,José de Alencar,851000.0
+10,899147969,Casas,750.0,206,4,5 ou mais,3,Fortaleza,José de Alencar,1450000.0
+11,956179974,Casas,1100.0,186,4,5 ou mais,4,Fortaleza,José de Alencar,699000.0
+12,956186383,Casas,0.0,312,4,4,5 ou mais,Fortaleza,José de Alencar,780000.0
+13,967062142,Apartamentos,0.0,100,3,4,2,Fortaleza,José de Alencar,649999.0
+14,955556854,Casas,200.0,103,3,2,3,Fortaleza,José de Alencar,269990.0
+15,967123632,Casas,0.0,550,4,4,3,Fortaleza,José de Alencar,1090000.0
+16,977319235,Casas,950.0,208,5 ou mais,5 ou mais,3,Fortaleza,José de Alencar,1300000.0
+17,972296930,Casas,1700.0,202,3,3,4,Fortaleza,José de Alencar,650000.0
+18,954031778,Apartamentos,350.0,58,2,2,1,Fortaleza,José de Alencar,250000.0
+19,937914868,Casas,600.0,114,3,1,4,Fortaleza,José de Alencar,380000.0
+20,921050108,Casas,0.0,54,2,2,2,Fortaleza,José de Alencar,189900.0
+21,954960258,Casas,0.0,180,4,5 ou mais,4,Fortaleza,José de Alencar,550000.0
+22,977224065,Casas,400.0,75,3,2,2,Fortaleza,José de Alencar,380000.0
+23,949633980,Apartamentos,730.0,100,3,4,2,Fortaleza,José de Alencar,730000.0
+24,961637611,Casas,0.0,250,3,,3,Fortaleza,José de Alencar,750000.0
+25,954960013,Casas,0.0,104,3,1,2,Fortaleza,José de Alencar,465000.0
+26,945917346,Casas,822.0,133,3,3,,Fortaleza,José de Alencar,650000.0
+27,933322770,Casas,0.0,226,5 ou mais,5 ou mais,3,Fortaleza,José de Alencar,450000.0
+28,894336227,Apartamentos,350.0,131,2,2,1,Fortaleza,José de Alencar,220000.0
+29,917141817,Casas,1180.0,229,4,4,4,Fortaleza,José de Alencar,1310000.0
+30,970703761,Casas,0.0,120,3,2,3,Fortaleza,José de Alencar,320000.0
+31,977101911,Casas,0.0,205,4,4,3,Fortaleza,José de Alencar,1450007.0
+32,977090237,Casas,0.0,133,3,3,2,Fortaleza,José de Alencar,520720.0
+33,949625669,Apartamentos,0.0,100,3,4,2,Fortaleza,José de Alencar,730000.0
+34,936781565,Casas,400.0,135,3,4,2,Fortaleza,José de Alencar,370000.0
+35,897614737,Casas,1550.0,241,4,5 ou mais,4,Fortaleza,José de Alencar,1350000.0
+36,977024280,Casas,1200.0,220,5 ou mais,5 ou mais,4,Fortaleza,José de Alencar,1050000.0
+37,977024183,Casas,0.0,312,4,3,5 ou mais,Fortaleza,José de Alencar,780000.0
+38,977007586,Casas,689.0,96,3,3,2,Fortaleza,José de Alencar,320000.0
+39,964759560,Casas,640.0,136,3,3,2,Fortaleza,José de Alencar,379000.0
+40,714931140,Casas,0.0,179,3,,4,Fortaleza,José de Alencar,450000.0
+41,955413899,Apartamentos,350.0,130,2,2,2,Fortaleza,José de Alencar,228517.0
+42,976904228,Casas,630.0,120,3,3,4,Fortaleza,José de Alencar,380000.0
+43,898281869,Casas,900.0,206,4,5 ou mais,4,Fortaleza,José de Alencar,1450000.0
+44,949161208,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1140000.0
+45,943963881,Apartamentos,0.0,100,3,3,2,Fortaleza,José de Alencar,730000.0
+46,946110761,Casas,1500.0,250,4,5 ou mais,3,Fortaleza,José de Alencar,1500000.0
+47,724868694,Casas,1500.0,230,4,0,3,Fortaleza,José de Alencar,1100000.0
+48,956192160,Casas,0.0,209,3,5 ou mais,,Fortaleza,José de Alencar,599000.0
+49,946046288,Casas,1550.0,230,4,4,3,Fortaleza,José de Alencar,1090000.0
+50,950252450,Casas,0.0,53,2,2,2,Fortaleza,José de Alencar,189000.0
+51,950608311,Apartamentos,900.0,175,3,3,2,Fortaleza,José de Alencar,565000.0
+52,976649676,Casas,1500.0,300,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1550000.0
+53,976649652,Casas,1500.0,251,4,5 ou mais,4,Fortaleza,José de Alencar,1399000.0
+54,955502380,Apartamentos,0.0,209,3,4,2,Fortaleza,José de Alencar,599000.0
+55,959966433,Casas,1500.0,250,4,5 ou mais,,Fortaleza,José de Alencar,999000.0
+56,970513693,Casas,0.0,160,4,5 ou mais,4,Fortaleza,José de Alencar,649000.0
+57,967744006,Casas,820.0,145,3,4,3,Fortaleza,José de Alencar,600000.0
+58,908360389,Apartamentos,860.0,79,3,2,2,Fortaleza,José de Alencar,289000.0
+59,932433623,Casas,800.0,132,3,4,2,Fortaleza,José de Alencar,550000.0
+60,976581277,Casas,855.0,121,3,5 ou mais,1,Fortaleza,José de Alencar,469000.0
+61,920717888,Casas,1500.0,230,4,4,3,Fortaleza,José de Alencar,1100000.0
+62,976530495,Casas,600.0,110,3,3,2,Fortaleza,José De Alencar,240000.0
+63,959177574,Casas,820.0,125,3,4,2,Fortaleza,José de Alencar,470000.0
+64,920965413,Casas,0.0,290,5 ou mais,5 ou mais,2,Fortaleza,José de Alencar,1500000.0
+65,962076721,Casas,0.0,206,4,5 ou mais,4,Fortaleza,José de Alencar,1048422.0
+66,946635112,Apartamentos,640.0,100,4,4,2,Fortaleza,José de Alencar,730000.0
+67,929707962,Casas,1500.0,320,3,4,5 ou mais,Fortaleza,José de Alencar,1250000.0
+68,964759628,Casas,780.0,143,3,3,3,Fortaleza,José de Alencar,420000.0
+69,967470567,Apartamentos,650.0,100,3,4,2,Fortaleza,José de Alencar,670000.0
+70,956265953,Casas,0.0,320,3,4,5 ou mais,Fortaleza,José de Alencar,1280000.0
+71,967657434,Casas,600.0,150,3,3,2,Fortaleza,José de Alencar,450000.0
+72,944863202,Casas,1475.0,225,5 ou mais,5 ou mais,4,Fortaleza,José de Alencar,1500000.0
+73,976283762,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190100.0
+74,976264095,Casas,1900.0,278,3,5 ou mais,3,Fortaleza,José de Alencar,1100000.0
+75,933324994,Casas,0.0,249,4,3,,Fortaleza,José de Alencar,1150000.0
+76,972387199,Casas,0.0,137,4,1,2,Fortaleza,José de Alencar,460000.0
+77,957724976,Casas,689.0,96,3,4,3,Fortaleza,José de Alencar,320000.0
+78,960511579,Casas,389.0,60,2,1,1,Fortaleza,José de Alencar,170000.0
+79,962453362,Apartamentos,290.0,52,2,2,2,Fortaleza,José de Alencar,200000.0
+80,954960236,Casas,0.0,120,3,3,3,Fortaleza,José de Alencar,350000.0
+81,971587127,Casas,800.0,150,3,1,2,Fortaleza,José de Alencar,599000.0
+82,952650137,Casas,1500.0,245,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1550000.0
+83,946422638,Apartamentos,350.0,56,2,2,1,Fortaleza,José de Alencar,138000.0
+84,962076769,Casas,0.0,206,4,5 ou mais,4,Fortaleza,José de Alencar,1190000.0
+85,956277872,Apartamentos,0.0,56,2,2,2,Fortaleza,José de Alencar,259000.0
+86,976162030,Casas,0.0,145,3,2,4,Fortaleza,José de Alencar,395000.0
+87,894334481,Apartamentos,200.0,83,3,1,1,Fortaleza,José de Alencar,175000.0
+88,976150064,Casas,0.0,145,3,3,4,Fortaleza,José de Alencar,395000.0
+89,950547381,Apartamentos,750.0,100,3,4,2,Fortaleza,José de Alencar,690000.0
+90,898266640,Casas,630.0,120,3,3,4,Fortaleza,José de Alencar,380000.0
+91,954960108,Apartamentos,500.0,60,3,3,2,Fortaleza,José de Alencar,180000.0
+92,914732183,Apartamentos,730.0,100,3,4,2,Fortaleza,José de Alencar,730000.0
+93,976028378,Casas,0.0,208,3,5 ou mais,3,Fortaleza,José de Alencar,599000.0
+94,976003508,Casas,0.0,0,5 ou mais,3,1,Fortaleza,José de Alencar,150000.0
+95,956137256,Casas,0.0,209,3,4,3,Fortaleza,José de Alencar,599000.0
+96,925183809,Apartamentos,450.0,65,3,2,2,Fortaleza,José de Alencar,325000.0
+97,888808389,Apartamentos,800.0,56,2,2,2,Fortaleza,José de Alencar,259000.0
+98,967163420,Casas,0.0,200,4,4,5 ou mais,Fortaleza,José de Alencar,685000.0
+99,944143650,Casas,0.0,205,4,5 ou mais,4,Fortaleza,José de Alencar,1190000.0
+100,975791086,Casas,200.0,54,2,2,2,Fortaleza,José de Alencar,180000.0
+101,975789482,Casas,0.0,442,5 ou mais,5 ou mais,4,Fortaleza,José de Alencar,1300000.0
+102,975789440,Casas,0.0,228,3,1,4,Fortaleza,José de Alencar,650000.0
+103,975789433,Casas,735.0,135,3,4,2,Fortaleza,José de Alencar,520000.0
+104,975775647,Casas,0.0,205,4,4,3,Fortaleza,José de Alencar,1450004.0
+105,961458891,Casas,200.0,53,2,2,2,Fortaleza,José de Alencar,189900.0
+106,946422737,Apartamentos,350.0,121,2,2,1,Fortaleza,José de Alencar,229000.0
+107,928566898,Casas,750.0,121,4,4,2,Fortaleza,José de Alencar,559000.0
+108,960984714,Casas,978.0,206,4,,3,Fortaleza,José de Alencar,1450000.0
+109,889131540,Apartamentos,280.0,52,2,2,1,Fortaleza,José de Alencar,220000.0
+110,897758460,Casas,700.0,123,3,5 ou mais,2,Fortaleza,José de Alencar,410000.0
+111,888809376,Casas,700.0,132,3,4,2,Fortaleza,José de Alencar,520000.0
+112,896318629,Casas,0.0,215,4,5 ou mais,4,Fortaleza,José de Alencar,549999.0
+113,897351118,Casas,700.0,128,3,3,5 ou mais,Fortaleza,José de Alencar,395000.0
+114,947398638,Casas,0.0,270,4,4,3,Fortaleza,José de Alencar,1300000.0
+115,969802517,Casas,200.0,90,3,2,3,Fortaleza,José de Alencar,270000.0
+116,970721733,Casas,0.0,120,3,2,3,Fortaleza,José de Alencar,320000.0
+117,963172067,Casas,700.0,123,3,3,3,Fortaleza,José de Alencar,410000.0
+118,952585542,Casas,600.0,110,3,3,2,Fortaleza,José De Alencar,220000.0
+119,951426473,Apartamentos,350.0,66,2,2,1,Fortaleza,José de Alencar,260000.0
+120,916177706,Casas,0.0,118,3,4,3,Fortaleza,José de Alencar,390000.0
+121,975404140,Casas,0.0,0,2,1,,Fortaleza,José de Alencar,0.0
+122,914646423,Casas,1500.0,284,4,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1399000.0
+123,952545979,Apartamentos,600.0,120,2,3,2,Fortaleza,José de Alencar,350000.0
+124,917084980,Casas,1300.0,250,3,4,3,Fortaleza,José de Alencar,1499000.0
+125,898266702,Casas,650.0,95,3,3,2,Fortaleza,José de Alencar,295000.0
+126,795131349,Casas,750.0,133,4,4,2,Fortaleza,José de Alencar,650000.0
+127,866544434,Casas,0.0,270,4,4,3,Fortaleza,José de Alencar,1300000.0
+128,961413613,Casas,0.0,800,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1790000.0
+129,964462358,Casas,0.0,145,4,4,5 ou mais,Fortaleza,José de Alencar,485000.0
+130,975216993,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190099.0
+131,954006274,Casas,0.0,205,4,5 ou mais,4,Fortaleza,José de Alencar,1450000.0
+132,926041387,Casas,800.0,200,4,,4,Fortaleza,José de Alencar,650000.0
+133,961183359,Casas,750.0,145,4,4,3,Fortaleza,José de Alencar,560000.0
+134,759749283,Casas,530.0,80,3,3,2,Fortaleza,José de Alencar,270000.0
+135,953371765,Casas,0.0,121,3,4,2,Fortaleza,José de Alencar,495000.0
+136,837327236,Casas,500.0,0,3,5 ou mais,2,Fortaleza,José de Alencar,380000.0
+137,972387205,Casas,1550.0,300,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1650000.0
+138,894334909,Casas,900.0,140,3,1,2,Fortaleza,José de Alencar,520000.0
+139,899732857,Casas,900.0,140,3,3,3,Fortaleza,José de Alencar,499000.0
+140,942749464,Casas,0.0,130,3,4,3,Fortaleza,José de Alencar,450000.0
+141,774368640,Apartamentos,0.0,100,3,3,2,Fortaleza,José de Alencar,729000.0
+142,952138845,Casas,0.0,53,2,2,2,Fortaleza,José de Alencar,179900.0
+143,928795390,Casas,1550.0,300,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1650000.0
+144,955922053,Apartamentos,290.0,52,2,2,1,Fortaleza,José de Alencar,170000.0
+145,964619521,Casas,440.0,202,4,3,4,Fortaleza,José de Alencar,375000.0
+146,929707941,Casas,1300.0,225,3,5 ou mais,2,Fortaleza,José de Alencar,1100000.0
+147,760243092,Apartamentos,730.0,100,3,,2,Fortaleza,José de Alencar,699000.0
+148,789392127,Casas,1500.0,230,4,5 ou mais,,Fortaleza,José de Alencar,999000.0
+149,956266388,Casas,0.0,145,3,2,3,Fortaleza,José de Alencar,430000.0
+150,888810012,Apartamentos,830.0,56,2,2,2,Fortaleza,José de Alencar,230000.0
+151,920540004,Casas,1.0,120,3,3,4,Fortaleza,José de Alencar,380000.0
+152,848343573,Casas,0.0,195,3,3,3,Fortaleza,José de Alencar,350000.0
+153,958176867,Apartamentos,830.0,60,3,2,1,Fortaleza,José de Alencar,250000.0
+154,962813463,Apartamentos,0.0,121,3,2,1,Fortaleza,José de Alencar,168000.0
+155,917144207,Casas,0.0,270,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1179000.0
+156,894332653,Casas,1400.0,243,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1550000.0
+157,949160886,Apartamentos,120.0,50,2,1,1,Fortaleza,José de Alencar,185000.0
+158,954960188,Casas,790.0,176,4,4,3,Fortaleza,José de Alencar,700000.0
+159,974646188,Casas,0.0,200,2,2,0,Fortaleza,José de Alencar,80000.0
+160,894333197,Casas,700.0,128,3,3,3,Fortaleza,José de Alencar,370000.0
+161,974637418,Casas,600.0,160,3,4,2,Fortaleza,José de Alencar,530000.0
+162,894336279,Casas,640.0,103,3,3,2,Fortaleza,José de Alencar,330000.0
+163,894332775,Apartamentos,550.0,60,3,2,1,Fortaleza,José de Alencar,185000.0
+164,961436109,Casas,0.0,800,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1790000.0
+165,933321626,Apartamentos,350.0,78,3,2,2,Fortaleza,José de Alencar,220000.0
+166,946635032,Casas,0.0,175,4,2,2,Fortaleza,José de Alencar,650000.0
+167,947398800,Casas,735.0,132,3,3,2,Fortaleza,José de Alencar,520000.0
+168,974538596,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520882.0
+169,894333876,Casas,0.0,196,4,4,4,Fortaleza,José de Alencar,600000.0
+170,950665431,Casas,0.0,180,4,4,3,Fortaleza,José de Alencar,450000.0
+171,949625635,Apartamentos,0.0,68,3,1,2,Fortaleza,José de Alencar,199000.0
+172,926218172,Apartamentos,326.0,57,2,2,1,Fortaleza,José de Alencar,138000.0
+173,929707931,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1450000.0
+174,974408201,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190882.0
+175,960984676,Casas,0.0,120,3,,1,Fortaleza,José de Alencar,370000.0
+176,669249947,Casas,0.0,44,2,1,3,Fortaleza,José de Alencar,350000.0
+177,880984402,Casas,0.0,130,3,2,5 ou mais,Fortaleza,José de Alencar,340000.0
+178,962076653,Casas,0.0,247,4,5 ou mais,4,Fortaleza,José de Alencar,1305225.0
+179,897614923,Casas,0.0,260,5 ou mais,5 ou mais,4,Fortaleza,José de Alencar,530000.0
+180,960383132,Casas,0.0,55,2,2,2,Fortaleza,José de Alencar,189900.0
+181,823410956,Apartamentos,600.0,100,3,4,2,Fortaleza,José de Alencar,730000.0
+182,944863174,Casas,1475.0,225,3,4,4,Fortaleza,José de Alencar,1400000.0
+183,929919889,Casas,0.0,263,3,3,4,Fortaleza,José de Alencar,480000.0
+184,886579392,Casas,630.0,121,3,4,4,Fortaleza,José de Alencar,380000.0
+185,898267275,Casas,0.0,195,5 ou mais,5 ou mais,3,Fortaleza,José de Alencar,600000.0
+186,953153451,Casas,1.0,53,2,2,2,Fortaleza,José de Alencar,189000.0
+187,974119233,Apartamentos,328.0,60,2,2,1,Fortaleza,José de Alencar,230000.0
+188,894334381,Casas,0.0,120,3,4,2,Fortaleza,José de Alencar,400000.0
+189,954960054,Casas,0.0,140,3,2,5 ou mais,Fortaleza,José de Alencar,600000.0
+190,727653504,Casas,0.0,320,3,4,5 ou mais,Fortaleza,José de Alencar,1280000.0
+191,886441659,Apartamentos,420.0,65,3,,2,Fortaleza,José de Alencar,360000.0
+192,959974501,Casas,0.0,230,3,4,3,Fortaleza,José de Alencar,485000.0
+193,947239876,Casas,800.0,230,3,4,2,Fortaleza,José de Alencar,680000.0
+194,892793728,Casas,735.0,135,3,4,2,Fortaleza,José de Alencar,520000.0
+195,956257396,Apartamentos,1500.0,230,4,5 ou mais,3,Fortaleza,José de Alencar,1100000.0
+196,874998106,Casas,0.0,260,4,,5 ou mais,Fortaleza,José de Alencar,600000.0
+197,973951557,Casas,0.0,2,3,2,1,Fortaleza,José de Alencar,0.0
+198,922093979,Casas,0.0,215,3,4,2,Fortaleza,José de Alencar,350000.0
+199,973803507,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190395.0
+200,936092351,Apartamentos,280.0,64,3,2,1,Fortaleza,José de Alencar,295000.0
+201,954960064,Apartamentos,500.0,122,3,2,2,Fortaleza,José de Alencar,320000.0
+202,970511457,Casas,600.0,90,3,2,2,Fortaleza,José de Alencar,300000.0
+203,962877929,Apartamentos,350.0,129,3,2,1,Fortaleza,José de Alencar,235000.0
+204,954960015,Casas,0.0,119,3,4,3,Fortaleza,José de Alencar,410000.0
+205,954220681,Casas,800.0,133,4,4,2,Fortaleza,José de Alencar,560000.0
+206,954960166,Casas,0.0,264,4,5 ou mais,5 ou mais,Fortaleza,José de Alencar,480000.0
+207,956265730,Casas,0.0,145,3,2,3,Fortaleza,José de Alencar,430000.0
+208,884231019,Casas,900.0,148,3,4,2,Fortaleza,José de Alencar,530000.0
+209,959072240,Casas,500.0,132,3,5 ou mais,2,Fortaleza,José de Alencar,380000.0
+210,954960008,Casas,450.0,115,3,2,2,Fortaleza,José de Alencar,280000.0
+211,644614730,Casas,0.0,114,3,3,2,Fortaleza,José de Alencar,450000.0
+212,973553125,Apartamentos,0.0,100,3,2,2,Fortaleza,José de Alencar,799000.0
+213,684230795,Apartamentos,500.0,89,3,3,2,Fortaleza,José de Alencar,565000.0
+214,897468372,Casas,630.0,120,3,3,4,Fortaleza,José de Alencar,380000.0
+215,860144980,Casas,0.0,260,3,4,3,Fortaleza,José de Alencar,450000.0
+216,800697048,Casas,800.0,200,4,5 ou mais,4,Fortaleza,Edson Queiroz,650000.0
+217,973419853,Apartamentos,800.0,125,3,5 ou mais,1,Fortaleza,José de Alencar,499000.0
+218,973419855,Casas,430.0,120,3,2,3,Fortaleza,José de Alencar,320000.0
+219,932285306,Casas,1500.0,226,4,5 ou mais,2,Fortaleza,José de Alencar,999000.0
+220,907567819,Casas,0.0,215,4,4,0,Fortaleza,José de Alencar,1190000.0
+221,953689653,Apartamentos,330.0,57,2,2,2,Fortaleza,José de Alencar,160000.0
+222,926213528,Apartamentos,860.0,56,2,1,2,Fortaleza,José de Alencar,259000.0
+223,967349865,Casas,0.0,209,4,3,3,Fortaleza,José de Alencar,599000.0
+224,973253828,Apartamentos,0.0,58,2,2,1,Fortaleza,José de Alencar,290000.0
+225,894334550,Casas,0.0,110,3,2,3,Fortaleza,José de Alencar,350000.0
+226,962076596,Casas,0.0,208,4,5 ou mais,4,Fortaleza,José de Alencar,1065067.0
+227,961591222,Casas,800.0,125,4,5 ou mais,2,Fortaleza,José de Alencar,470000.0
+228,973130106,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520746.0
+229,821041285,Casas,0.0,113,4,5 ou mais,4,Fortaleza,José de Alencar,840000.0
+230,926218169,Apartamentos,326.0,57,2,2,1,Fortaleza,José de Alencar,138000.0
+231,949535775,Apartamentos,330.0,57,2,2,0,Fortaleza,José de Alencar,155000.0
+232,903227907,Apartamentos,0.0,89,3,4,2,Fortaleza,José de Alencar,565000.0
+233,902743626,Casas,550.0,175,4,4,0,Fortaleza,José de Alencar,600000.0
+234,883177291,Casas,900.0,205,4,5 ou mais,4,Fortaleza,José de Alencar,1300000.0
+235,724321343,Casas,0.0,1584,4,4,5 ou mais,Fortaleza,José de Alencar,1399999.0
+236,936416893,Apartamentos,490.0,61,3,2,1,Fortaleza,José de Alencar,250000.0
+237,973029253,Casas,330.0,60,2,2,1,Fortaleza,José de Alencar,185000.0
+238,958176840,Apartamentos,800.0,56,3,2,1,Fortaleza,José de Alencar,260000.0
+239,690517149,Casas,0.0,104,3,3,4,Fortaleza,José de Alencar,270000.0
+240,972899391,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190747.0
+241,915498697,Apartamentos,330.0,55,2,2,2,Fortaleza,José de Alencar,165000.0
+242,959974420,Casas,1500.0,230,4,5 ou mais,3,Fortaleza,José de Alencar,1100000.0
+243,955616754,Casas,200.0,90,3,2,4,Fortaleza,José de Alencar,270000.0
+244,962076726,Apartamentos,388.0,68,2,2,1,Fortaleza,José de Alencar,320000.0
+245,955354850,Casas,200.0,106,3,2,2,Fortaleza,José de Alencar,270000.0
+246,831598579,Casas,735.0,132,3,3,2,Fortaleza,José de Alencar,520000.0
+247,972774511,Casas,0.0,1584,4,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1400000.0
+248,972773050,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520557.0
+249,964021510,Casas,330.0,60,2,2,1,Fortaleza,José de Alencar,160000.0
+250,662149211,Casas,650.0,120,3,3,2,Fortaleza,José de Alencar,499999.0
+251,893484948,Casas,0.0,260,3,5 ou mais,4,Fortaleza,José de Alencar,530000.0
+252,886417688,Casas,730.0,133,3,4,2,Fortaleza,José de Alencar,630000.0
+253,907566309,Casas,0.0,206,4,5 ou mais,4,Fortaleza,José de Alencar,836732.0
+254,899046240,Casas,860.0,133,3,4,2,Fortaleza,José de Alencar,590000.0
+255,894331380,Casas,0.0,119,4,4,4,Fortaleza,José de Alencar,410000.0
+256,972562912,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190556.0
+257,867871114,Casas,0.0,230,4,4,3,Fortaleza,José de Alencar,1100000.0
+258,886579824,Casas,1500.0,230,4,4,3,Fortaleza,José de Alencar,1100000.0
+259,958176820,Apartamentos,800.0,56,3,2,2,Fortaleza,José de Alencar,260000.0
+260,689522351,Casas,0.0,210,4,4,4,Fortaleza,José de Alencar,780000.0
+261,972299031,Casas,0.0,214,3,3,3,Fortaleza,José de Alencar,430000.0
+262,972298581,Casas,1550.0,249,4,5 ou mais,3,Fortaleza,José de Alencar,1300000.0
+263,972298582,Casas,1475.0,225,5 ou mais,5 ou mais,2,Fortaleza,José de Alencar,1500000.0
+264,972298299,Casas,1500.0,300,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1550000.0
+265,972298117,Casas,1.0,467,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1138001.0
+266,972297839,Casas,0.0,163,2,3,2,Fortaleza,José de Alencar,410000.0
+267,972297563,Apartamentos,480.0,61,2,2,1,Fortaleza,José de Alencar,163084.0
+268,972297553,Casas,1550.0,241,4,5 ou mais,,Fortaleza,José de Alencar,1350000.0
+269,972297524,Apartamentos,830.0,56,3,2,2,Fortaleza,José de Alencar,310000.0
+270,972297319,Casas,1500.0,203,4,5 ou mais,4,Fortaleza,José de Alencar,800000.0
+271,972297199,Casas,1550.0,335,4,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1500000.0
+272,972297048,Casas,1550.0,230,3,5 ou mais,4,Fortaleza,José de Alencar,1350000.0
+273,950704829,Casas,1200.0,144,4,3,2,Fortaleza,José de Alencar,420000.0
+274,924123216,Casas,450.0,120,3,3,2,Fortaleza,José de Alencar,410000.0
+275,972041287,Casas,800.0,230,3,4,2,Fortaleza,José de Alencar,750000.0
+276,894333681,Casas,0.0,137,4,4,3,Fortaleza,José de Alencar,460000.0
+277,754706909,Apartamentos,0.0,100,3,4,2,Fortaleza,José de Alencar,851000.0
+278,958558265,Casas,430.0,120,3,2,3,Fortaleza,José de Alencar,320000.0
+279,971927075,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,5208884.0
+280,971899549,Casas,365.0,100,2,2,1,Fortaleza,José de Alencar,300000.0
+281,888808144,Casas,840.0,150,4,5 ou mais,3,Fortaleza,José de Alencar,465000.0
+282,888809576,Casas,0.0,197,4,4,4,Fortaleza,José de Alencar,600000.0
+283,907566199,Casas,0.0,350,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,690000.0
+284,791067447,Apartamentos,750.0,92,3,3,2,Fortaleza,José de Alencar,380000.0
+285,669249640,Casas,335.0,135,3,1,2,Fortaleza,José de Alencar,330000.0
+286,955433655,Casas,200.0,93,3,2,3,Fortaleza,José de Alencar,270000.0
+287,880984478,Casas,0.0,240,3,5 ou mais,3,Fortaleza,José de Alencar,690000.0
+288,907996808,Casas,0.0,270,5 ou mais,5 ou mais,4,Fortaleza,José de Alencar,1179000.0
+289,697051604,Apartamentos,0.0,60,3,2,2,Fortaleza,José De Alencar,200000.0
+290,806121559,Casas,450.0,100,2,3,2,Fortaleza,José de Alencar,370000.0
+291,879196216,Apartamentos,300.0,70,3,2,1,Fortaleza,José de Alencar,300000.0
+292,971533785,Apartamentos,0.0,68,3,2,0,Fortaleza,José de Alencar,238000.0
+293,971533786,Casas,544.0,96,3,4,4,Fortaleza,José de Alencar,339000.0
+294,971515789,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190884.0
+295,943053373,Casas,630.0,120,3,3,4,Fortaleza,José de Alencar,380000.0
+296,971405336,Apartamentos,900.0,159,3,3,2,Fortaleza,José de Alencar,665000.0
+297,971367759,Casas,0.0,205,4,5 ou mais,4,Fortaleza,José de Alencar,1450000.0
+298,894332919,Casas,1500.0,307,4,4,5 ou mais,Fortaleza,José de Alencar,1500000.0
+299,879956009,Apartamentos,860.0,56,3,2,2,Fortaleza,José de Alencar,259000.0
+300,909177497,Casas,1500.0,230,4,4,3,Fortaleza,José de Alencar,1100000.0
+301,886575317,Apartamentos,200.0,48,2,2,2,Fortaleza,José de Alencar,239000.0
+302,930969981,Apartamentos,434.0,57,2,2,1,Fortaleza,José de Alencar,270000.0
+303,932285021,Apartamentos,720.0,100,3,3,2,Fortaleza,José de Alencar,730000.0
+304,934510751,Casas,0.0,300,4,4,5 ou mais,Fortaleza,José de Alencar,1180000.0
+305,957702796,Casas,1550.0,242,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1550000.0
+306,958189883,Casas,820.0,125,3,4,2,Fortaleza,José de Alencar,470000.0
+307,894330751,Casas,0.0,137,3,4,2,Fortaleza,José de Alencar,590000.0
+308,970978465,Casas,330.0,57,2,2,2,Fortaleza,José de Alencar,157000.0
+309,946267754,Apartamentos,500.0,110,4,4,2,Fortaleza,José de Alencar,690000.0
+310,886575472,Casas,0.0,160,3,3,3,Fortaleza,José de Alencar,400000.0
+311,924816537,Casas,600.0,105,3,3,2,Fortaleza,José de Alencar,330000.0
+312,499605473,Apartamentos,350.0,123,3,2,1,Fortaleza,José de Alencar,228517.0
+313,635802323,Casas,860.0,133,4,4,2,Fortaleza,José de Alencar,590000.0
+314,929879081,Apartamentos,600.0,82,3,,1,Fortaleza,José de Alencar,255000.0
+315,822523271,Casas,690.0,135,3,4,2,Fortaleza,José de Alencar,569000.0
+316,940548931,Apartamentos,350.0,130,3,2,1,Fortaleza,José de Alencar,220000.0
+317,936416602,Apartamentos,430.0,61,3,2,1,Fortaleza,José de Alencar,220000.0
+318,894333311,Casas,520.0,89,3,2,2,Fortaleza,José de Alencar,290000.0
+319,970220546,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190177.0
+320,925662632,Apartamentos,0.0,62,3,2,1,Fortaleza,José de Alencar,259000.0
+321,874338480,Apartamentos,0.0,100,3,3,2,Fortaleza,José de Alencar,730000.0
+322,925121577,Casas,0.0,105,3,3,2,Fortaleza,José de Alencar,330000.0
+323,886575458,Casas,1050.0,180,4,4,2,Fortaleza,José de Alencar,699000.0
+324,923702728,Casas,200.0,130,3,2,2,Fortaleza,José de Alencar,270000.0
+325,959144817,Apartamentos,210.0,72,2,2,1,Fortaleza,José de Alencar,210000.0
+326,514715771,Casas,1500.0,270,3,,4,Fortaleza,José de Alencar,1700000.0
+327,888807982,Apartamentos,600.0,100,3,4,2,Fortaleza,José de Alencar,799000.0
+328,959974256,Apartamentos,730.0,100,3,4,2,Fortaleza,José de Alencar,710000.0
+329,553793485,Casas,1500.0,226,4,5 ou mais,4,Fortaleza,José de Alencar,1300000.0
+330,636757541,Apartamentos,0.0,56,2,2,1,Fortaleza,José de Alencar,168000.0
+331,760661169,Apartamentos,490.0,94,3,3,2,Fortaleza,José de Alencar,580000.0
+332,553535418,Casas,900.0,205,4,5 ou mais,4,Fortaleza,José de Alencar,1050000.0
+333,969286932,Casas,450.0,202,4,3,3,Fortaleza,José de Alencar,370000.0
+334,969176941,Casas,0.0,0,2,2,,Fortaleza,José de Alencar,0.0
+335,680239932,Casas,0.0,225,4,4,3,Fortaleza,José de Alencar,1099000.0
+336,894330357,Casas,0.0,520,4,4,5 ou mais,Fortaleza,José de Alencar,850000.0
+337,968818650,Casas,0.0,311,4,4,5 ou mais,Fortaleza,José de Alencar,780000.0
+338,968811218,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520174.0
+339,968799599,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190174.0
+340,888807490,Apartamentos,600.0,100,3,4,2,Fortaleza,José de Alencar,745000.0
+341,917704324,Casas,0.0,260,4,4,5 ou mais,Fortaleza,José de Alencar,420000.0
+342,925662630,Apartamentos,0.0,52,2,2,1,Fortaleza,José de Alencar,244000.0
+343,894332380,Casas,0.0,130,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,950000.0
+344,968679594,Casas,250.0,120,3,2,2,Fortaleza,José de Alencar,260000.0
+345,968679551,Apartamentos,0.0,58,2,1,1,Fortaleza,José de Alencar,250000.0
+346,626523901,Casas,0.0,110,3,3,3,Fortaleza,José de Alencar,280000.0
+347,906027099,Casas,0.0,137,4,3,2,Fortaleza,José de Alencar,399000.0
+348,968512781,Apartamentos,0.0,0,2,2,0,Fortaleza,José De Alencar,196200.0
+349,925662631,Apartamentos,0.0,51,2,2,1,Fortaleza,José de Alencar,238000.0
+350,760962177,Apartamentos,250.0,68,3,2,2,Fortaleza,José de Alencar,280000.0
+351,907568184,Casas,0.0,110,3,2,3,Fortaleza,José de Alencar,300000.0
+352,951783764,Casas,0.0,112,3,1,2,Fortaleza,José de Alencar,370000.0
+353,891053045,Apartamentos,290.0,52,2,1,1,Fortaleza,José de Alencar,200000.0
+354,968150390,Casas,800.0,140000,4,5 ou mais,3,Fortaleza,José de Alencar,470000.0
+355,955796228,Apartamentos,0.0,95,3,3,2,Fortaleza,José de Alencar,579000.0
+356,854966324,Apartamentos,0.0,60,3,3,1,Fortaleza,José de Alencar,235000.0
+357,923282313,Casas,822.0,133,3,4,2,Fortaleza,José de Alencar,650000.0
+358,968102474,Casas,1900.0,277,3,3,3,Fortaleza,José de Alencar,1100000.0
+359,888808760,Casas,1000.0,118,3,3,0,Fortaleza,José de Alencar,690000.0
+360,941151097,Apartamentos,0.0,100,3,3,2,Fortaleza,José de Alencar,720000.0
+361,956781622,Casas,400.0,202,4,3,3,Fortaleza,José de Alencar,370000.0
+362,577169847,Casas,0.0,240,3,5 ou mais,3,Fortaleza,José de Alencar,690000.0
+363,937355112,Apartamentos,350.0,78,3,2,2,Fortaleza,José de Alencar,250000.0
+364,611904022,Apartamentos,0.0,136,3,2,2,Fortaleza,José de Alencar,289000.0
+365,613438031,Casas,0.0,120,3,3,2,Fortaleza,José de Alencar,439000.0
+366,593468801,Apartamentos,350.0,57,2,2,1,Fortaleza,José de Alencar,168000.0
+367,967847883,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520897.0
+368,967820848,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190897.0
+369,894331368,Casas,0.0,137,4,3,3,Fortaleza,José de Alencar,395000.0
+370,894339541,Casas,850.0,117,3,3,5 ou mais,Fortaleza,José de Alencar,420000.0
+371,914769219,Apartamentos,500.0,110,4,4,2,Fortaleza,José de Alencar,700000.0
+372,967779116,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520085.0
+373,954404961,Apartamentos,730.0,100,3,4,2,Fortaleza,José de Alencar,851000.0
+374,945169081,Casas,0.0,208,3,4,3,Fortaleza,José de Alencar,599000.0
+375,967639203,Casas,800.0,230,3,4,2,Fortaleza,José de Alencar,750000.0
+376,913897578,Casas,740.0,135,3,4,2,Fortaleza,José de Alencar,520000.0
+377,967439537,Apartamentos,350.0,56,2,2,1,Fortaleza,José de Alencar,168000.0
+378,967439542,Casas,430.0,120,3,2,0,Fortaleza,José de Alencar,325000.0
+379,967350870,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190085.0
+380,967331460,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520395.0
+381,894341009,Casas,470.0,103,3,2,2,Fortaleza,José de Alencar,310000.0
+382,967107942,Apartamentos,450.0,58,2,1,1,Fortaleza,José de Alencar,250000.0
+383,886574224,Casas,0.0,151,3,4,3,Fortaleza,José de Alencar,540000.0
+384,923483074,Casas,800.0,230,3,3,2,Fortaleza,José de Alencar,750000.0
+385,967061399,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190879.0
+386,966997735,Casas,690.0,105,2,3,2,Fortaleza,José de Alencar,370000.0
+387,944923507,Casas,0.0,163,3,3,3,Fortaleza,José de Alencar,295000.0
+388,966928732,Apartamentos,860.0,58,3,2,2,Fortaleza,José de Alencar,320000.0
+389,911607706,Casas,750.0,160,4,4,3,Fortaleza,José de Alencar,560000.0
+390,923224894,Casas,700.0,128,4,3,3,Fortaleza,José de Alencar,420000.0
+391,894331413,Apartamentos,350.0,72,3,2,2,Fortaleza,José de Alencar,250000.0
+392,894340107,Casas,0.0,600,5 ou mais,5 ou mais,4,Fortaleza,José de Alencar,1100000.0
+393,683209346,Apartamentos,830.0,56,2,2,2,Fortaleza,José de Alencar,198000.0
+394,916735459,Casas,0.0,520,3,3,2,Fortaleza,José de Alencar,599900.0
+395,887233525,Casas,0.0,130,3,4,4,Fortaleza,José de Alencar,449000.0
+396,966437005,Casas,0.0,95,3,3,2,Fortaleza,José de Alencar,295000.0
+397,966369025,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520874.0
+398,954405058,Casas,855.0,121,3,5 ou mais,1,Fortaleza,José de Alencar,469000.0
+399,966249444,Casas,430.0,120,3,2,3,Fortaleza,José de Alencar,330000.0
+400,907568371,Casas,500.0,120,3,3,2,Fortaleza,José de Alencar,285000.0
+401,894797774,Casas,600.0,106,3,3,3,Fortaleza,José de Alencar,340000.0
+402,604118963,Casas,500.0,92,3,3,2,Fortaleza,José de Alencar,350000.0
+403,845125346,Casas,1550.0,300,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1650000.0
+404,940768855,Apartamentos,0.0,129,3,2,3,Fortaleza,José de Alencar,380000.0
+405,966022121,Casas,1180.0,229,4,4,4,Fortaleza,José de Alencar,1310000.0
+406,965953958,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520887.0
+407,918702855,Apartamentos,0.0,100,3,3,2,Fortaleza,José de Alencar,730000.0
+408,886572849,Casas,0.0,201,4,4,3,Fortaleza,José de Alencar,1450000.0
+409,888814057,Apartamentos,600.0,100,3,4,2,Fortaleza,José de Alencar,751000.0
+410,921382643,Casas,0.0,118,4,4,3,Fortaleza,José de Alencar,430000.0
+411,921026102,Apartamentos,210.0,88,3,2,2,Fortaleza,José de Alencar,280000.0
+412,965661542,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190444.0
+413,965305294,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520877.0
+414,965303637,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190777.0
+415,958345143,Casas,820.0,125,3,4,2,Fortaleza,José de Alencar,470000.0
+416,923621508,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,650000.0
+417,909161050,Casas,0.0,165,4,4,3,Fortaleza,José de Alencar,455000.0
+418,955795688,Casas,0.0,250,4,4,5 ou mais,Fortaleza,José de Alencar,1200000.0
+419,964626749,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190848.0
+420,964620860,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520446.0
+421,947885339,Casas,250.0,70,3,2,2,Fortaleza,José de Alencar,265000.0
+422,964534568,Apartamentos,350.0,129,3,2,1,Fortaleza,José de Alencar,220000.0
+423,948930944,Casas,1200.0,200,4,3,4,Fortaleza,José de Alencar,670000.0
+424,887233504,Casas,1550.0,300,5 ou mais,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1550000.0
+425,964298043,Casas,400.0,224,3,2,2,Fortaleza,José de Alencar,370000.0
+426,938251291,Apartamentos,0.0,100,3,4,2,Fortaleza,José de Alencar,699002.0
+427,964126566,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190574.0
+428,937063378,Casas,200.0,54,2,2,2,Fortaleza,José de Alencar,180000.0
+429,938221108,Apartamentos,0.0,68,3,2,2,Fortaleza,José de Alencar,199000.0
+430,963038172,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520649.0
+431,711984553,Casas,600.0,129,3,2,3,Fortaleza,José de Alencar,450000.0
+432,962994235,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190475.0
+433,962829532,Casas,0.0,120,3,3,4,Fortaleza,José de Alencar,380000.0
+434,910918467,Casas,390.0,207,4,5 ou mais,2,Fortaleza,José de Alencar,450000.0
+435,911076656,Casas,1500.0,300,4,5 ou mais,4,Fortaleza,José de Alencar,1400000.0
+436,888809318,Apartamentos,600.0,100,3,4,2,Fortaleza,José de Alencar,753000.0
+437,886400957,Casas,0.0,228,3,1,4,Fortaleza,José de Alencar,650000.0
+438,962185389,Casas,0.0,243,5 ou mais,5 ou mais,3,Fortaleza,José de Alencar,400000.0
+439,962181991,Apartamentos,0.0,0,2,2,1,Fortaleza,José de Alencar,168006.0
+440,962059589,Casas,1200.0,240,3,5 ou mais,2,Fortaleza,José de Alencar,750000.0
+441,962049647,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520679.0
+442,961971751,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190685.0
+443,724761278,Apartamentos,320.0,83,3,2,2,Fortaleza,José de Alencar,328000.0
+444,733751831,Apartamentos,0.0,50,2,2,1,Fortaleza,José de Alencar,219900.0
+445,850252812,Casas,0.0,230,4,5 ou mais,3,Fortaleza,José de Alencar,1100000.0
+446,961954098,Casas,250.0,170,3,2,2,Fortaleza,José de Alencar,260000.0
+447,961924274,Apartamentos,350.0,56,2,2,1,Fortaleza,José de Alencar,139000.0
+448,838635943,Apartamentos,350.0,54,2,1,1,Fortaleza,José de Alencar,160000.0
+449,961795927,Casas,1.0,55,2,2,2,Fortaleza,José de Alencar,189900.0
+450,961508526,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520869.0
+451,669246918,Casas,0.0,200,3,1,4,Fortaleza,José de Alencar,620000.0
+452,961389776,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190560.0
+453,939103457,Casas,750.0,0,3,3,3,Fortaleza,José de Alencar,420000.0
+454,809774831,Casas,535.0,80,3,3,2,Fortaleza,José de Alencar,269000.0
+455,960986754,Casas,0.0,205,4,5 ou mais,4,Fortaleza,José de Alencar,1300000.0
+456,898266677,Casas,800.0,230,3,4,2,Fortaleza,José de Alencar,750000.0
+457,960707560,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520640.0
+458,960629335,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190550.0
+459,959959107,Casas,0.0,330,4,,3,Fortaleza,José de Alencar,420000.0
+460,677476403,Apartamentos,270.0,122,2,2,1,Fortaleza,José De Alencar,229000.0
+461,959872111,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520320.0
+462,959747684,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190520.0
+463,669246489,Casas,1055.0,280,4,1,4,Fortaleza,José de Alencar,700000.0
+464,959407805,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520120.0
+465,959340674,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190113.0
+466,775596224,Casas,1550.0,300,5 ou mais,1,5 ou mais,Fortaleza,José de Alencar,1550000.0
+467,959295533,Casas,0.0,0,0,0,0,Fortaleza,José de Alencar,550500.0
+468,959209416,Apartamentos,210.0,72,2,2,1,Fortaleza,José de Alencar,210000.0
+469,959144538,Apartamentos,860.0,56,3,1,2,Fortaleza,José de Alencar,230000.0
+470,793614181,Casas,0.0,130,4,4,3,Fortaleza,José de Alencar,410000.0
+471,895138015,Apartamentos,220.0,73,3,2,1,Fortaleza,José de Alencar,183000.0
+472,958861625,Casas,0.0,110,3,4,2,Fortaleza,José de Alencar,210000.0
+473,932188137,Casas,1500.0,320,4,5 ou mais,4,Fortaleza,José de Alencar,1250000.0
+474,958749940,Casas,600.0,130,4,3,3,Fortaleza,José de Alencar,395000.0
+475,958744746,Apartamentos,350.0,70,3,2,1,Fortaleza,José de Alencar,220000.0
+476,958744333,Apartamentos,400.0,65,3,2,2,Fortaleza,José de Alencar,335000.0
+477,853711065,Casas,740.0,150,3,,3,Fortaleza,José de Alencar,475000.0
+478,673586323,Apartamentos,200.0,63,3,2,1,Fortaleza,José De Alencar,169000.0
+479,958164066,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520633.0
+480,958135266,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190059.0
+481,958025630,Casas,820.0,125,3,4,2,Fortaleza,José de Alencar,470000.0
+482,957999654,Apartamentos,0.0,0,2,2,1,Fortaleza,José de Alencar,168005.0
+483,947126721,Casas,0.0,53,2,2,1,Fortaleza,José de Alencar,179900.0
+484,957527022,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190098.0
+485,957185051,Casas,0.0,105,2,1,2,Fortaleza,Messejana,100000.0
+486,691932175,Casas,800.0,200,4,4,4,Fortaleza,Edson Queiroz,565000.0
+487,739831425,Casas,600.0,90,3,2,2,Fortaleza,José de Alencar,300000.0
+488,956436019,Casas,0.0,90,3,3,4,Fortaleza,José de Alencar,270000.0
+489,832498770,Casas,0.0,330,4,1,2,Fortaleza,José de Alencar,460000.0
+490,956382387,Apartamentos,0.0,133,3,4,2,Fortaleza,José de Alencar,520066.0
+491,956358445,Casas,750.0,121,4,4,2,Fortaleza,José de Alencar,560000.0
+492,946161244,Apartamentos,730.0,100,3,3,2,Fortaleza,José de Alencar,710000.0
+493,956003630,Casas,0.0,90,3,3,2,Fortaleza,José De Alencar,220000.0
+494,669250157,Casas,0.0,162,3,1,4,Fortaleza,José de Alencar,350000.0
+495,955736018,Casas,689.0,96,3,3,2,Fortaleza,José de Alencar,320000.0
+496,955630993,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520058.0
+497,860879954,Apartamentos,0.0,55,2,1,1,Fortaleza,José de Alencar,228000.0
+498,955553488,Apartamentos,280.0,44,2,1,1,Fortaleza,José de Alencar,198000.0
+499,933703244,Apartamentos,0.0,0,2,2,1,Fortaleza,José de Alencar,155000.0
+500,955398401,Casas,0.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1190057.0
+501,955070078,Casas,800.0,105,3,3,2,Fortaleza,José de Alencar,330000.0
+502,955051972,Casas,200.0,93,3,2,2,Fortaleza,José de Alencar,270000.0
+503,955013313,Casas,600.0,120,3,4,4,Fortaleza,José de Alencar,380000.0
+504,954999287,Casas,0.0,133,3,4,2,Fortaleza,José de Alencar,520067.0
+505,954950805,Casas,0.0,205,4,3,3,Fortaleza,José de Alencar,1019086.0
+506,954575163,Casas,0.0,249,4,3,3,Fortaleza,José de Alencar,1150000.0
+507,954575117,Casas,822.0,133,3,3,2,Fortaleza,José de Alencar,650000.0
+508,673211833,Casas,1050.0,270,4,5 ou mais,4,Fortaleza,José de Alencar,570000.0
+509,669250057,Casas,0.0,140,3,1,4,Fortaleza,José de Alencar,560000.0
+510,669313394,Casas,650.0,205,4,1,3,Fortaleza,José de Alencar,1050000.0
+511,948411804,Apartamentos,720.0,100,3,3,3,Fortaleza,José de Alencar,851000.0
+512,948411793,Apartamentos,720.0,100,3,3,3,Fortaleza,José de Alencar,699000.0
+513,938117418,Casas,544.0,110,3,3,4,Fortaleza,José de Alencar,345000.0
+514,853459264,Casas,1500.0,0,4,4,3,Fortaleza,José de Alencar,1100000.0
+515,913856539,Casas,0.0,120,3,2,2,Fortaleza,José de Alencar,310000.0
+516,943833786,Apartamentos,0.0,56,2,1,1,Fortaleza,José de Alencar,168000.0
+517,812393499,Casas,735.0,132,3,,2,Fortaleza,José de Alencar,500000.0
+518,935172411,Casas,750.0,160,4,,3,Fortaleza,José de Alencar,560000.0
+519,929689667,Casas,1700.0,230,3,4,3,Fortaleza,José de Alencar,1350000.0
+520,928666119,Apartamentos,0.0,51,3,2,1,Fortaleza,José de Alencar,240380.0
+521,925664125,Apartamentos,0.0,837,3,2,2,Fortaleza,José de Alencar,280000.0
+522,925558315,Apartamentos,0.0,51,2,,1,Fortaleza,José de Alencar,348000.0
+523,886416424,Casas,0.0,442,5 ou mais,5 ou mais,4,Fortaleza,José de Alencar,1300000.0
+524,914858484,Casas,0.0,226,5 ou mais,5 ou mais,3,Fortaleza,José de Alencar,450000.0
+525,913883308,Casas,0.0,185,3,5 ou mais,3,Fortaleza,José de Alencar,590000.0
+526,911670798,Casas,980.0,205,4,5 ou mais,3,Fortaleza,José de Alencar,1130000.0
+527,905554135,Apartamentos,578.0,80,3,2,1,Fortaleza,José de Alencar,330000.0
+528,902715909,Casas,740.0,136,3,3,2,Fortaleza,José de Alencar,520000.0
+529,696991380,Casas,0.0,0,4,4,2,Fortaleza,José de Alencar,650000.0
+530,880624612,Casas,300.0,103,5 ou mais,,,Fortaleza,José de Alencar,200000.0
+531,763402271,Casas,700.0,123,3,3,3,Fortaleza,José de Alencar,410000.0
+532,697012146,Apartamentos,0.0,94,3,2,2,Fortaleza,José de Alencar,578509.0
+533,795050376,Casas,660.0,135,3,,2,Fortaleza,José de Alencar,640000.0
+534,640950886,Apartamentos,250.0,137,3,2,2,Fortaleza,José de Alencar,280000.0
+535,850997219,Apartamentos,300.0,8915,3,3,2,Fortaleza,José de Alencar,305263.0
+536,843545903,Casas,460.0,140,3,3,2,Fortaleza,José de Alencar,360000.0
+537,836929849,Casas,0.0,120,4,,3,Fortaleza,José de Alencar,395000.0
+538,794468469,Casas,0.0,205,4,4,2,Fortaleza,José de Alencar,1105000.0
+539,781408109,Casas,1550.0,335,3,,5 ou mais,Fortaleza,José de Alencar,1500000.0
+540,764585757,Casas,1300.0,270,4,,3,Fortaleza,José de Alencar,1350000.0
+541,764585681,Casas,1500.0,241,4,,4,Fortaleza,José de Alencar,1390000.0
+542,759197596,Apartamentos,250.0,75,3,2,1,Fortaleza,José de Alencar,205000.0
+543,719665483,Casas,400.0,130,4,5 ou mais,2,Fortaleza,José de Alencar,450000.0
+544,714210195,Apartamentos,525.0,75,3,2,1,Fortaleza,José de Alencar,289000.0
+545,656307753,Apartamentos,1300.0,270,4,5 ou mais,3,Fortaleza,José de Alencar,1350000.0
+546,639894650,Apartamentos,350.0,128,3,3,2,Fortaleza,José de Alencar,400000.0
+547,627014396,Casas,1200.0,160,4,5 ou mais,3,Fortaleza,José de Alencar,390000.0
+548,619662658,Casas,1417.0,400,4,5 ou mais,5 ou mais,Fortaleza,José de Alencar,1300000.0
+549,585998935,Apartamentos,250.0,68,3,2,1,Fortaleza,José de Alencar,239000.0

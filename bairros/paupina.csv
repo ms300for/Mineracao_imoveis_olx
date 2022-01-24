@@ -1,0 +1,491 @@
+,Código,Categoria,Condomínio,Área,Quartos,Banheiros,Vagas na garagem,Município,Bairro,Preço
+0,946635145,Apartamentos,220.0,48,2,2,1,Fortaleza,Paupina,165000.0
+1,950722486,Apartamentos,640.0,80,3,3,2,Fortaleza,Paupina,650000.0
+2,977600394,Casas,0.0,60,2,2,1,Fortaleza,Paupina,225000.0
+3,970513676,Casas,0.0,107,3,3,2,Fortaleza,São Bento,365000.0
+4,949164048,Casas,0.0,104,3,3,2,Fortaleza,São Bento,335000.0
+5,925185116,Casas,0.0,107,3,2,3,Fortaleza,São Bento,355000.0
+6,977530025,Apartamentos,304.0,42,2,1,1,Fortaleza,Paupina,160000.0
+7,977529573,Casas,0.0,90,3,3,3,Fortaleza,São Bento,295000.0
+8,977519095,Apartamentos,0.0,47,2,2,1,Fortaleza,Paupina,175284.0
+9,977519087,Apartamentos,0.0,51,2,2,1,Fortaleza,Paupina,175284.0
+10,946228163,Casas,0.0,145,3,3,2,Fortaleza,Coaçu,365000.0
+11,946587823,Casas,0.0,106,3,3,2,Fortaleza,São Bento,275000.0
+12,943670914,Casas,0.0,106,3,1,5 ou mais,Fortaleza,São Bento,360000.0
+13,974014011,Casas,0.0,140,3,4,2,Fortaleza,São Bento,415000.0
+14,942001934,Casas,0.0,127,3,3,4,Fortaleza,São Bento,345000.0
+15,967520930,Casas,0.0,140,3,4,2,Fortaleza,São Bento,415000.0
+16,935198864,Casas,0.0,106,3,1,2,Fortaleza,São Bento,320000.0
+17,938561328,Apartamentos,80.0,52,2,2,1,Fortaleza,Coaçu,149000.0
+18,955432817,Casas,220.0,75,2,2,2,Fortaleza,Coaçu,320000.0
+19,945754791,Casas,0.0,107,3,3,2,Fortaleza,São Bento,335000.0
+20,949625966,Casas,0.0,178,3,3,3,Fortaleza,São Bento,360000.0
+21,971780415,Casas,0.0,135,3,3,2,Fortaleza,São Bento,355000.0
+22,977405664,Casas,0.0,130,3,3,3,Fortaleza,São Bento,355000.0
+23,977405546,Casas,220.0,75,2,2,2,Fortaleza,Coaçu,350000.0
+24,977405381,Casas,0.0,110,3,3,3,Fortaleza,São Bento,310000.0
+25,955886349,Casas,0.0,144,3,4,2,Fortaleza,São Bento,450000.0
+26,959072358,Apartamentos,0.0,71,3,1,1,Fortaleza,Coaçu,220000.0
+27,942002091,Casas,0.0,147,3,4,3,Fortaleza,São Bento,415000.0
+28,922145748,Apartamentos,348.0,52,3,2,2,Fortaleza,Paupina,210000.0
+29,960603346,Casas,0.0,137,3,4,2,Fortaleza,São Bento,415000.0
+30,937131919,Casas,0.0,125,3,3,3,Fortaleza,São Bento,350000.0
+31,964562457,Casas,0.0,91,3,3,3,Fortaleza,São Bento,355000.0
+32,977254139,Casas,0.0,0,3,3,,Fortaleza,São Bento,395008.0
+33,977253482,Casas,0.0,0,3,3,,Fortaleza,São Bento,340006.0
+34,977253002,Casas,0.0,0,3,3,,Fortaleza,São Bento,338009.0
+35,977252668,Casas,0.0,0,2,2,,Fortaleza,São Bento,290007.0
+36,977252150,Casas,0.0,0,2,2,,Fortaleza,São Bento,85000.0
+37,977199680,Casas,0.0,107,3,3,3,Fortaleza,São Bento,329000.0
+38,886591804,Apartamentos,268.0,42,2,1,1,Fortaleza,Paupina,150000.0
+39,826225690,Casas,0.0,105,3,3,3,Fortaleza,São Bento,349986.0
+40,977171845,Apartamentos,0.0,47,2,1,1,Fortaleza,Coaçu,159000.0
+41,909177386,Apartamentos,0.0,41,2,1,1,Fortaleza,Paupina,157900.0
+42,950707294,Casas,0.0,145,3,4,2,Fortaleza,Coaçu,415000.0
+43,969912453,Casas,0.0,111,3,3,4,Fortaleza,São Bento,365000.0
+44,949919612,Casas,0.0,133,3,3,2,Fortaleza,Coaçu,390000.0
+45,914710383,Apartamentos,400.0,56,2,1,1,Fortaleza,Paupina,151500.0
+46,937686629,Casas,0.0,140,3,4,3,Fortaleza,São Bento,415000.0
+47,952654738,Casas,0.0,125,3,3,2,Fortaleza,São Bento,350000.0
+48,974021238,Casas,0.0,114,3,3,3,Fortaleza,São Bento,350000.0
+49,970001077,Casas,0.0,102,3,3,3,Fortaleza,São Bento,335000.0
+50,947060303,Apartamentos,400.0,58,3,2,1,Fortaleza,Paupina,200000.0
+51,952226067,Casas,0.0,135,3,3,3,Fortaleza,São Bento,355000.0
+52,977058308,Casas,0.0,111,3,3,0,Fortaleza,São Bento,349000.0
+53,977058284,Casas,0.0,104,3,3,2,Fortaleza,São Bento,360000.0
+54,977058269,Casas,0.0,103,3,3,2,Fortaleza,São Bento,335000.0
+55,977058264,Casas,0.0,111,3,3,2,Fortaleza,São Bento,355000.0
+56,977045562,Apartamentos,0.0,43,2,1,1,Fortaleza,Paupina,64999.0
+57,909177550,Apartamentos,0.0,52,2,2,1,Fortaleza,Paupina,173284.0
+58,976992848,Casas,0.0,112,3,3,3,Fortaleza,São Bento,370000.0
+59,912338070,Casas,0.0,107,3,3,3,Fortaleza,São Bento,355000.0
+60,909181927,Casas,0.0,105,3,3,2,Fortaleza,São Bento,335000.0
+61,942002047,Casas,0.0,97,2,3,2,Fortaleza,São Bento,230000.0
+62,976904256,Apartamentos,240.0,48,2,2,1,Fortaleza,Paupina,178000.0
+63,976899864,Casas,0.0,107,3,3,3,Fortaleza,São Bento,355000.0
+64,976898274,Casas,0.0,125,3,3,2,Fortaleza,São Bento,355000.0
+65,952719256,Casas,0.0,105,3,3,2,Fortaleza,São Bento,345000.0
+66,821207152,Casas,0.0,134,3,3,3,Fortaleza,São Bento,345005.0
+67,971780446,Casas,0.0,107,3,3,3,Fortaleza,São Bento,355000.0
+68,946496759,Casas,0.0,130,4,4,2,Fortaleza,Coaçu,395000.0
+69,970513721,Casas,0.0,105,3,3,3,Fortaleza,São Bento,345000.0
+70,927042028,Apartamentos,306.0,42,2,1,1,Fortaleza,Paupina,145000.0
+71,961183356,Casas,0.0,94,2,2,0,Fortaleza,Coaçu,220000.0
+72,966309759,Apartamentos,180.0,61,3,2,1,Fortaleza,Coaçu,190000.0
+73,976649724,Casas,0.0,103,3,3,2,Fortaleza,São Bento,338000.0
+74,945860156,Casas,0.0,107,3,3,0,Fortaleza,São Bento,335000.0
+75,896438719,Casas,0.0,150,3,4,3,Fortaleza,São Bento,415000.0
+76,953620681,Casas,0.0,103,3,2,3,Fortaleza,São Bento,365000.0
+77,716461503,Casas,0.0,138,3,4,3,Fortaleza,São Bento,415006.0
+78,950362905,Apartamentos,195.0,48,2,2,1,Fortaleza,Paupina,174500.0
+79,910284751,Casas,0.0,135,3,3,3,Fortaleza,São Bento,355000.0
+80,936416376,Apartamentos,0.0,42,2,1,1,Fortaleza,Paupina,153900.0
+81,912025813,Apartamentos,350.0,48,3,1,1,Fortaleza,Paupina,175000.0
+82,898266740,Casas,441.0,94,3,3,2,Fortaleza,Coaçu,443000.0
+83,969997405,Casas,0.0,150,3,3,4,Fortaleza,São Bento,415000.0
+84,940110618,Casas,0.0,60,2,1,1,Fortaleza,São Bento,155000.0
+85,949739460,Apartamentos,219.0,44,2,1,1,Fortaleza,Paupina,188000.0
+86,950446614,Casas,0.0,107,3,3,3,Fortaleza,São Bento,345000.0
+87,964433023,Casas,0.0,231,2,2,2,Fortaleza,São Bento,115000.0
+88,976247042,Apartamentos,250.0,48,2,2,1,Fortaleza,Paupina,179000.0
+89,957809585,Casas,0.0,197,3,3,2,Fortaleza,São Bento,380000.0
+90,931156411,Apartamentos,200.0,47,2,2,1,Fortaleza,Paupina,173284.0
+91,949669161,Apartamentos,265.0,48,2,1,1,Fortaleza,Paupina,179999.0
+92,976200461,Casas,0.0,240,3,2,2,Fortaleza,Paupina,170000.0
+93,949353382,Apartamentos,240.0,42,2,1,1,Fortaleza,Paupina,145000.0
+94,976195805,Casas,0.0,120,2,1,1,Fortaleza,São Bento,110000.0
+95,976193728,Casas,0.0,120,3,2,2,Fortaleza,Coaçu,18000.0
+96,976178408,Apartamentos,60.0,20,2,1,1,Fortaleza,Paupina,40000.0
+97,816381473,Casas,0.0,0,3,3,3,Fortaleza,São Bento,350003.0
+98,976139725,Apartamentos,250.0,48,2,2,1,Fortaleza,Paupina,179000.0
+99,976067155,Casas,0.0,140,3,4,3,Fortaleza,São Bento,415000.0
+100,885829883,Apartamentos,0.0,47,2,2,1,Fortaleza,Paupina,173284.0
+101,976013107,Apartamentos,0.0,0,2,1,1,Fortaleza,Paupina,20000.0
+102,894336546,Casas,0.0,102,3,3,3,Fortaleza,São Bento,320000.0
+103,911612186,Casas,0.0,142,3,4,3,Fortaleza,São Bento,415000.0
+104,975905598,Apartamentos,230.0,44,2,1,1,Fortaleza,Paupina,178000.0
+105,950362380,Casas,0.0,97,3,2,3,Fortaleza,São Bento,320000.0
+106,975802778,Apartamentos,250.0,48,3,1,1,Fortaleza,Paupina,250000.0
+107,949164179,Casas,0.0,135,3,3,2,Fortaleza,São Bento,345000.0
+108,935198750,Casas,0.0,107,3,3,2,Fortaleza,São Bento,365000.0
+109,907569137,Apartamentos,242.0,50,2,1,1,Fortaleza,Paupina,145000.0
+110,896318718,Apartamentos,240.0,49,2,2,1,Fortaleza,Paupina,190000.0
+111,855771044,Apartamentos,0.0,47,2,2,1,Fortaleza,Paupina,168214.0
+112,940455949,Apartamentos,100.0,55,2,2,2,Fortaleza,Coaçu,160000.0
+113,975702014,Casas,0.0,150,3,2,2,Fortaleza,Coaçu,25000.0
+114,949163814,Casas,0.0,125,3,3,2,Fortaleza,São Bento,345000.0
+115,949160946,Casas,0.0,135,3,3,2,Fortaleza,São Bento,345000.0
+116,961432520,Apartamentos,189.0,42,2,1,1,Fortaleza,Paupina,167000.0
+117,969163386,Apartamentos,378.0,60,2,2,1,Fortaleza,Paupina,199000.0
+118,956226492,Apartamentos,170.0,52,2,2,1,Fortaleza,Coaçu,165000.0
+119,916608617,Apartamentos,0.0,52,2,2,1,Fortaleza,Paupina,173284.0
+120,964426868,Casas,0.0,140,3,4,3,Fortaleza,São Bento,415000.0
+121,946433995,Apartamentos,0.0,41,2,1,1,Fortaleza,Paupina,166490.0
+122,950455483,Casas,0.0,105,3,3,3,Fortaleza,São Bento,345000.0
+123,975552215,Casas,0.0,105,3,3,2,Fortaleza,São Bento,365000.0
+124,938294041,Casas,0.0,111,3,3,3,Fortaleza,São Bento,350000.0
+125,946857695,Casas,0.0,105,3,3,2,Fortaleza,São Bento,340000.0
+126,949669076,Casas,0.0,128,3,3,0,Fortaleza,Coaçu,390000.0
+127,960814894,Apartamentos,100.0,52,2,2,2,Fortaleza,Coaçu,160000.0
+128,941509057,Apartamentos,250.0,45,2,1,1,Fortaleza,Paupina,150000.0
+129,962930663,Apartamentos,177.0,46,2,1,1,Fortaleza,Coaçu,168000.0
+130,937913716,Casas,0.0,250,3,4,3,Fortaleza,Coaçu,450000.0
+131,950362684,Casas,0.0,92,3,3,2,Fortaleza,São Bento,320000.0
+132,971780410,Casas,0.0,138,3,4,3,Fortaleza,São Bento,415000.0
+133,975299510,Casas,0.0,126,2,2,1,Fortaleza,São Bento,170000.0
+134,960845644,Casas,0.0,111,3,3,4,Fortaleza,São Bento,350000.0
+135,946858121,Casas,0.0,96,3,3,2,Fortaleza,São Bento,309000.0
+136,896438664,Casas,0.0,102,3,3,2,Fortaleza,São Bento,355000.0
+137,898266979,Casas,0.0,150,3,4,2,Fortaleza,São Bento,415000.0
+138,975254546,Apartamentos,0.0,0,2,2,1,Fortaleza,Paupina,180000.0
+139,854770676,Casas,0.0,135,3,3,2,Fortaleza,São Bento,345004.0
+140,935538558,Casas,0.0,107,3,3,3,Fortaleza,São Bento,350000.0
+141,954922788,Apartamentos,285.0,42,2,1,1,Fortaleza,Paupina,170000.0
+142,955884164,Casas,0.0,140,3,4,2,Fortaleza,São Bento,430000.0
+143,975158614,Apartamentos,60.0,0,2,1,1,Fortaleza,Paupina,45000.0
+144,945912021,Casas,0.0,320,3,2,4,Fortaleza,Coaçu,450000.0
+145,940454187,Casas,0.0,135,3,3,3,Fortaleza,São Bento,365000.0
+146,975098158,Apartamentos,0.0,62,2,1,,Fortaleza,São Bento,55000.0
+147,975091767,Apartamentos,0.0,48,2,2,1,Fortaleza,Paupina,175284.0
+148,929707954,Casas,0.0,102,3,3,2,Fortaleza,São Bento,345000.0
+149,973833336,Casas,0.0,107,3,3,2,Fortaleza,São Bento,365000.0
+150,962076786,Apartamentos,0.0,47,2,2,1,Fortaleza,Paupina,175000.0
+151,764398356,Apartamentos,271.0,48,2,1,0,Fortaleza,Paupina,170000.0
+152,963361621,Apartamentos,189.0,42,2,1,1,Fortaleza,Paupina,167000.0
+153,944443019,Casas,0.0,100,3,3,2,Fortaleza,São Bento,320000.0
+154,964957498,Apartamentos,170.0,48,2,1,1,Fortaleza,Coaçu,135000.0
+155,774523301,Apartamentos,0.0,48,2,2,1,Fortaleza,Paupina,175284.0
+156,946763792,Apartamentos,0.0,55,2,2,1,Fortaleza,Coaçu,160000.0
+157,949856117,Casas,0.0,111,3,4,4,Fortaleza,São Bento,365000.0
+158,946569772,Casas,0.0,105,3,3,2,Fortaleza,São Bento,340000.0
+159,958176890,Casas,0.0,102,3,3,3,Fortaleza,São Bento,375000.0
+160,709994770,Apartamentos,174.0,49,2,1,1,Fortaleza,Coaçu,155000.0
+161,925185109,Casas,0.0,103,3,3,2,Fortaleza,São Bento,370000.0
+162,952732214,Casas,0.0,118,3,3,2,Fortaleza,São Bento,370000.0
+163,947402877,Casas,0.0,110,3,3,2,Fortaleza,São Bento,355000.0
+164,964333447,Casas,0.0,103,3,2,2,Fortaleza,São Bento,327000.0
+165,934621929,Casas,630.0,95,3,,2,Fortaleza,Coaçu,370000.0
+166,877088943,Casas,0.0,107,3,3,3,Fortaleza,São Bento,365000.0
+167,958176859,Casas,0.0,107,3,3,3,Fortaleza,São Bento,355000.0
+168,955795073,Apartamentos,0.0,48,2,2,1,Fortaleza,Paupina,172800.0
+169,963535155,Casas,0.0,141,3,3,,Fortaleza,São Bento,415000.0
+170,962119319,Casas,0.0,100,3,2,3,Fortaleza,São Bento,310000.0
+171,949160944,Casas,0.0,125,3,3,2,Fortaleza,São Bento,330000.0
+172,967349882,Casas,0.0,240,3,3,3,Fortaleza,Coaçu,800000.0
+173,949625473,Casas,0.0,125,3,3,3,Fortaleza,Paupina,520000.0
+174,958176892,Casas,0.0,135,3,3,2,Fortaleza,São Bento,350000.0
+175,945860098,Casas,0.0,105,3,3,2,Fortaleza,São Bento,370000.0
+176,974602542,Apartamentos,170.0,100,2,1,1,Fortaleza,Coaçu,150000.0
+177,972296801,Apartamentos,355.0,52,3,1,2,Fortaleza,Paupina,210000.0
+178,949024784,Casas,0.0,135,3,3,2,Fortaleza,Coaçu,355000.0
+179,956186328,Apartamentos,170.0,65,3,2,1,Fortaleza,Coaçu,195000.0
+180,953368927,Casas,0.0,135,3,3,2,Fortaleza,São Bento,345000.0
+181,963551505,Casas,0.0,150,3,4,3,Fortaleza,São Bento,450000.0
+182,924123044,Casas,0.0,90,3,2,4,Fortaleza,Coaçu,260000.0
+183,945529985,Casas,0.0,105,3,3,2,Fortaleza,São Bento,370000.0
+184,974539916,Apartamentos,0.0,52,2,1,,Fortaleza,São Bento,55000.0
+185,888571843,Casas,0.0,165,4,5 ou mais,3,Fortaleza,São Bento,265000.0
+186,947695564,Apartamentos,0.0,48,2,2,1,Fortaleza,Paupina,175200.0
+187,961459040,Apartamentos,0.0,52,2,2,1,Fortaleza,Paupina,180000.0
+188,954960007,Casas,0.0,150,3,2,2,Fortaleza,Coaçu,450000.0
+189,903227841,Casas,0.0,102,3,3,2,Fortaleza,São Bento,345000.0
+190,945169783,Casas,0.0,111,3,3,4,Fortaleza,São Bento,350000.0
+191,944788458,Casas,0.0,96,3,3,2,Fortaleza,São Bento,340000.0
+192,896437885,Casas,0.0,130,3,3,2,Fortaleza,São Bento,340000.0
+193,947258091,Casas,0.0,100,3,3,4,Fortaleza,São Bento,300000.0
+194,952650755,Apartamentos,100.0,51,2,2,2,Fortaleza,Coaçu,160000.0
+195,957719183,Casas,0.0,119,3,3,2,Fortaleza,São Bento,310000.0
+196,926207676,Apartamentos,0.0,42,2,1,1,Fortaleza,Paupina,156000.0
+197,967981172,Casas,0.0,141,3,4,2,Fortaleza,São Bento,450000.0
+198,944118053,Casas,0.0,250,3,4,3,Fortaleza,Coaçu,450000.0
+199,923515319,Apartamentos,0.0,48,2,1,0,Fortaleza,Paupina,53000.0
+200,936416926,Casas,0.0,200,3,2,4,Fortaleza,São Bento,170000.0
+201,714930622,Casas,0.0,114,3,4,4,Fortaleza,São Bento,380000.0
+202,943823875,Casas,0.0,115,3,3,2,Fortaleza,São Bento,335000.0
+203,953481370,Casas,0.0,102,3,3,2,Fortaleza,São Bento,355000.0
+204,759511704,Apartamentos,0.0,48,2,2,1,Fortaleza,Paupina,175284.0
+205,950327828,Casas,0.0,107,3,3,3,Fortaleza,Coaçu,355000.0
+206,939875786,Casas,0.0,135,3,3,3,Fortaleza,São Bento,365000.0
+207,944637140,Casas,0.0,96,3,3,2,Fortaleza,São Bento,328000.0
+208,940110409,Apartamentos,0.0,47,2,2,0,Fortaleza,Paupina,173284.0
+209,974174594,Casas,0.0,0,2,1,1,Fortaleza,São Bento,0.0
+210,951106772,Casas,0.0,100,3,3,3,Fortaleza,São Bento,315000.0
+211,974121848,Casas,0.0,97,2,1,,Fortaleza,Paupina,120900.0
+212,946568574,Casas,0.0,96,3,3,2,Fortaleza,São Bento,309000.0
+213,952390660,Casas,0.0,110,3,2,2,Fortaleza,São Bento,355000.0
+214,958176888,Casas,0.0,100,3,3,3,Fortaleza,São Bento,310000.0
+215,967345998,Casas,0.0,105,3,3,2,Fortaleza,Coaçu,345000.0
+216,957945251,Casas,0.0,0,2,2,2,Fortaleza,Coaçu,219900.0
+217,917144442,Casas,0.0,150,3,4,3,Fortaleza,São Bento,415000.0
+218,953485478,Casas,0.0,0,3,3,2,Fortaleza,São Bento,345001.0
+219,973988017,Apartamentos,0.0,4082,2,1,1,Fortaleza,Paupina,163490.0
+220,949968677,Casas,0.0,90,2,2,1,Fortaleza,Paupina,100000.0
+221,856611854,Apartamentos,0.0,40,2,1,1,Fortaleza,Paupina,165987.0
+222,965288189,Casas,0.0,105,3,3,2,Fortaleza,Coaçu,345000.0
+223,793771860,Apartamentos,0.0,71,3,1,1,Fortaleza,Coaçu,220000.0
+224,960572035,Casas,0.0,105,3,3,3,Fortaleza,São Bento,340000.0
+225,953486631,Casas,0.0,102,3,2,3,Fortaleza,São Bento,320000.0
+226,967345988,Casas,0.0,118,3,3,2,Fortaleza,Coaçu,370000.0
+227,965288191,Casas,0.0,118,3,3,2,Fortaleza,Coaçu,370000.0
+228,960572358,Casas,0.0,125,3,3,3,Fortaleza,São Bento,345000.0
+229,973734120,Apartamentos,80.0,0,2,1,1,Fortaleza,Paupina,32000.0
+230,950989023,Casas,0.0,89,3,3,2,Fortaleza,São Bento,265000.0
+231,970513800,Casas,0.0,114,3,3,3,Fortaleza,São Bento,370000.0
+232,970306804,Casas,0.0,116,3,3,3,Fortaleza,São Bento,310000.0
+233,973697298,Casas,0.0,95,3,3,2,Fortaleza,São Bento,395000.0
+234,973696501,Casas,0.0,87,3,2,5 ou mais,Fortaleza,Coaçu,400000.0
+235,946910926,Casas,0.0,80,2,2,2,Fortaleza,São Bento,220000.0
+236,960572406,Casas,0.0,135,3,3,2,Fortaleza,São Bento,355000.0
+237,973553172,Apartamentos,175.0,57,3,1,1,Fortaleza,Coaçu,195000.0
+238,973553069,Apartamentos,170.0,44,2,1,1,Fortaleza,Coaçu,159990.0
+239,940238466,Apartamentos,0.0,42,2,2,2,Fortaleza,Paupina,169900.0
+240,957770986,Casas,0.0,221,3,3,2,Fortaleza,São Bento,310000.0
+241,973531579,Casas,0.0,100,2,1,1,Fortaleza,Paupina,150000.0
+242,968752581,Casas,0.0,80,2,2,1,Fortaleza,Paupina,140000.0
+243,960572431,Casas,0.0,107,3,3,2,Fortaleza,São Bento,350000.0
+244,973425627,Casas,0.0,165,3,3,3,Fortaleza,Coaçu,295000.0
+245,914786952,Casas,0.0,128,3,3,2,Fortaleza,Coaçu,395000.0
+246,936416950,Casas,0.0,421,4,5 ou mais,4,Fortaleza,São Bento,760000.0
+247,973402244,Apartamentos,0.0,47,2,2,1,Fortaleza,Paupina,175284.0
+248,950659797,Apartamentos,0.0,60,2,2,1,Fortaleza,Paupina,190000.0
+249,953689633,Casas,0.0,98,3,2,3,Fortaleza,Coaçu,280000.0
+250,963659314,Casas,0.0,142,3,3,0,Fortaleza,São Bento,415000.0
+251,967203402,Casas,0.0,111,3,3,3,Fortaleza,São Bento,349000.0
+252,945169777,Casas,0.0,143,3,4,2,Fortaleza,São Bento,415000.0
+253,949163914,Casas,0.0,135,3,3,2,Fortaleza,São Bento,345000.0
+254,935798591,Casas,0.0,145,3,4,3,Fortaleza,São Bento,415000.0
+255,871415789,Apartamentos,0.0,41,2,0,1,Fortaleza,Paupina,157900.0
+256,943005422,Casas,0.0,140,3,4,2,Fortaleza,São Bento,415000.0
+257,872294890,Apartamentos,240.0,44,2,1,1,Fortaleza,Coaçu,167500.0
+258,943004709,Casas,0.0,100,3,4,2,Fortaleza,São Bento,339000.0
+259,942401650,Casas,0.0,0,2,3,2,Fortaleza,São Bento,150000.0
+260,917141700,Casas,0.0,100,3,3,4,Fortaleza,São Bento,375000.0
+261,852197382,Casas,0.0,200,3,1,2,Fortaleza,São Bento,350000.0
+262,913431526,Apartamentos,314.0,57,2,1,1,Fortaleza,Paupina,145000.0
+263,879955985,Apartamentos,271.0,48,3,2,1,Fortaleza,Paupina,185000.0
+264,925118515,Apartamentos,210.0,42,2,1,1,Fortaleza,Paupina,185000.0
+265,680365686,Casas,0.0,99,3,3,2,Fortaleza,São Bento,299000.0
+266,879956067,Casas,0.0,100,3,3,1,Fortaleza,São Bento,295000.0
+267,910735061,Apartamentos,289.0,48,2,1,1,Fortaleza,Paupina,198000.0
+268,780816125,Apartamentos,0.0,47,2,2,1,Fortaleza,Paupina,166384.0
+269,960571812,Casas,0.0,142,3,4,2,Fortaleza,São Bento,415000.0
+270,960572329,Casas,0.0,105,3,3,5 ou mais,Fortaleza,São Bento,360000.0
+271,972703498,Apartamentos,0.0,0,2,2,0,Fortaleza,Paupina,0.0
+272,904070842,Casas,0.0,100,3,3,4,Fortaleza,São Bento,310000.0
+273,484490982,Apartamentos,220.0,49,3,,1,Fortaleza,Paupina,175000.0
+274,948805306,Casas,0.0,118,3,3,2,Fortaleza,Coaçu,370000.0
+275,972530625,Apartamentos,0.0,43,2,1,0,Fortaleza,Coaçu,213493.0
+276,972489556,Casas,0.0,103,3,3,3,Fortaleza,São Bento,310000.0
+277,957723081,Casas,0.0,96,3,3,3,Fortaleza,São Bento,338000.0
+278,880984423,Casas,0.0,374,3,4,5 ou mais,Fortaleza,Coaçu,1650000.0
+279,950089899,Apartamentos,0.0,48,3,1,5 ou mais,Fortaleza,Paupina,185000.0
+280,738640855,Casas,0.0,200,3,3,2,Fortaleza,São Bento,360000.0
+281,972297901,Apartamentos,355.0,52,3,1,2,Fortaleza,Paupina,200000.0
+282,972297642,Casas,0.0,89,3,3,2,Fortaleza,São Bento,230000.0
+283,821274971,Apartamentos,230.0,120,3,2,2,Fortaleza,Coaçu,265000.0
+284,894332818,Casas,0.0,90,3,3,3,Fortaleza,São Bento,335000.0
+285,946910985,Casas,0.0,142,3,3,0,Fortaleza,São Bento,415000.0
+286,943004724,Casas,0.0,95,3,4,2,Fortaleza,São Bento,309000.0
+287,948822311,Casas,0.0,118,3,3,2,Fortaleza,Coaçu,360000.0
+288,946431872,Casas,0.0,97,3,1,2,Fortaleza,São Bento,230000.0
+289,947698405,Apartamentos,100.0,52,2,2,2,Fortaleza,Coaçu,160000.0
+290,711483124,Casas,0.0,135,3,2,2,Fortaleza,São Bento,345000.0
+291,914786954,Casas,0.0,111,3,2,4,Fortaleza,São Bento,365000.0
+292,971673120,Casas,0.0,230,3,1,1,Fortaleza,Paupina,150000.0
+293,918126070,Casas,0.0,135,3,3,2,Fortaleza,São Bento,365000.0
+294,971534079,Casas,0.0,96,3,3,3,Fortaleza,São Bento,328000.0
+295,906027091,Casas,0.0,125,3,3,2,Fortaleza,São Bento,365000.0
+296,960571989,Casas,0.0,112,3,3,3,Fortaleza,São Bento,370000.0
+297,971377974,Apartamentos,0.0,50,2,1,1,Fortaleza,Coaçu,165000.0
+298,736681478,Apartamentos,380.0,60,3,2,1,Fortaleza,Paupina,180000.0
+299,946911003,Casas,0.0,90,3,1,2,Fortaleza,São Bento,250000.0
+300,894832470,Apartamentos,0.0,48,2,1,1,Fortaleza,Coaçu,140000.0
+301,960682563,Casas,0.0,135,3,3,2,Fortaleza,São Bento,355000.0
+302,946658212,Casas,0.0,104,3,3,2,Fortaleza,São Bento,375000.0
+303,952742561,Casas,0.0,95,3,3,2,Fortaleza,São Bento,395000.0
+304,916246664,Casas,0.0,125,2,2,2,Fortaleza,Paupina,0.0
+305,946914757,Casas,0.0,120,2,2,0,Fortaleza,São Bento,325000.0
+306,955796317,Apartamentos,180.0,44,2,1,0,Fortaleza,Paupina,165000.0
+307,941556430,Casas,0.0,115,3,3,2,Fortaleza,São Bento,335000.0
+308,916246611,Casas,0.0,125,2,2,2,Fortaleza,Paupina,0.0
+309,970996860,Casas,0.0,0,1,1,,Fortaleza,Paupina,0.0
+310,970954892,Casas,0.0,108,2,2,1,Fortaleza,São Bento,0.0
+311,960721004,Apartamentos,289.0,48,2,1,1,Fortaleza,Paupina,199000.0
+312,898266692,Casas,0.0,107,3,3,3,Fortaleza,São Bento,355000.0
+313,941556415,Casas,0.0,125,3,3,2,Fortaleza,São Bento,345000.0
+314,954084842,Apartamentos,175.0,48,2,1,1,Fortaleza,Coaçu,150000.0
+315,879955853,Apartamentos,0.0,40,2,1,1,Fortaleza,Paupina,171690.0
+316,938230257,Casas,0.0,95,3,3,2,Fortaleza,São Bento,328000.0
+317,922703143,Casas,400.0,72,3,2,1,Fortaleza,Coaçu,215000.0
+318,970688534,Casas,0.0,144,3,3,2,Fortaleza,Paupina,420000.0
+319,936416713,Apartamentos,0.0,55,2,2,1,Fortaleza,São Bento,128000.0
+320,937990041,Casas,0.0,90,3,2,2,Fortaleza,São Bento,339000.0
+321,941556434,Casas,0.0,115,3,3,2,Fortaleza,São Bento,335000.0
+322,950046802,Casas,0.0,105,3,3,2,Fortaleza,São Bento,345000.0
+323,898248193,Casas,0.0,107,3,3,3,Fortaleza,São Bento,360000.0
+324,937355114,Casas,0.0,103,3,3,2,Fortaleza,São Bento,350000.0
+325,970210740,Apartamentos,175.0,49,2,1,1,Fortaleza,Coaçu,165000.0
+326,970210741,Apartamentos,175.0,49,2,1,1,Fortaleza,Coaçu,170000.0
+327,892510475,Apartamentos,200.0,48,2,1,1,Fortaleza,Paupina,175284.0
+328,917141529,Casas,0.0,112,3,3,0,Fortaleza,São Bento,370000.0
+329,970078246,Apartamentos,60.0,0,2,1,,Fortaleza,Paupina,75000.0
+330,946439193,Casas,0.0,104,3,3,2,Fortaleza,São Bento,375000.0
+331,919160872,Casas,0.0,90,3,3,2,Fortaleza,São Bento,299000.0
+332,924123238,Casas,0.0,150,3,3,2,Fortaleza,São Bento,290000.0
+333,969819789,Casas,0.0,33,2,1,1,Fortaleza,Paupina,150.0
+334,852289550,Casas,0.0,103,3,3,4,Fortaleza,São Bento,284998.0
+335,969583934,Casas,0.0,0,3,2,0,Fortaleza,Paupina,80000.0
+336,867764275,Apartamentos,0.0,48,2,2,1,Fortaleza,Paupina,175284.0
+337,941556425,Casas,0.0,125,3,3,2,Fortaleza,São Bento,345000.0
+338,852088069,Casas,0.0,97,3,3,2,Fortaleza,São Bento,278998.0
+339,938591836,Casas,0.0,141,3,4,3,Fortaleza,São Bento,415000.0
+340,886574989,Apartamentos,268.0,42,2,1,1,Fortaleza,Paupina,150000.0
+341,969072472,Casas,0.0,105,3,3,2,Fortaleza,São Bento,340000.0
+342,969071542,Casas,0.0,96,3,3,2,Fortaleza,São Bento,309000.0
+343,968939367,Apartamentos,0.0,0,2,1,1,Fortaleza,Coaçu,135000.0
+344,968805114,Casas,0.0,145,3,4,,Fortaleza,São Bento,415000.0
+345,936416545,Apartamentos,380.0,60,3,2,1,Fortaleza,Paupina,180000.0
+346,941365997,Casas,0.0,90,3,3,4,Fortaleza,São Bento,320000.0
+347,968642640,Casas,0.0,0,3,2,,Fortaleza,São Bento,338012.0
+348,968639266,Casas,0.0,0,3,2,,Fortaleza,São Bento,395012.0
+349,968628966,Casas,0.0,0,3,2,,Fortaleza,São Bento,340012.0
+350,968627585,Casas,0.0,0,3,2,,Fortaleza,São Bento,310012.0
+351,968626253,Casas,0.0,0,2,2,,Fortaleza,São Bento,290012.0
+352,917110719,Casas,0.0,80,2,2,2,Fortaleza,São Bento,219999.0
+353,625646961,Apartamentos,180.0,41,2,1,1,Fortaleza,Paupina,163490.0
+354,706980121,Casas,0.0,200,3,3,2,Fortaleza,São Bento,345000.0
+355,968385080,Casas,0.0,138,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Coaçu,880000.0
+356,924838783,Casas,0.0,80,2,2,2,Fortaleza,São Bento,220000.0
+357,907832825,Casas,0.0,0,2,2,0,Fortaleza,Paupina,80000.0
+358,898266915,Casas,0.0,107,3,3,3,Fortaleza,São Bento,355000.0
+359,880984333,Casas,0.0,150,3,0,3,Fortaleza,São Bento,430000.0
+360,948903012,Apartamentos,271.0,48,3,1,1,Fortaleza,Paupina,185000.0
+361,625599202,Casas,0.0,200,3,3,4,Fortaleza,São Bento,350000.0
+362,944370039,Casas,0.0,128,3,3,2,Fortaleza,Coaçu,390000.0
+363,935374304,Casas,0.0,130,4,4,4,Fortaleza,São Bento,330000.0
+364,947403699,Apartamentos,100.0,52,2,2,2,Fortaleza,Coaçu,160000.0
+365,906027072,Casas,0.0,107,3,3,2,Fortaleza,São Bento,350000.0
+366,894350281,Casas,0.0,100,3,3,3,Fortaleza,São Bento,310000.0
+367,879955811,Apartamentos,242.0,41,2,1,1,Fortaleza,Paupina,160000.0
+368,967549784,Casas,0.0,0,3,4,1,Fortaleza,São Bento,415000.0
+369,967439532,Casas,0.0,108,3,3,3,Fortaleza,São Bento,370000.0
+370,967233989,Apartamentos,268.0,42,2,1,1,Fortaleza,Paupina,165000.0
+371,967171624,Casas,0.0,216,3,2,3,Fortaleza,Paupina,0.0
+372,967153341,Casas,0.0,0,0,0,0,Fortaleza,Paupina,0.0
+373,967059319,Casas,0.0,115,3,2,4,Fortaleza,São Bento,305000.0
+374,967057883,Casas,0.0,120,3,2,5 ou mais,Fortaleza,São Bento,320000.0
+375,636184272,Apartamentos,0.0,47,2,1,1,Fortaleza,Paupina,180900.0
+376,952583342,Apartamentos,170.0,46,2,1,1,Fortaleza,Coaçu,168000.0
+377,909720693,Casas,0.0,130,3,1,2,Fortaleza,São Bento,345000.0
+378,628271193,Casas,0.0,200,3,3,3,Fortaleza,São Bento,345000.0
+379,946051448,Apartamentos,60.0,48,2,1,1,Fortaleza,Paupina,44999.0
+380,939605502,Casas,0.0,130,3,3,2,Fortaleza,São Bento,350000.0
+381,955796202,Apartamentos,0.0,47,2,1,1,Fortaleza,Paupina,155000.0
+382,922633245,Casas,0.0,96,3,4,3,Fortaleza,São Bento,328000.0
+383,966231965,Casas,0.0,0,3,4,2,Fortaleza,São Bento,75000.0
+384,966155218,Apartamentos,0.0,74,2,1,1,Fortaleza,Coaçu,65000.0
+385,965942064,Casas,0.0,107,3,3,3,Fortaleza,São Bento,300000.0
+386,938230442,Casas,0.0,212,3,3,2,Fortaleza,São Bento,345000.0
+387,842276669,Casas,0.0,135,3,1,2,Fortaleza,São Bento,365000.0
+388,965869981,Apartamentos,70.0,0,2,1,1,Fortaleza,Paupina,47000.0
+389,921383272,Casas,0.0,98,3,3,2,Fortaleza,Paupina,290000.0
+390,965739204,Casas,0.0,80,2,2,3,Fortaleza,Paupina,250000.0
+391,937600415,Casas,0.0,133,3,3,2,Fortaleza,São Bento,345000.0
+392,641803771,Apartamentos,161.0,43,2,1,1,Fortaleza,Coaçu,160000.0
+393,965507375,Apartamentos,200.0,0,2,1,1,Fortaleza,São Bento,64888.0
+394,965506186,Apartamentos,0.0,0,2,1,1,Fortaleza,São Bento,64333.0
+395,965502142,Apartamentos,0.0,0,2,1,1,Fortaleza,São Bento,64999.0
+396,898248116,Casas,0.0,135,3,3,2,Fortaleza,São Bento,355000.0
+397,965400330,Casas,0.0,135,2,1,1,Fortaleza,Paupina,159000.0
+398,965298141,Casas,0.0,0,2,1,1,Fortaleza,São Bento,65000.0
+399,965291199,Casas,0.0,0,1,1,0,Fortaleza,Coaçu,40000.0
+400,948128882,Casas,0.0,118,3,2,0,Fortaleza,São Bento,370000.0
+401,936119288,Casas,0.0,90,3,2,2,Fortaleza,São Bento,339000.0
+402,964796989,Apartamentos,1.0,40,1,1,1,Fortaleza,Paupina,620000.0
+403,938077303,Casas,0.0,102,3,3,3,Fortaleza,São Bento,320000.0
+404,964541770,Casas,0.0,130,3,,,Fortaleza,São Bento,370000.0
+405,886591778,Casas,0.0,143,3,4,3,Fortaleza,São Bento,415000.0
+406,898248181,Casas,0.0,111,3,3,4,Fortaleza,São Bento,350000.0
+407,964030685,Casas,0.0,120,3,,,Fortaleza,São Bento,335000.0
+408,964029942,Apartamentos,0.0,52,2,2,0,Fortaleza,São Bento,63000.0
+409,964006219,Apartamentos,60.0,0,2,1,1,Fortaleza,Paupina,35000.0
+410,963496635,Apartamentos,80.0,0,2,1,1,Fortaleza,Paupina,32000.0
+411,901485407,Apartamentos,189.0,48,2,1,1,Fortaleza,Paupina,199000.0
+412,962861531,Casas,0.0,0,3,2,2,Fortaleza,Paupina,750.0
+413,937705269,Casas,0.0,160,3,2,2,Fortaleza,São Bento,250000.0
+414,937609336,Casas,0.0,105,3,3,3,Fortaleza,São Bento,355000.0
+415,930946651,Apartamentos,175.0,50,2,1,1,Fortaleza,Coaçu,160000.0
+416,962305324,Apartamentos,350.0,48,3,1,1,Fortaleza,Paupina,165000.0
+417,962182103,Apartamentos,0.0,0,2,1,1,Fortaleza,São Bento,65222.0
+418,962045549,Apartamentos,0.0,0,2,1,1,Fortaleza,Paupina,30000.0
+419,936580144,Casas,0.0,111,3,3,3,Fortaleza,São Bento,350000.0
+420,961125801,Casas,0.0,0,3,3,,Fortaleza,Paupina,150000.0
+421,961022849,Apartamentos,289.0,48,2,2,1,Fortaleza,Paupina,199000.0
+422,887718737,Casas,0.0,102,3,3,2,Fortaleza,São Bento,295000.0
+423,960717514,Apartamentos,174.0,49,2,1,1,Fortaleza,Coaçu,167.0
+424,897102798,Casas,0.0,128,3,3,2,Fortaleza,Coaçu,395000.0
+425,905910516,Casas,0.0,125,3,3,3,Fortaleza,São Bento,345000.0
+426,959918030,Apartamentos,0.0,0,2,1,1,Fortaleza,Paupina,65111.0
+427,959753199,Casas,0.0,140,5 ou mais,4,2,Fortaleza,Paupina,240000.0
+428,842593573,Casas,0.0,100,3,3,2,Fortaleza,São Bento,274999.0
+429,909683285,Casas,0.0,135,3,3,2,Fortaleza,São Bento,355000.0
+430,958997794,Apartamentos,170.0,0,2,1,1,Fortaleza,Paupina,74999.0
+431,927234540,Casas,0.0,130,3,3,2,Fortaleza,São Bento,345000.0
+432,925135827,Casas,0.0,107,3,3,2,Fortaleza,São Bento,355000.0
+433,907604854,Casas,0.0,98,2,3,1,Fortaleza,São Bento,200000.0
+434,957958418,Casas,0.0,103,3,3,4,Fortaleza,São Bento,285001.0
+435,957671674,Casas,0.0,0,2,2,2,Fortaleza,Paupina,145000.0
+436,769922749,Casas,0.0,73,3,1,2,Fortaleza,Coaçu,220000.0
+437,957578931,Casas,0.0,0,2,1,,Fortaleza,Paupina,20000.0
+438,957523698,Casas,0.0,80,2,2,2,Fortaleza,São Bento,220000.0
+439,957445308,Casas,0.0,119,3,3,2,Fortaleza,São Bento,310000.0
+440,957397701,Casas,0.0,2,2,1,1,Fortaleza,São Bento,0.0
+441,809644751,Apartamentos,0.0,41,2,1,1,Fortaleza,Paupina,0.0
+442,957278797,Apartamentos,60.0,48,2,1,,Fortaleza,Paupina,34000.0
+443,957260220,Casas,0.0,0,2,1,0,Fortaleza,Paupina,120000.0
+444,956994540,Casas,0.0,120,3,0,0,Fortaleza,São Bento,0.0
+445,956836288,Casas,0.0,110,3,2,,Fortaleza,Paupina,80000.0
+446,945655031,Apartamentos,280.0,42,2,1,1,Fortaleza,Paupina,140000.0
+447,956592695,Casas,0.0,0,1,1,2,Fortaleza,São Bento,160000.0
+448,956573170,Casas,0.0,224,1,1,0,Fortaleza,São Bento,0.0
+449,956359321,Casas,0.0,90,3,3,2,Fortaleza,São Bento,310000.0
+450,956359307,Casas,0.0,90,3,4,2,Fortaleza,São Bento,355000.0
+451,955706282,Casas,0.0,107,3,2,3,Fortaleza,São Bento,350000.0
+452,955169907,Casas,0.0,111,3,3,3,Fortaleza,São Bento,335000.0
+453,955157975,Casas,0.0,0,1,1,,Fortaleza,Coaçu,50000.0
+454,955069186,Casas,0.0,105,3,3,2,Fortaleza,São Bento,370000.0
+455,903346448,Casas,0.0,0,3,3,,Fortaleza,São Bento,335000.0
+456,954168359,Casas,0.0,128,3,2,2,Fortaleza,Coaçu,395000.0
+457,620861491,Casas,0.0,78,3,2,2,Fortaleza,Paupina,200000.0
+458,900216751,Casas,0.0,107,3,3,3,Fortaleza,São Bento,355000.0
+459,952015858,Apartamentos,200.0,48,2,1,1,Fortaleza,Paupina,200000.0
+460,950938679,Apartamentos,640.0,80,3,3,2,Fortaleza,Paupina,650000.0
+461,916693124,Casas,0.0,110,3,3,4,Fortaleza,São Bento,365000.0
+462,947368558,Casas,0.0,180,3,3,3,Fortaleza,São Bento,385000.0
+463,944825630,Casas,0.0,150,4,3,,Fortaleza,Coaçu,349000.0
+464,742233457,Apartamentos,0.0,41,2,1,1,Fortaleza,Paupina,153900.0
+465,738611623,Casas,0.0,135,3,3,3,Fortaleza,São Bento,340000.0
+466,929944944,Casas,0.0,166,3,,,Fortaleza,São Bento,280000.0
+467,921872453,Apartamentos,0.0,41,2,1,1,Fortaleza,Paupina,200000.0
+468,921872409,Apartamentos,0.0,47,2,1,1,Fortaleza,Paupina,200000.0
+469,920851252,Casas,0.0,135,3,3,3,Fortaleza,São Bento,345000.0
+470,736681801,Casas,0.0,200,3,2,4,Fortaleza,São Bento,170000.0
+471,911670778,Casas,0.0,111,3,3,4,Fortaleza,São Bento,365000.0
+472,909497827,Casas,0.0,90,3,2,5 ou mais,Fortaleza,Coaçu,350000.0
+473,900313103,Casas,0.0,135,3,3,2,Fortaleza,Paupina,345000.0
+474,862112829,Apartamentos,240.0,41,2,1,1,Fortaleza,Paupina,165000.0
+475,887156607,Casas,0.0,100,3,,2,Fortaleza,Paupina,300000.0
+476,880624640,Apartamentos,195.0,43,2,,,Fortaleza,Coaçu,155000.0
+477,878905904,Casas,0.0,135,3,2,2,Fortaleza,São Bento,310000.0
+478,847896146,Apartamentos,240.0,42,2,1,1,Fortaleza,Paupina,165000.0
+479,870771553,Casas,380.0,64,3,2,2,Fortaleza,Coaçu,260000.0
+480,863438201,Casas,0.0,115,3,3,4,Fortaleza,Parque Santa Maria,365000.0
+481,861997972,Casas,0.0,96,3,3,3,Fortaleza,São Bento,345000.0
+482,484159067,Apartamentos,161.0,64,2,,1,Fortaleza,Coaçu,160000.0
+483,859174863,Apartamentos,400.0,56,2,1,1,Fortaleza,Paupina,155000.0
+484,858302166,Casas,0.0,120,3,2,2,Fortaleza,São Bento,350000.0
+485,858302164,Casas,0.0,107,3,3,2,Fortaleza,São Bento,345000.0
+486,843005000,Casas,0.0,135,3,3,4,Fortaleza,Parque Santa Maria,330000.0
+487,843004819,Casas,0.0,110,3,3,,Fortaleza,Parque Santa Maria,345000.0
+488,830003277,Apartamentos,0.0,5696,2,,1,Fortaleza,Paupina,160000.0
+489,751847915,Casas,500.0,120,4,3,3,Fortaleza,Coaçu,255000.0

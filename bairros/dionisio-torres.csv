@@ -1,0 +1,669 @@
+,Código,Categoria,Condomínio,Área,Quartos,Banheiros,Vagas na garagem,Município,Bairro,Preço
+0,883620328,Apartamentos,400.0,50,2,2,1,Fortaleza,Dionisio Torres,494000.0
+1,977462313,Apartamentos,0.0,120,3,4,2,Fortaleza,Dionisio Torres,899000.0
+2,959973213,Apartamentos,0.0,235,4,5 ou mais,4,Fortaleza,Dionisio Torres,2600000.0
+3,935168997,Apartamentos,850.0,126,3,1,2,Fortaleza,Dionisio Torres,450000.0
+4,883259557,Apartamentos,800.0,170,4,4,2,Fortaleza,Dionisio Torres,615000.0
+5,977423865,Casas,0.0,1000,5 ou mais,,,Fortaleza,Dionisio Torres,2000000.0
+6,860655900,Apartamentos,775.0,118,3,4,2,Fortaleza,Dionisio Torres,980000.0
+7,897614782,Apartamentos,1130.0,209,3,3,2,Fortaleza,Dionisio Torres,550000.0
+8,971496344,Apartamentos,1100.0,134,3,4,2,Fortaleza,Dionisio Torres,400000.0
+9,951008651,Apartamentos,1200.0,110,3,3,3,Fortaleza,Dionisio Torres,560000.0
+10,959973185,Apartamentos,0.0,93,3,3,2,Fortaleza,Dionisio Torres,480000.0
+11,884462441,Casas,0.0,350,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,1250000.0
+12,977292875,Apartamentos,850.0,118,3,4,2,Fortaleza,Dionisio Torres,890000.0
+13,950990662,Apartamentos,0.0,219,3,5 ou mais,4,Fortaleza,Dionisio Torres,2248789.0
+14,958073651,Apartamentos,880.0,97,2,3,2,Fortaleza,Dionisio Torres,680000.0
+15,970510436,Apartamentos,1300.0,160,3,5 ou mais,3,Fortaleza,Aldeota,450000.0
+16,953465730,Apartamentos,0.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,1850000.0
+17,969417346,Apartamentos,850.0,110,3,3,2,Fortaleza,Dionisio Torres,390000.0
+18,919851355,Apartamentos,1100.0,150,3,4,2,Fortaleza,Dionisio Torres,600000.0
+19,960961815,Apartamentos,0.0,186,3,4,1,Fortaleza,Dionisio Torres,400000.0
+20,950990669,Casas,0.0,134,3,3,3,Fortaleza,Dionisio Torres,1300000.0
+21,946228397,Apartamentos,710.0,114,3,2,1,Fortaleza,Dionisio Torres,300000.0
+22,878521734,Apartamentos,1600.0,138,4,3,3,Fortaleza,Dionisio Torres,990000.0
+23,972296921,Apartamentos,0.0,95,3,2,2,Fortaleza,Dionisio Torres,840812.0
+24,897614437,Apartamentos,1500.0,234,3,4,2,Fortaleza,Dionisio Torres,600000.0
+25,950990636,Apartamentos,1300.0,119,3,5 ou mais,3,Fortaleza,Dionisio Torres,520000.0
+26,958174000,Apartamentos,700.0,93,3,3,2,Fortaleza,Dionisio Torres,650000.0
+27,977125105,Apartamentos,0.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2150000.0
+28,959133491,Apartamentos,1000.0,140,3,4,2,Fortaleza,Dionisio Torres,450000.0
+29,942001924,Apartamentos,0.0,78,3,2,0,Fortaleza,Dionisio Torres,610000.0
+30,969074335,Apartamentos,850.0,108,4,3,1,Fortaleza,Dionisio Torres,260000.0
+31,977082321,Apartamentos,1200.0,144,3,4,2,Fortaleza,Dionisio Torres,610000.0
+32,977057619,Apartamentos,910.0,65,3,2,2,Fortaleza,Dionisio Torres,380000.0
+33,953484944,Apartamentos,1300.0,150,4,4,3,Fortaleza,Dionisio Torres,550000.0
+34,950617539,Apartamentos,0.0,150,3,3,2,Fortaleza,Dionisio Torres,460000.0
+35,940588867,Casas,0.0,396,4,3,3,Fortaleza,Dionisio Torres,1020000.0
+36,920684240,Apartamentos,890.0,216,3,4,3,Fortaleza,Dionisio Torres,1200000.0
+37,504706785,Apartamentos,1300.0,198,4,,3,Fortaleza,Dionisio Torres,840000.0
+38,970762107,Apartamentos,1242.0,124,2,3,2,Fortaleza,Dionisio Torres,430000.0
+39,712053664,Apartamentos,0.0,158,3,5 ou mais,3,Fortaleza,Dionisio Torres,1500000.0
+40,735552687,Apartamentos,800.0,73,3,3,3,Fortaleza,Dionisio Torres,450000.0
+41,959080733,Apartamentos,0.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2400000.0
+42,962077506,Apartamentos,800.0,115,3,3,2,Fortaleza,Dionisio Torres,450000.0
+43,791493231,Apartamentos,0.0,58,2,2,1,Fortaleza,Dionisio Torres,646000.0
+44,959973266,Apartamentos,630.0,95,3,3,2,Fortaleza,Dionisio Torres,730000.0
+45,946228220,Apartamentos,1500.0,171,3,3,3,Fortaleza,Aldeota,500000.0
+46,976726894,Apartamentos,900.0,91,3,3,2,Fortaleza,Dionisio Torres,449000.0
+47,964759631,Apartamentos,0.0,163,3,1,4,Fortaleza,Dionisio Torres,1585000.0
+48,932903267,Casas,0.0,100,3,3,1,Fortaleza,Dionisio Torres,290000.0
+49,952911285,Apartamentos,0.0,68,1,1,2,Fortaleza,Dionisio Torres,820000.0
+50,894706411,Apartamentos,1570.0,210,4,5 ou mais,3,Fortaleza,Dionisio Torres,1250000.0
+51,937396779,Apartamentos,1800.0,249,4,1,5 ou mais,Fortaleza,Dionisio Torres,1600000.0
+52,947254986,Apartamentos,1100.0,120,3,4,2,Fortaleza,Dionisio Torres,500000.0
+53,947255052,Apartamentos,750.0,130,3,4,2,Fortaleza,Dionisio Torres,350000.0
+54,791493254,Apartamentos,0.0,219,4,4,4,Fortaleza,Dionisio Torres,2248789.0
+55,771547743,Apartamentos,1400.0,175,3,,2,Fortaleza,Dionisio Torres,537000.0
+56,921812229,Casas,0.0,202,1,3,0,Fortaleza,Dionisio Torres,1890000.0
+57,967851995,Apartamentos,520.0,120,3,3,1,Fortaleza,Dionisio Torres,300000.0
+58,949275605,Apartamentos,880.0,118,3,3,3,Fortaleza,Dionisio Torres,899999.0
+59,970762112,Apartamentos,1400.0,168,3,4,5 ou mais,Fortaleza,Dionisio Torres,1500000.0
+60,940100813,Apartamentos,650.0,96,3,3,2,Fortaleza,Dionisio Torres,590000.0
+61,907568564,Apartamentos,1100.0,114,3,4,2,Fortaleza,Dionisio Torres,540000.0
+62,955796213,Apartamentos,0.0,127,4,4,2,Fortaleza,Dionisio Torres,645150.0
+63,975807753,Apartamentos,0.0,177,4,4,2,Fortaleza,Dionisio Torres,650000.0
+64,975797622,Apartamentos,1100.0,100,3,3,2,Fortaleza,Dionisio Torres,280000.0
+65,975795695,Apartamentos,1000.0,135,3,3,3,Fortaleza,Aldeota,720000.0
+66,975789826,Apartamentos,1500.0,200,3,1,3,Fortaleza,Dionisio Torres,1390000.0
+67,975789795,Apartamentos,900.0,147,3,4,2,Fortaleza,Dionisio Torres,570000.0
+68,975789688,Apartamentos,800.0,150,3,3,3,Fortaleza,Dionisio Torres,550000.0
+69,975789673,Apartamentos,1000.0,183,3,4,3,Fortaleza,Dionisio Torres,720000.0
+70,975789617,Apartamentos,700.0,134,3,2,1,Fortaleza,Dionisio Torres,200000.0
+71,975789605,Apartamentos,700.0,111,3,4,0,Fortaleza,Dionisio Torres,495000.0
+72,975789540,Casas,0.0,350,3,1,5 ou mais,Fortaleza,Dionisio Torres,1300000.0
+73,975789464,Apartamentos,1050.0,130,3,4,3,Fortaleza,Aldeota,590000.0
+74,975789437,Apartamentos,700.0,94,3,1,1,Fortaleza,Dionisio Torres,290000.0
+75,975789314,Casas,0.0,530,3,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,1950000.0
+76,975789291,Apartamentos,1300.0,171,3,4,3,Fortaleza,Aldeota,640000.0
+77,975789243,Apartamentos,950.0,137,3,1,2,Fortaleza,Dionisio Torres,760000.0
+78,937918446,Apartamentos,600.0,120,3,2,1,Fortaleza,Dionisio Torres,250000.0
+79,946434362,Apartamentos,1000.0,126,3,4,2,Fortaleza,Dionisio Torres,705000.0
+80,959044797,Casas,0.0,300,4,4,3,Fortaleza,Dionisio Torres,990000.0
+81,894199081,Apartamentos,915.0,150,4,4,2,Fortaleza,Dionisio Torres,550000.0
+82,946228471,Apartamentos,0.0,34,1,1,0,Fortaleza,Dionisio Torres,549000.0
+83,972296918,Apartamentos,560.0,91,3,4,2,Fortaleza,Dionisio Torres,340000.0
+84,886401641,Apartamentos,900.0,147,3,4,2,Fortaleza,Dionisio Torres,570000.0
+85,919886580,Apartamentos,1050.0,148,3,4,2,Fortaleza,Dionisio Torres,649000.0
+86,886402225,Apartamentos,950.0,137,3,1,2,Fortaleza,Dionisio Torres,760000.0
+87,941372582,Apartamentos,1.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2050000.0
+88,940100788,Apartamentos,0.0,127,3,4,2,Fortaleza,Dionisio Torres,510000.0
+89,900062499,Apartamentos,0.0,118,3,5 ou mais,2,Fortaleza,Dionisio Torres,980000.0
+90,914170362,Apartamentos,480.0,144,3,4,2,Fortaleza,Dionisio Torres,520000.0
+91,959045022,Apartamentos,500.0,72,3,2,2,Fortaleza,Dionisio Torres,450000.0
+92,972296826,Apartamentos,750.0,60,3,2,2,Fortaleza,Dionisio Torres,390000.0
+93,772801761,Apartamentos,2036.0,216,4,5 ou mais,3,Fortaleza,Dionisio Torres,799000.0
+94,883620405,Apartamentos,700.0,95,3,3,2,Fortaleza,Dionisio Torres,946704.0
+95,968787637,Apartamentos,702.0,96,3,3,2,Fortaleza,Dionisio Torres,620000.0
+96,968802018,Apartamentos,1100.0,150,3,4,2,Fortaleza,Dionisio Torres,650000.0
+97,961643365,Apartamentos,700.0,112,3,2,1,Fortaleza,Dionisio Torres,350000.0
+98,942392041,Apartamentos,1253.0,288,4,5 ou mais,3,Fortaleza,Dionisio Torres,950000.0
+99,948562337,Apartamentos,400.0,89,3,2,1,Fortaleza,Dionisio Torres,345000.0
+100,958171965,Apartamentos,0.0,93,3,3,2,Fortaleza,Dionisio Torres,799000.0
+101,975302943,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487099.0
+102,907566082,Apartamentos,1000.0,150,3,4,2,Fortaleza,Dionisio Torres,650000.0
+103,928418662,Apartamentos,925.0,65,3,2,2,Fortaleza,Dionisio Torres,430000.0
+104,960589640,Casas,0.0,250,4,2,2,Fortaleza,Dionisio Torres,1000000.0
+105,934810966,Apartamentos,0.0,116,3,4,2,Fortaleza,Dionisio Torres,490000.0
+106,959973291,Apartamentos,0.0,93,3,3,2,Fortaleza,Dionisio Torres,470000.0
+107,967339655,Apartamentos,0.0,96,3,3,2,Fortaleza,Dionisio Torres,570000.0
+108,897614493,Casas,0.0,716,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,2400000.0
+109,946634876,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,553500.0
+110,956341110,Apartamentos,1050.0,93,3,3,2,Fortaleza,Dionisio Torres,799000.0
+111,921866968,Apartamentos,1100.0,114,3,4,2,Fortaleza,Dionisio Torres,540000.0
+112,958371768,Apartamentos,0.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2400000.0
+113,938959767,Apartamentos,1960.0,144,4,5 ou mais,2,Fortaleza,Dionisio Torres,515000.0
+114,774676333,Apartamentos,960.0,158,4,5 ou mais,3,Fortaleza,Dionisio Torres,1502000.0
+115,933323050,Apartamentos,1100.0,133,3,4,,Fortaleza,Dionisio Torres,400000.0
+116,959973391,Apartamentos,0.0,150,3,4,2,Fortaleza,Dionisio Torres,635000.0
+117,894199104,Apartamentos,916.0,134,4,5 ou mais,3,Fortaleza,Dionisio Torres,550000.0
+118,931133637,Apartamentos,1350.0,170,3,4,3,Fortaleza,Dionisio Torres,600000.0
+119,974921628,Apartamentos,0.0,92,3,3,2,Fortaleza,Dionisio Torres,400000.0
+120,961534706,Apartamentos,750.0,93,3,4,2,Fortaleza,Dionisio Torres,645000.0
+121,921866905,Casas,0.0,624,5 ou mais,5 ou mais,4,Fortaleza,Tauape,4200000.0
+122,883737964,Apartamentos,1375.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2109630.0
+123,972296823,Apartamentos,0.0,50,2,2,2,Fortaleza,Dionisio Torres,490500.0
+124,886400929,Apartamentos,1500.0,200,3,1,3,Fortaleza,Dionisio Torres,1390000.0
+125,897615160,Apartamentos,1100.0,231,3,4,2,Fortaleza,Dionisio Torres,550000.0
+126,947254976,Apartamentos,550.0,120,3,3,1,Fortaleza,Dionisio Torres,280000.0
+127,691799050,Casas,0.0,340,4,4,4,Fortaleza,Dionisio Torres,659000.0
+128,691777435,Casas,0.0,340,4,4,4,Fortaleza,Dionisio Torres,655000.0
+129,786063517,Apartamentos,1050.0,140,4,4,0,Fortaleza,Aldeota,690000.0
+130,799722614,Apartamentos,700.0,26,1,1,0,Fortaleza,Dionisio Torres,180000.0
+131,883259725,Apartamentos,1000.0,68,3,2,2,Fortaleza,Dionisio Torres,380000.0
+132,697833425,Apartamentos,500.0,60,2,2,1,Fortaleza,Dionisio Torres,399999.0
+133,952951851,Apartamentos,1300.0,150,4,4,3,Fortaleza,Dionisio Torres,550000.0
+134,897928860,Apartamentos,780.0,92,4,4,2,Fortaleza,Dionisio Torres,450000.0
+135,773605789,Apartamentos,450.0,117,4,4,2,Fortaleza,Joaquim Távora,340000.0
+136,969156708,Apartamentos,0.0,50,2,2,1,Fortaleza,Dionisio Torres,503000.0
+137,962076559,Apartamentos,0.0,172,3,4,5 ou mais,Fortaleza,Dionisio Torres,1680900.0
+138,940039619,Apartamentos,920.0,118,3,4,2,Fortaleza,Dionisio Torres,850000.0
+139,903250810,Apartamentos,1280.0,149,3,3,2,Fortaleza,Dionisio Torres,580000.0
+140,886401231,Apartamentos,700.0,111,3,4,0,Fortaleza,Dionisio Torres,495000.0
+141,914170408,Apartamentos,900.0,134,3,4,3,Fortaleza,Dionisio Torres,650000.0
+142,954960005,Apartamentos,0.0,95,3,3,2,Fortaleza,Dionisio Torres,840812.0
+143,936169170,Apartamentos,1025.0,126,3,4,2,Fortaleza,Dionisio Torres,619000.0
+144,920789605,Apartamentos,800.0,125,3,3,2,Fortaleza,Dionisio Torres,450000.0
+145,956341919,Apartamentos,700.0,93,3,3,2,Fortaleza,Dionisio Torres,650000.0
+146,936417040,Apartamentos,0.0,58,2,2,0,Fortaleza,Dionisio Torres,420000.0
+147,714931273,Apartamentos,1380.0,143,3,,2,Fortaleza,Dionisio Torres,750000.0
+148,913584622,Apartamentos,900.0,124,3,4,2,Fortaleza,Dionisio Torres,550000.0
+149,954664242,Apartamentos,1880.0,216,4,5 ou mais,3,Fortaleza,Dionisio Torres,950000.0
+150,963039090,Apartamentos,0.0,93,3,3,2,Fortaleza,Dionisio Torres,620000.0
+151,900871299,Apartamentos,820.0,126,3,3,3,Fortaleza,Dionisio Torres,300000.0
+152,849242599,Casas,0.0,350,5 ou mais,5 ou mais,3,Fortaleza,Dionisio Torres,1190000.0
+153,959974532,Apartamentos,2400.0,300,3,5 ou mais,3,Fortaleza,Dionisio Torres,2990000.0
+154,886683421,Apartamentos,1300.0,187,4,5 ou mais,3,Fortaleza,Dionisio Torres,570000.0
+155,959974627,Apartamentos,0.0,163,3,4,3,Fortaleza,Dionisio Torres,1595000.0
+156,716503404,Apartamentos,900.0,150,3,4,2,Fortaleza,Dionisio Torres,650000.0
+157,972268091,Apartamentos,1860.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2400000.0
+158,959044353,Apartamentos,1200.0,160,3,3,3,Fortaleza,Aldeota,600000.0
+159,888809223,Apartamentos,840.0,130,3,2,2,Fortaleza,Dionisio Torres,380000.0
+160,936416929,Apartamentos,911.0,115,3,3,2,Fortaleza,Dionisio Torres,550000.0
+161,950665416,Apartamentos,1100.0,110,3,4,3,Fortaleza,Dionisio Torres,560000.0
+162,808783120,Apartamentos,900.0,124,3,3,2,Fortaleza,Dionisio Torres,470000.0
+163,945169773,Apartamentos,1024.0,126,3,3,2,Fortaleza,Dionisio Torres,640000.0
+164,789120956,Apartamentos,0.0,58,2,2,,Fortaleza,Dionisio Torres,420000.0
+165,940101348,Apartamentos,0.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,1890000.0
+166,886401282,Apartamentos,700.0,94,3,1,1,Fortaleza,Dionisio Torres,290000.0
+167,958174041,Apartamentos,850.0,158,3,4,3,Fortaleza,Dionisio Torres,1800000.0
+168,964178617,Apartamentos,1750.0,135,3,4,3,Fortaleza,Aldeota,580000.0
+169,974409084,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487882.0
+170,974408982,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528882.0
+171,886400990,Apartamentos,800.0,150,3,3,3,Fortaleza,Dionisio Torres,550000.0
+172,967482354,Apartamentos,900.0,90,3,3,2,Fortaleza,Dionisio Torres,449000.0
+173,943509942,Apartamentos,600.0,120,3,2,1,Fortaleza,Dionisio Torres,250000.0
+174,772801784,Apartamentos,1300.0,162,3,4,3,Fortaleza,Dionisio Torres,1680000.0
+175,950990386,Apartamentos,400.0,80,3,2,1,Fortaleza,Dionisio Torres,299000.0
+176,714930784,Apartamentos,650.0,91,3,4,2,Fortaleza,Dionisio Torres,410000.0
+177,824622934,Apartamentos,2400.0,300,3,5 ou mais,4,Fortaleza,Dionisio Torres,2990000.0
+178,923862929,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+179,923863484,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+180,923863587,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+181,891462072,Apartamentos,730.0,96,3,3,2,Fortaleza,Dionisio Torres,680000.0
+182,899907764,Apartamentos,950.0,65,3,2,2,Fortaleza,Dionisio Torres,370000.0
+183,955795571,Apartamentos,0.0,162,3,2,4,Fortaleza,Dionisio Torres,1680000.0
+184,954411904,Apartamentos,925.0,65,3,2,2,Fortaleza,Dionisio Torres,380000.0
+185,961184296,Apartamentos,730.0,78,2,2,1,Fortaleza,Dionisio Torres,280000.0
+186,963539926,Apartamentos,500.0,134,3,3,1,Fortaleza,Dionisio Torres,285000.0
+187,897614620,Casas,0.0,363,4,4,5 ou mais,Fortaleza,Dionisio Torres,950000.0
+188,922068106,Casas,0.0,585,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,1250000.0
+189,959072341,Apartamentos,1242.0,125,2,4,2,Fortaleza,Dionisio Torres,450000.0
+190,974185007,Apartamentos,1200.0,168,4,4,2,Fortaleza,Dionisio Torres,600000.0
+191,647882530,Apartamentos,0.0,154,3,4,3,Fortaleza,Dionisio Torres,1331534.0
+192,926837562,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+193,926837620,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+194,974125180,Apartamentos,200.0,96,3,3,1,Fortaleza,Dionisio Torres,275000.0
+195,714929994,Apartamentos,975.0,134,3,4,,Fortaleza,Dionisio Torres,600000.0
+196,897614501,Apartamentos,1750.0,202,3,5 ou mais,3,Fortaleza,Aldeota,585000.0
+197,962076741,Apartamentos,900.0,159,3,3,4,Fortaleza,Dionisio Torres,1590000.0
+198,886356294,Apartamentos,1300.0,137,3,3,2,Fortaleza,Dionisio Torres,550000.0
+199,928505979,Apartamentos,520.0,120,3,3,1,Fortaleza,Dionisio Torres,280000.0
+200,972296783,Apartamentos,1130.0,150,3,4,2,Fortaleza,Dionisio Torres,550000.0
+201,714930897,Apartamentos,703.0,94,2,1,2,Fortaleza,Dionisio Torres,700000.0
+202,961535247,Apartamentos,1570.0,210,3,5 ou mais,3,Fortaleza,Dionisio Torres,1390000.0
+203,932285626,Apartamentos,0.0,50,2,2,1,Fortaleza,Dionisio Torres,420000.0
+204,951653617,Casas,0.0,202,4,3,5 ou mais,Fortaleza,Dionisio Torres,950000.0
+205,923863652,Casas,0.0,180,3,2,2,Fortaleza,Dionisio Torres,0.0
+206,928823075,Apartamentos,1700.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2070000.0
+207,959833891,Apartamentos,995.0,70,2,2,2,Fortaleza,Dionisio Torres,420000.0
+208,973804148,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487395.0
+209,973803642,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528395.0
+210,886401087,Casas,0.0,530,3,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,1950000.0
+211,919381384,Apartamentos,830.0,133,3,4,2,Fortaleza,Dionisio Torres,450000.0
+212,921884379,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+213,949809857,Apartamentos,1400.0,230,4,5 ou mais,0,Fortaleza,Dionisio Torres,2000000.0
+214,821557489,Apartamentos,1280.0,158,3,0,3,Fortaleza,Dionisio Torres,1450000.0
+215,959045219,Apartamentos,800.0,230,4,5 ou mais,3,Fortaleza,Dionisio Torres,1100000.0
+216,921884100,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+217,973727060,Apartamentos,0.0,58,2,0,1,Fortaleza,Dionisio Torres,0.0
+218,933324028,Apartamentos,1260.0,151,3,3,,Fortaleza,Dionisio Torres,1550000.0
+219,714930482,Apartamentos,600.0,91,3,3,2,Fortaleza,Dionisio Torres,460000.0
+220,946910891,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,546500.0
+221,920778735,Apartamentos,730.0,96,3,3,2,Fortaleza,Dionisio Torres,680000.0
+222,914355527,Apartamentos,1100.0,100,3,3,2,Fortaleza,Dionisio Torres,280000.0
+223,954006147,Apartamentos,0.0,95,3,3,2,Fortaleza,Dionisio Torres,1090531.0
+224,959690948,Apartamentos,995.0,114,2,2,2,Fortaleza,Dionisio Torres,420000.0
+225,930990176,Apartamentos,690.0,109,3,3,2,Fortaleza,Dionisio Torres,590000.0
+226,973553142,Apartamentos,0.0,219,5 ou mais,5 ou mais,4,Fortaleza,Dionisio Torres,1735000.0
+227,973550791,Apartamentos,1200.0,140,3,3,0,Fortaleza,Dionisio Torres,359000.0
+228,897614950,Apartamentos,1060.0,171,3,4,2,Fortaleza,Dionisio Torres,550000.0
+229,660764483,Apartamentos,799.0,73,3,3,2,Fortaleza,Dionisio Torres,439000.0
+230,801926662,Apartamentos,550.0,114,4,3,2,Fortaleza,Dionisio Torres,569990.0
+231,782673741,Apartamentos,0.0,219,4,,4,Fortaleza,Dionisio Torres,1890000.0
+232,959072167,Apartamentos,0.0,118,3,5 ou mais,2,Fortaleza,Dionisio Torres,980000.0
+233,909177430,Apartamentos,925.0,65,3,2,2,Fortaleza,Dionisio Torres,385000.0
+234,973425302,Apartamentos,1600.0,218,4,,3,Fortaleza,Joaquim Távora,500000.0
+235,973425300,Apartamentos,900.0,134,3,,3,Fortaleza,Dionisio Torres,530000.0
+236,774750427,Apartamentos,700.0,96,3,4,2,Fortaleza,Dionisio Torres,650000.0
+237,940821564,Apartamentos,0.0,119,3,4,2,Fortaleza,Dionisio Torres,881000.0
+238,855419959,Apartamentos,1000.0,135,3,,3,Fortaleza,Dionisio Torres,1050000.0
+239,929879662,Apartamentos,0.0,78,2,2,1,Fortaleza,Dionisio Torres,640000.0
+240,946635109,Apartamentos,1150.0,110,3,3,2,Fortaleza,Dionisio Torres,590000.0
+241,962930631,Apartamentos,700.0,96,3,3,2,Fortaleza,Dionisio Torres,620000.0
+242,959974593,Apartamentos,1200.0,173,3,4,5 ou mais,Fortaleza,Dionisio Torres,1480000.0
+243,942488933,Apartamentos,1252.0,205,4,5 ou mais,,Fortaleza,Dionisio Torres,880000.0
+244,973308434,Apartamentos,1300.0,150,4,4,3,Fortaleza,Dionisio Torres,550000.0
+245,959072209,Apartamentos,800.0,73,3,3,3,Fortaleza,Dionisio Torres,450000.0
+246,940633185,Apartamentos,700.0,95,3,3,3,Fortaleza,Dionisio Torres,480000.0
+247,947695493,Apartamentos,0.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2230900.0
+248,959974583,Apartamentos,710.0,118,3,4,2,Fortaleza,Dionisio Torres,850000.0
+249,926544824,Apartamentos,1375.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2259048.0
+250,964759699,Casas,0.0,211,3,3,2,Fortaleza,Dionisio Torres,640000.0
+251,888809982,Apartamentos,800.0,112,2,3,2,Fortaleza,Dionisio Torres,670000.0
+252,660734577,Apartamentos,500.0,115,3,4,2,Fortaleza,Dionisio Torres,529000.0
+253,929349588,Apartamentos,1100.0,151,4,5 ou mais,3,Fortaleza,Dionisio Torres,1400000.0
+254,962076715,Apartamentos,950.0,140,3,3,2,Fortaleza,Dionisio Torres,750000.0
+255,760242912,Apartamentos,1100.0,187,3,,2,Fortaleza,Dionisio Torres,770000.0
+256,913435558,Apartamentos,1100.0,119,3,4,2,Fortaleza,Dionisio Torres,545000.0
+257,888807586,Apartamentos,2400.0,300,3,5 ou mais,3,Fortaleza,Dionisio Torres,3000000.0
+258,925559924,Apartamentos,822.0,81,3,2,1,Fortaleza,Dionisio Torres,350000.0
+259,973068531,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487747.0
+260,888807597,Apartamentos,700.0,96,3,2,2,Fortaleza,Dionisio Torres,590000.0
+261,886400921,Apartamentos,1000.0,183,3,4,3,Fortaleza,Dionisio Torres,720000.0
+262,932946176,Apartamentos,1000.0,135,3,4,3,Fortaleza,Dionisio Torres,1270000.0
+263,946635141,Apartamentos,580.0,91,3,4,2,Fortaleza,Dionisio Torres,340000.0
+264,932285572,Apartamentos,1100.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2290000.0
+265,714929507,Apartamentos,0.0,135,3,5 ou mais,3,Fortaleza,Aldeota,610000.0
+266,886400296,Apartamentos,1020.0,126,3,4,2,Fortaleza,Dionisio Torres,600000.0
+267,953678120,Apartamentos,1700.0,135,3,1,3,Fortaleza,Aldeota,680000.0
+268,917141570,Apartamentos,1750.0,178,4,4,5 ou mais,Fortaleza,Dionisio Torres,1100000.0
+269,967339172,Apartamentos,0.0,118,3,4,2,Fortaleza,Dionisio Torres,830000.0
+270,886416594,Apartamentos,1035.0,145,3,4,2,Fortaleza,Dionisio Torres,500000.0
+271,959974457,Apartamentos,0.0,110,3,3,2,Fortaleza,Dionisio Torres,590000.0
+272,940100929,Apartamentos,900.0,91,3,3,2,Fortaleza,Dionisio Torres,449000.0
+273,724771704,Apartamentos,1250.0,145,4,4,3,Fortaleza,Tauape,1000000.0
+274,729937288,Apartamentos,0.0,280,4,5 ou mais,3,Fortaleza,Dionisio Torres,750000.0
+275,729953127,Apartamentos,0.0,280,4,5 ou mais,3,Fortaleza,Dionisio Torres,750000.0
+276,729935197,Apartamentos,0.0,280,4,5 ou mais,3,Fortaleza,Dionisio Torres,750000.0
+277,729930533,Apartamentos,0.0,280,4,5 ou mais,3,Fortaleza,Dionisio Torres,750000.0
+278,695088281,Apartamentos,750.0,92,4,4,2,Fortaleza,Dionisio Torres,390000.0
+279,729936313,Apartamentos,0.0,280,4,5 ou mais,3,Fortaleza,Dionisio Torres,750000.0
+280,729931645,Apartamentos,0.0,280,4,5 ou mais,3,Fortaleza,Dionisio Torres,750000.0
+281,888809147,Apartamentos,800.0,150,4,4,2,Fortaleza,Dionisio Torres,650000.0
+282,959072250,Apartamentos,1000.0,135,3,3,3,Fortaleza,Dionisio Torres,990000.0
+283,886417660,Apartamentos,700.0,134,3,2,1,Fortaleza,Dionisio Torres,200000.0
+284,958173897,Apartamentos,1750.0,135,3,4,3,Fortaleza,Aldeota,580000.0
+285,917704161,Apartamentos,1075.0,200,3,5 ou mais,2,Fortaleza,Dionisio Torres,740000.0
+286,959974430,Apartamentos,750.0,93,3,4,2,Fortaleza,Dionisio Torres,650000.0
+287,924123248,Apartamentos,830.0,137,3,3,2,Fortaleza,Dionisio Torres,450000.0
+288,888807616,Apartamentos,1250.0,174,4,4,3,Fortaleza,Dionisio Torres,1200000.0
+289,886403068,Apartamentos,0.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2246000.0
+290,759099557,Apartamentos,700.0,91,3,3,2,Fortaleza,Dionisio Torres,335000.0
+291,954960312,Apartamentos,0.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2050974.0
+292,959071991,Apartamentos,0.0,159,3,5 ou mais,3,Fortaleza,Dionisio Torres,1500000.0
+293,932285038,Apartamentos,900.0,159,3,4,3,Fortaleza,Dionisio Torres,1500000.0
+294,794259061,Apartamentos,600.0,66,2,2,1,Fortaleza,Aldeota,360000.0
+295,972622245,Apartamentos,800.0,91,3,4,2,Fortaleza,Dionisio Torres,450000.0
+296,940100872,Apartamentos,1150.0,154,3,5 ou mais,3,Fortaleza,Dionisio Torres,1500000.0
+297,972571177,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528556.0
+298,731476101,Apartamentos,1.0,51,2,2,1,Fortaleza,Dionisio Torres,399000.0
+299,641191746,Apartamentos,0.0,177,4,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,1599000.0
+300,917658974,Apartamentos,790.0,92,4,4,2,Fortaleza,Dionisio Torres,450000.0
+301,947695505,Apartamentos,0.0,50,2,2,1,Fortaleza,Dionisio Torres,546500.0
+302,593424551,Apartamentos,850.0,105,3,3,2,Fortaleza,Dionisio Torres,550000.0
+303,936416805,Apartamentos,500.0,126,3,3,2,Fortaleza,Dionisio Torres,280000.0
+304,972298984,Apartamentos,1670.0,143,3,4,2,Fortaleza,Dionisio Torres,650000.0
+305,972298821,Casas,0.0,134,4,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,1300000.0
+306,972298772,Apartamentos,1100.0,160,3,3,3,Fortaleza,Dionisio Torres,550000.0
+307,972298675,Apartamentos,0.0,58,2,2,1,Fortaleza,Dionisio Torres,584500.0
+308,972298689,Apartamentos,980.0,158,4,5 ou mais,3,Fortaleza,Dionisio Torres,1800000.0
+309,972298393,Apartamentos,1105.0,116,3,4,2,Fortaleza,Dionisio Torres,475000.0
+310,972298261,Apartamentos,675.0,122,3,2,1,Fortaleza,Dionisio Torres,400000.0
+311,972298126,Apartamentos,2067.0,296,3,5 ou mais,4,Fortaleza,Dionisio Torres,2990000.0
+312,972298105,Apartamentos,598.0,112,3,2,1,Fortaleza,Dionisio Torres,320000.0
+313,972298023,Apartamentos,850.0,108,4,3,1,Fortaleza,Dionisio Torres,270000.0
+314,972297973,Casas,0.0,264,5 ou mais,4,2,Fortaleza,Dionisio Torres,1100000.0
+315,972297967,Casas,0.0,627,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Tauape,3000000.0
+316,972297930,Apartamentos,609.0,122,3,2,2,Fortaleza,Dionisio Torres,550000.0
+317,972297878,Apartamentos,1400.0,168,3,3,5 ou mais,Fortaleza,Dionisio Torres,1500000.0
+318,972297828,Apartamentos,0.0,50,2,2,1,Fortaleza,Dionisio Torres,506500.0
+319,972297804,Apartamentos,0.0,113,3,4,2,Fortaleza,Dionisio Torres,1053732.0
+320,972297741,Apartamentos,608.0,111,3,3,2,Fortaleza,Dionisio Torres,495000.0
+321,972297693,Casas,0.0,300,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,1220000.0
+322,972297678,Apartamentos,500.0,33,1,1,1,Fortaleza,Dionisio Torres,350000.0
+323,972297654,Apartamentos,1.0,219,3,5 ou mais,4,Fortaleza,Dionisio Torres,2230990.0
+324,972297630,Apartamentos,700.0,144,3,3,2,Fortaleza,Dionisio Torres,500000.0
+325,972297583,Apartamentos,730.0,96,3,4,2,Fortaleza,Dionisio Torres,680000.0
+326,972297562,Apartamentos,1100.0,135,3,5 ou mais,3,Fortaleza,Dionisio Torres,685000.0
+327,972297425,Apartamentos,1000.0,150,4,5 ou mais,3,Fortaleza,Dionisio Torres,965000.0
+328,972297316,Apartamentos,900.0,165,3,3,2,Fortaleza,Dionisio Torres,450000.0
+329,972297271,Apartamentos,0.0,54,1,1,1,Fortaleza,Dionisio Torres,538561.0
+330,972297210,Apartamentos,0.0,58,1,1,1,Fortaleza,Dionisio Torres,548470.0
+331,972297188,Apartamentos,1638.0,258,3,5 ou mais,2,Fortaleza,Dionisio Torres,899000.0
+332,972297169,Apartamentos,1870.0,143,3,4,3,Fortaleza,Dionisio Torres,515000.0
+333,972297104,Apartamentos,0.0,58,2,2,2,Fortaleza,Dionisio Torres,567000.0
+334,972297018,Apartamentos,1025.0,127,3,5 ou mais,2,Fortaleza,Dionisio Torres,720000.0
+335,972296999,Apartamentos,925.0,69,3,2,2,Fortaleza,Dionisio Torres,389000.0
+336,972296973,Apartamentos,1250.0,178,4,5 ou mais,4,Fortaleza,Dionisio Torres,1100000.0
+337,907568729,Apartamentos,1100.0,122,3,3,2,Fortaleza,Dionisio Torres,450000.0
+338,927675369,Apartamentos,670.0,93,3,3,,Fortaleza,Dionisio Torres,640000.0
+339,972228953,Apartamentos,1200.0,119,3,4,2,Fortaleza,Dionisio Torres,490000.0
+340,925168222,Apartamentos,1242.0,124,2,4,2,Fortaleza,Dionisio Torres,450000.0
+341,949609192,Apartamentos,1000.0,137,3,4,2,Fortaleza,Dionisio Torres,550000.0
+342,932285365,Apartamentos,900.0,159,3,4,3,Fortaleza,Dionisio Torres,1500000.0
+343,791168781,Apartamentos,0.0,50,2,2,1,Fortaleza,Dionisio Torres,510000.0
+344,907567400,Apartamentos,1130.0,150,3,5 ou mais,2,Fortaleza,Dionisio Torres,550000.0
+345,932284893,Apartamentos,750.0,91,3,3,2,Fortaleza,Dionisio Torres,430000.0
+346,729939492,Apartamentos,0.0,280,4,5 ou mais,3,Fortaleza,Dionisio Torres,750000.0
+347,819409150,Apartamentos,700.0,114,4,3,2,Fortaleza,Dionisio Torres,459999.0
+348,971815428,Apartamentos,0.0,120,3,4,2,Fortaleza,Dionisio Torres,490000.0
+349,886415456,Apartamentos,565.0,74,2,2,1,Fortaleza,Dionisio Torres,290000.0
+350,911303716,Apartamentos,1315.0,123,3,4,2,Fortaleza,Dionisio Torres,560000.0
+351,957787381,Apartamentos,825.0,74,3,2,1,Fortaleza,Dionisio Torres,380000.0
+352,729940285,Apartamentos,0.0,280,4,5 ou mais,3,Fortaleza,Dionisio Torres,750000.0
+353,819407785,Apartamentos,700.0,114,4,3,2,Fortaleza,Aldeota,459999.0
+354,959974334,Apartamentos,0.0,151,3,5 ou mais,3,Fortaleza,Dionisio Torres,1395000.0
+355,971641392,Apartamentos,820.0,135,3,2,2,Fortaleza,Dionisio Torres,280000.0
+356,959974381,Apartamentos,1700.0,235,4,5 ou mais,4,Fortaleza,Dionisio Torres,2700000.0
+357,971533813,Apartamentos,600.0,116,4,3,1,Fortaleza,Dionisio Torres,230000.0
+358,971516548,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528884.0
+359,894333364,Apartamentos,0.0,219,4,4,4,Fortaleza,Dionisio Torres,2170000.0
+360,888808181,Apartamentos,560.0,75,2,2,1,Fortaleza,Dionisio Torres,250000.0
+361,907622494,Apartamentos,900.0,165,3,3,1,Fortaleza,Dionisio Torres,400000.0
+362,947695530,Apartamentos,0.0,78,2,2,1,Fortaleza,Dionisio Torres,655000.0
+363,919123074,Apartamentos,0.0,95,3,4,2,Fortaleza,Dionisio Torres,958000.0
+364,959072198,Apartamentos,2400.0,300,3,5 ou mais,4,Fortaleza,Dionisio Torres,2990000.0
+365,959974342,Apartamentos,630.0,95,3,3,2,Fortaleza,Dionisio Torres,730000.0
+366,920764990,Apartamentos,860.0,120,3,4,2,Fortaleza,Dionisio Torres,1050000.0
+367,919123059,Apartamentos,0.0,119,3,4,2,Fortaleza,Dionisio Torres,1200000.0
+368,928387138,Apartamentos,1100.0,152,4,5 ou mais,3,Fortaleza,Dionisio Torres,1400000.0
+369,929879644,Apartamentos,0.0,50,2,2,1,Fortaleza,Dionisio Torres,536000.0
+370,940101090,Apartamentos,1900.0,219,4,2,3,Fortaleza,Dionisio Torres,1975000.0
+371,970920011,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487543.0
+372,970919367,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528543.0
+373,959974149,Apartamentos,0.0,246,4,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,2350000.0
+374,959974297,Apartamentos,1000.0,126,3,4,2,Fortaleza,Dionisio Torres,720000.0
+375,935789581,Apartamentos,1380.0,168,3,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,1480000.0
+376,958684541,Casas,0.0,194,5 ou mais,4,4,Fortaleza,Dionisio Torres,1000000.0
+377,882687749,Apartamentos,1100.0,126,3,2,2,Fortaleza,Dionisio Torres,245000.0
+378,917704233,Casas,0.0,130,4,3,3,Fortaleza,Dionisio Torres,1200000.0
+379,962076652,Apartamentos,950.0,149,3,4,2,Fortaleza,Dionisio Torres,750000.0
+380,920747765,Apartamentos,980.0,150,3,4,2,Fortaleza,Dionisio Torres,760000.0
+381,754816267,Apartamentos,1350.0,201,5 ou mais,5 ou mais,4,Fortaleza,Dionisio Torres,990000.0
+382,970355715,Apartamentos,1.0,140,3,3,1,Fortaleza,Dionisio Torres,350000.0
+383,938527281,Apartamentos,0.0,350,4,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,1600000.0
+384,970220335,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487177.0
+385,929879615,Apartamentos,0.0,58,2,2,1,Fortaleza,Dionisio Torres,567000.0
+386,907569025,Apartamentos,2500.0,280,4,5 ou mais,3,Fortaleza,Dionisio Torres,640000.0
+387,955796495,Apartamentos,1700.0,295,4,5 ou mais,3,Fortaleza,Dionisio Torres,1120000.0
+388,888808707,Apartamentos,750.0,100,3,2,2,Fortaleza,Dionisio Torres,390000.0
+389,819044713,Casas,0.0,380,4,1,5 ou mais,Fortaleza,Dionisio Torres,1300000.0
+390,969857407,Apartamentos,0.0,200,4,4,2,Fortaleza,Dionisio Torres,590000.0
+391,947695705,Apartamentos,0.0,58,2,2,1,Fortaleza,Dionisio Torres,579500.0
+392,969848686,Apartamentos,0.0,200,4,4,2,Fortaleza,Dionisio Torres,590000.0
+393,936416633,Apartamentos,911.0,115,3,3,2,Fortaleza,Dionisio Torres,570000.0
+394,913404226,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+395,913394393,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+396,913329652,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+397,913327516,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+398,969543408,Apartamentos,1080.0,149,3,4,2,Fortaleza,Dionisio Torres,635000.0
+399,932284530,Apartamentos,0.0,58,2,2,1,Fortaleza,Dionisio Torres,430000.0
+400,888809902,Apartamentos,1350.0,174,3,4,3,Fortaleza,Dionisio Torres,1100000.0
+401,940101054,Apartamentos,0.0,96,3,4,2,Fortaleza,Dionisio Torres,680000.0
+402,907566125,Apartamentos,1100.0,70,3,1,2,Fortaleza,Dionisio Torres,450000.0
+403,888808862,Apartamentos,1090.0,167,3,4,3,Fortaleza,Dionisio Torres,1580000.0
+404,959974254,Apartamentos,1018.0,158,3,4,3,Fortaleza,Dionisio Torres,1450000.0
+405,959974230,Apartamentos,1700.0,235,4,5 ou mais,4,Fortaleza,Dionisio Torres,2400000.0
+406,852308524,Apartamentos,950.0,122,4,4,2,Fortaleza,Dionisio Torres,550000.0
+407,940100697,Apartamentos,2000.0,223,3,4,4,Fortaleza,Dionisio Torres,430000.0
+408,968801557,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487174.0
+409,968801208,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528174.0
+410,888809105,Apartamentos,860.0,111,3,3,1,Fortaleza,Dionisio Torres,450000.0
+411,917704154,Casas,0.0,440,4,3,3,Fortaleza,Dionisio Torres,1600000.0
+412,917946006,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+413,917945975,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+414,941849676,Apartamentos,1239.0,175,3,4,4,Fortaleza,Dionisio Torres,950000.0
+415,968685519,Apartamentos,732.0,94,3,4,2,Fortaleza,Dionisio Torres,850000.0
+416,968504640,Apartamentos,330.0,120,4,2,2,Fortaleza,Dionisio Torres,230000.0
+417,897714944,Apartamentos,2500.0,280,4,5 ou mais,3,Fortaleza,Dionisio Torres,550000.0
+418,817579103,Apartamentos,1500.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,1750000.0
+419,768214015,Apartamentos,740.0,93,3,3,2,Fortaleza,Dionisio Torres,630000.0
+420,886423040,Apartamentos,900.0,127,3,4,3,Fortaleza,Dionisio Torres,600000.0
+421,959973401,Apartamentos,0.0,96,3,4,2,Fortaleza,Dionisio Torres,620000.0
+422,888808107,Apartamentos,1000.0,127,3,4,3,Fortaleza,Dionisio Torres,650000.0
+423,955796078,Apartamentos,1000.0,112,3,4,1,Fortaleza,Dionisio Torres,400000.0
+424,907567949,Apartamentos,1595.0,150,3,4,2,Fortaleza,Dionisio Torres,700000.0
+425,920738229,Apartamentos,1500.0,200,4,3,2,Fortaleza,Dionisio Torres,598000.0
+426,916735408,Apartamentos,530.0,99,2,3,1,Fortaleza,Dionisio Torres,290000.0
+427,959974020,Apartamentos,780.0,99,3,4,2,Fortaleza,Dionisio Torres,750000.0
+428,968020062,Apartamentos,0.0,0,4,0,0,Fortaleza,Dionisio Torres,2220269.0
+429,888808405,Apartamentos,800.0,145,3,4,3,Fortaleza,Dionisio Torres,500000.0
+430,923528376,Apartamentos,1750.0,178,4,4,5 ou mais,Fortaleza,Dionisio Torres,1100000.0
+431,967849026,Apartamentos,822.0,81,3,2,1,Fortaleza,Dionisio Torres,350000.0
+432,967821751,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487897.0
+433,967821341,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528897.0
+434,916735415,Apartamentos,980.0,144,3,4,2,Fortaleza,Dionisio Torres,580000.0
+435,888809344,Apartamentos,715.0,95,3,3,2,Fortaleza,Dionisio Torres,650000.0
+436,888809712,Apartamentos,550.0,67,3,2,2,Fortaleza,Dionisio Torres,350000.0
+437,916735510,Apartamentos,0.0,130,3,4,3,Fortaleza,Dionisio Torres,520000.0
+438,934761788,Apartamentos,900.0,70,3,2,2,Fortaleza,Dionisio Torres,420000.0
+439,967441960,Apartamentos,570.0,136,4,3,2,Fortaleza,Dionisio Torres,294000.0
+440,967352389,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487085.0
+441,967352156,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528085.0
+442,906027115,Apartamentos,1025.0,126,3,4,2,Fortaleza,Dionisio Torres,640000.0
+443,936416515,Casas,0.0,42,2,1,0,Fortaleza,Dionisio Torres,350000.0
+444,967092951,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487963.0
+445,959973460,Apartamentos,600.0,96,3,4,2,Fortaleza,Dionisio Torres,590000.0
+446,966994681,Apartamentos,1500.0,55,2,1,1,Fortaleza,Dionisio Torres,335000.0
+447,831476795,Apartamentos,700.0,220,4,4,2,Fortaleza,Dionisio Torres,600000.0
+448,966698978,Apartamentos,0.0,58,2,0,1,Fortaleza,Dionisio Torres,0.0
+449,959974103,Apartamentos,0.0,235,4,5 ou mais,4,Fortaleza,Dionisio Torres,2900000.0
+450,763134311,Apartamentos,1790.0,143,3,3,3,Fortaleza,Dionisio Torres,480000.0
+451,913394165,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+452,913304350,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+453,913302764,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+454,966360394,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487997.0
+455,966360118,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528479.0
+456,941604442,Apartamentos,800.0,91,3,4,2,Fortaleza,Dionisio Torres,850000.0
+457,929879617,Apartamentos,0.0,58,2,2,1,Fortaleza,Dionisio Torres,568000.0
+458,959974131,Apartamentos,0.0,246,4,1,5 ou mais,Fortaleza,Dionisio Torres,2750000.0
+459,966093106,Apartamentos,0.0,300,3,4,3,Fortaleza,Dionisio Torres,3300107.0
+460,966092308,Apartamentos,0.0,150,3,4,2,Fortaleza,Dionisio Torres,650107.0
+461,966090887,Apartamentos,0.0,150,3,3,2,Fortaleza,Dionisio Torres,550107.0
+462,916645649,Apartamentos,0.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2200000.0
+463,778188333,Casas,0.0,42,2,1,,Fortaleza,Dionisio Torres,350000.0
+464,907568380,Apartamentos,570.0,90,3,1,2,Fortaleza,Dionisio Torres,420000.0
+465,772543253,Apartamentos,1000.0,162,3,4,4,Fortaleza,Dionisio Torres,1499000.0
+466,926660282,Apartamentos,1350.0,184,4,5 ou mais,2,Fortaleza,Dionisio Torres,450000.0
+467,914670999,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+468,965677891,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487931.0
+469,965675265,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528557.0
+470,754849645,Apartamentos,700.0,119,3,3,2,Fortaleza,Dionisio Torres,905000.0
+471,879671487,Apartamentos,0.0,50,1,2,1,Fortaleza,Dionisio Torres,0.0
+472,914672854,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+473,629943658,Apartamentos,729.0,92,3,,2,Fortaleza,Dionisio Torres,650000.0
+474,936417305,Apartamentos,1200.0,135,3,3,2,Fortaleza,Dionisio Torres,480000.0
+475,959973275,Apartamentos,0.0,190,3,4,3,Fortaleza,Dionisio Torres,879000.0
+476,886416688,Apartamentos,1000.0,135,3,3,3,Fortaleza,Aldeota,720000.0
+477,888809553,Casas,0.0,163,3,2,3,Fortaleza,Dionisio Torres,1200000.0
+478,907567525,Apartamentos,1000.0,126,3,4,3,Fortaleza,Dionisio Torres,650000.0
+479,965303759,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487679.0
+480,965303574,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528741.0
+481,886400762,Casas,0.0,350,3,1,5 ou mais,Fortaleza,Dionisio Torres,1300000.0
+482,959973110,Apartamentos,0.0,246,4,1,5 ou mais,Fortaleza,Dionisio Torres,2400000.0
+483,897614905,Apartamentos,1100.0,201,3,4,2,Fortaleza,Dionisio Torres,400000.0
+484,773604279,Apartamentos,1300.0,200,3,3,2,Fortaleza,Dionisio Torres,600000.0
+485,888808624,Apartamentos,1320.0,138,3,4,2,Fortaleza,Dionisio Torres,550000.0
+486,913867399,Apartamentos,900.0,199,3,4,2,Fortaleza,Dionisio Torres,550000.0
+487,636185080,Apartamentos,1200.0,219,4,4,4,Fortaleza,Dionisio Torres,2127834.0
+488,939586145,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+489,939562250,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+490,939562318,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+491,939562358,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+492,939564492,Casas,0.0,180,3,2,2,Fortaleza,Dionisio Torres,0.0
+493,939564553,Apartamentos,0.0,43,2,2,5 ou mais,Fortaleza,Dionisio Torres,0.0
+494,939565729,Casas,0.0,52,2,2,1,Fortaleza,Dionisio Torres,0.0
+495,939565809,Casas,0.0,151,2,2,4,Fortaleza,Dionisio Torres,0.0
+496,939586354,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+497,939589389,Casas,0.0,180,3,2,2,Fortaleza,Dionisio Torres,0.0
+498,939610147,Casas,0.0,151,2,2,4,Fortaleza,Dionisio Torres,0.0
+499,939610151,Casas,0.0,52,2,2,1,Fortaleza,Dionisio Torres,0.0
+500,959773586,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487056.0
+501,959768925,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528520.0
+502,907566461,Apartamentos,900.0,165,3,3,2,Fortaleza,Dionisio Torres,450000.0
+503,936411318,Apartamentos,1000.0,138,3,4,2,Fortaleza,Dionisio Torres,500000.0
+504,959355136,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487062.0
+505,959352220,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528501.0
+506,906514035,Apartamentos,0.0,110,3,3,2,Fortaleza,Dionisio Torres,350000.0
+507,917367103,Apartamentos,925.0,65,2,2,2,Fortaleza,Dionisio Torres,370000.0
+508,958626465,Apartamentos,1860.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2400000.0
+509,920735446,Apartamentos,2109.0,148,3,3,0,Fortaleza,Dionisio Torres,800000.0
+510,958432629,Apartamentos,0.0,150,3,3,2,Fortaleza,Dionisio Torres,460000.0
+511,958426069,Apartamentos,1120.0,100,3,,2,Fortaleza,Dionisio Torres,370000.0
+512,931198215,Casas,0.0,0,4,0,0,Fortaleza,Dionisio Torres,500000.0
+513,931201435,Casas,0.0,0,3,0,0,Fortaleza,Dionisio Torres,300000.0
+514,931198502,Casas,0.0,0,3,0,0,Fortaleza,Dionisio Torres,350000.0
+515,958140082,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487063.0
+516,958138496,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528469.0
+517,958125879,Apartamentos,822.0,74,3,2,1,Fortaleza,Dionisio Torres,389990.0
+518,935648326,Apartamentos,1150.0,146,3,3,,Fortaleza,Dionisio Torres,550000.0
+519,839156615,Apartamentos,0.0,118,3,2,3,Fortaleza,Dionisio Torres,245000.0
+520,817196799,Apartamentos,780.0,132,3,0,1,Fortaleza,São João do Tauape,370000.0
+521,694693553,Apartamentos,729.0,92,3,4,2,Fortaleza,Dionisio Torres,0.0
+522,695837954,Apartamentos,1050.0,105,4,4,2,Fortaleza,Dionisio Torres,360000.0
+523,695836458,Apartamentos,1050.0,105,4,4,2,Fortaleza,Dionisio Torres,360000.0
+524,694167044,Apartamentos,900.0,146,4,4,2,Fortaleza,Dionisio Torres,555000.0
+525,694160090,Apartamentos,900.0,146,4,4,2,Fortaleza,Dionisio Torres,552000.0
+526,930578087,Apartamentos,950.0,65,2,2,2,Fortaleza,Dionisio Torres,420000.0
+527,957533902,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487034.0
+528,957532479,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528444.0
+529,957459197,Apartamentos,500.0,54,1,2,1,Fortaleza,Dionisio Torres,528002.0
+530,907566475,Apartamentos,900.0,147,3,4,2,Fortaleza,Dionisio Torres,450000.0
+531,957132783,Apartamentos,800.0,132,3,3,3,Fortaleza,Dionisio Torres,275000.0
+532,930679226,Apartamentos,0.0,220,5 ou mais,5 ou mais,4,Fortaleza,Dionisio Torres,2209000.0
+533,930951173,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+534,930952230,Casas,0.0,180,3,2,2,Fortaleza,Dionisio Torres,0.0
+535,930952979,Apartamentos,0.0,43,2,2,5 ou mais,Fortaleza,Dionisio Torres,0.0
+536,930957592,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+537,905512458,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+538,956333024,Apartamentos,0.0,58,2,0,1,Fortaleza,Dionisio Torres,0.0
+539,956268874,Apartamentos,500.0,120,3,3,2,Fortaleza,Dionisio Torres,280000.0
+540,955924517,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487068.0
+541,955924471,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528497.0
+542,696998579,Apartamentos,0.0,230,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,1900000.0
+543,929187432,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+544,929187467,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+545,694682867,Apartamentos,729.0,92,3,4,2,Fortaleza,Aldeota,649999.0
+546,694673184,Apartamentos,729.0,92,3,4,2,Fortaleza,Dionisio Torres,650000.0
+547,695122436,Apartamentos,0.0,92,4,4,2,Fortaleza,Dionisio Torres,339999.0
+548,695096749,Apartamentos,750.0,92,4,4,2,Fortaleza,Aldeota,390000.0
+549,695125595,Apartamentos,0.0,92,4,4,2,Fortaleza,Dionisio Torres,339999.0
+550,694680502,Apartamentos,729.0,92,3,4,2,Fortaleza,Dionisio Torres,649999.0
+551,694661623,Apartamentos,729.0,92,3,4,2,Fortaleza,Dionisio Torres,650000.0
+552,771174972,Apartamentos,960.0,154,4,4,3,Fortaleza,Dionisio Torres,1350000.0
+553,693544970,Apartamentos,1500.0,264,4,4,4,Fortaleza,Dionisio Torres,1850000.0
+554,880081559,Apartamentos,729.0,92,3,4,2,Fortaleza,Aldeota,650000.0
+555,692226557,Apartamentos,870.0,115,4,4,2,Fortaleza,Dionisio Torres,0.0
+556,830884033,Apartamentos,0.0,160,4,4,3,Fortaleza,Dionisio Torres,1400000.0
+557,744125755,Apartamentos,0.0,95,3,4,2,Fortaleza,Dionisio Torres,599000.0
+558,955401564,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487094.0
+559,955401211,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528491.0
+560,955202073,Apartamentos,0.0,219,4,5 ou mais,0,Fortaleza,Dionisio Torres,2441953.0
+561,929777497,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+562,929777593,Casas,0.0,125,2,2,2,Fortaleza,Dionisio Torres,0.0
+563,955200191,Apartamentos,0.0,219,4,5 ou mais,0,Fortaleza,Dionisio Torres,2299280.0
+564,742284239,Apartamentos,0.0,160,4,4,4,Fortaleza,Dionisio Torres,1715000.0
+565,954958426,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487048.0
+566,954957159,Apartamentos,0.0,57,1,1,1,Fortaleza,Dionisio Torres,528437.0
+567,698163332,Apartamentos,500.0,62,2,2,1,Fortaleza,Dionisio Torres,440000.0
+568,880080321,Apartamentos,729.0,92,3,4,2,Fortaleza,Dionisio Torres,649999.0
+569,878886881,Apartamentos,600.0,71,2,1,0,Fortaleza,Dionisio Torres,175000.0
+570,920733192,Apartamentos,650.0,93,3,3,2,Fortaleza,Dionisio Torres,430000.0
+571,734971268,Apartamentos,420.0,66,3,2,1,Fortaleza,Dionisio Torres,220000.0
+572,734965701,Apartamentos,420.0,66,3,2,1,Fortaleza,Dionisio Torres,159000.0
+573,954660384,Apartamentos,0.0,50,1,1,1,Fortaleza,Dionisio Torres,487033.0
+574,954575147,Apartamentos,1100.0,133,3,4,2,Fortaleza,Dionisio Torres,400000.0
+575,954562776,Apartamentos,1350.0,160,4,,2,Fortaleza,Dionisio Torres,700000.0
+576,920716543,Casas,0.0,280,3,2,5 ou mais,Fortaleza,Dionisio Torres,1600000.0
+577,952518578,Apartamentos,0.0,151,4,5 ou mais,3,Fortaleza,Dionisio Torres,1450000.0
+578,920717894,Apartamentos,2770.0,350,3,5 ou mais,3,Fortaleza,Dionisio Torres,1590000.0
+579,920716817,Apartamentos,950.0,140,3,5 ou mais,2,Fortaleza,Dionisio Torres,549000.0
+580,938733829,Apartamentos,0.0,160,3,4,2,Fortaleza,Dionisio Torres,550000.0
+581,809049569,Apartamentos,900.0,134,3,4,3,Fortaleza,Dionisio Torres,1050000.0
+582,696997542,Apartamentos,0.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,1990000.0
+583,798746477,Apartamentos,1300.0,160,3,5 ou mais,3,Fortaleza,Aldeota,450000.0
+584,920682480,Apartamentos,2500.0,296,4,4,4,Fortaleza,Dionisio Torres,3300000.0
+585,804139103,Apartamentos,0.0,50,2,2,1,Fortaleza,Dionisio Torres,455500.0
+586,947099910,Apartamentos,1100.0,151,4,5 ou mais,3,Fortaleza,Dionisio Torres,1400000.0
+587,920742938,Apartamentos,900.0,134,3,4,3,Fortaleza,Dionisio Torres,620000.0
+588,945167692,Apartamentos,800.0,135,4,3,2,Fortaleza,Dionisio Torres,275000.0
+589,920740338,Apartamentos,800.0,93,3,4,2,Fortaleza,Dionisio Torres,650000.0
+590,920742582,Apartamentos,1200.0,219,5 ou mais,4,4,Fortaleza,Dionisio Torres,2085000.0
+591,738203998,Apartamentos,732.0,93,3,3,2,Fortaleza,Dionisio Torres,750000.0
+592,920737422,Apartamentos,1065.0,175,3,4,3,Fortaleza,Dionisio Torres,790000.0
+593,935714136,Apartamentos,1380.0,168,3,4,5 ou mais,Fortaleza,Dionisio Torres,1480000.0
+594,934786791,Apartamentos,1100.0,168,3,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,1500000.0
+595,920735199,Apartamentos,2100.0,260,4,5 ou mais,4,Fortaleza,Dionisio Torres,1350000.0
+596,933157820,Apartamentos,2310.0,296,3,5 ou mais,4,Fortaleza,Dionisio Torres,3500000.0
+597,933151545,Apartamentos,2300.0,295,3,5 ou mais,4,Fortaleza,Dionisio Torres,3500000.0
+598,932446848,Apartamentos,600.0,49,2,2,1,Fortaleza,Dionisio Torres,239000.0
+599,920734951,Apartamentos,1200.0,219,4,5 ou mais,4,Fortaleza,Dionisio Torres,2215000.0
+600,930983934,Apartamentos,0.0,450,3,4,3,Fortaleza,Dionisio Torres,1499000.0
+601,844679980,Apartamentos,500.0,126,3,3,2,Fortaleza,Dionisio Torres,280000.0
+602,930216691,Apartamentos,822.0,81,3,2,1,Fortaleza,Dionisio Torres,360000.0
+603,809178777,Apartamentos,600.0,144,3,4,2,Fortaleza,Dionisio Torres,588000.0
+604,738605801,Casas,0.0,0,4,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,1200000.0
+605,920722715,Apartamentos,1310.0,150,3,4,2,Fortaleza,Dionisio Torres,550000.0
+606,924385756,Apartamentos,925.0,65,3,,2,Fortaleza,Dionisio Torres,388500.0
+607,738605526,Apartamentos,1100.0,150,3,4,,Fortaleza,Dionisio Torres,500000.0
+608,828289468,Apartamentos,770.0,140,3,4,2,Fortaleza,Dionisio Torres,680000.0
+609,918149827,Apartamentos,699.0,169,3,3,1,Fortaleza,Dionisio Torres,280000.0
+610,917704065,Apartamentos,1400.0,197,3,5 ou mais,2,Fortaleza,Dionisio Torres,495000.0
+611,917703986,Apartamentos,360.0,124,3,3,2,Fortaleza,Dionisio Torres,295000.0
+612,917703909,Apartamentos,780.0,134,3,4,3,Fortaleza,Dionisio Torres,610000.0
+613,917703854,Apartamentos,1500.0,218,5 ou mais,5 ou mais,2,Fortaleza,Dionisio Torres,480000.0
+614,917484234,Apartamentos,1100.0,168,3,3,5 ou mais,Fortaleza,Dionisio Torres,1500000.0
+615,917240615,Apartamentos,770.0,64,3,2,2,Fortaleza,Dionisio Torres,395000.0
+616,826674673,Apartamentos,795.0,94,3,,1,Fortaleza,Dionisio Torres,350000.0
+617,814676654,Apartamentos,1000.0,117,3,4,3,Fortaleza,Dionisio Torres,720000.0
+618,738604915,Apartamentos,1100.0,91,3,3,2,Fortaleza,Dionisio Torres,370000.0
+619,736681792,Apartamentos,910.0,115,3,3,2,Fortaleza,Dionisio Torres,550000.0
+620,909658824,Apartamentos,1200.0,149,3,,4,Fortaleza,Dionisio Torres,760000.0
+621,909294228,Apartamentos,0.0,160,4,5 ou mais,4,Fortaleza,Dionisio Torres,1400000.0
+622,357903622,Apartamentos,650.0,50,2,,2,Fortaleza,Dionisio Torres,330000.0
+623,902729794,Apartamentos,1100.0,114,3,3,2,Fortaleza,Dionisio Torres,540000.0
+624,900794284,Apartamentos,1200.0,135,3,3,2,Fortaleza,Dionisio Torres,480000.0
+625,900249063,Casas,0.0,300,3,,3,Fortaleza,Aldeota,950000.0
+626,736681534,Apartamentos,910.0,115,3,3,2,Fortaleza,Dionisio Torres,570000.0
+627,896561059,Apartamentos,1600.0,212,3,,4,Fortaleza,Joaquim Távora,550000.0
+628,894663713,Apartamentos,1100.0,160,3,,3,Fortaleza,Dionisio Torres,550000.0
+629,892311369,Apartamentos,925.0,65,3,,2,Fortaleza,Dionisio Torres,370000.0
+630,880624733,Casas,0.0,384,5 ou mais,,,Fortaleza,Dionisio Torres,1150000.0
+631,880624647,Apartamentos,1400.0,90,5 ou mais,,,Fortaleza,Dionisio Torres,420000.0
+632,772919279,Apartamentos,0.0,219,3,3,4,Fortaleza,Dionisio Torres,1938000.0
+633,862715795,Apartamentos,1300.0,160,3,3,1,Fortaleza,Aldeota,490000.0
+634,853479262,Apartamentos,1100.0,114,3,3,2,Fortaleza,Dionisio Torres,550000.0
+635,841314070,Apartamentos,1960.0,143,3,4,2,Fortaleza,Joaquim Távora,530000.0
+636,788518150,Apartamentos,1500.0,168,3,,2,Fortaleza,Dionisio Torres,630000.0
+637,838915925,Apartamentos,960.0,65,3,,1,Fortaleza,Dionisio Torres,350000.0
+638,831719699,Apartamentos,0.0,50,2,,,Fortaleza,Dionisio Torres,485000.0
+639,830802871,Apartamentos,810.0,90,3,,2,Fortaleza,Dionisio Torres,420000.0
+640,824979918,Apartamentos,750.0,204,3,4,2,Fortaleza,Dionisio Torres,650000.0
+641,823831090,Apartamentos,2400.0,300,3,4,4,Fortaleza,Dionisio Torres,2990000.0
+642,813491541,Apartamentos,1190.0,150,4,4,2,Fortaleza,Dionisio Torres,600000.0
+643,813491530,Apartamentos,1065.0,126,3,3,2,Fortaleza,Dionisio Torres,730000.0
+644,811721456,Apartamentos,1670.0,143,3,,3,Fortaleza,Dionisio Torres,515000.0
+645,797617290,Casas,0.0,452,4,,,Fortaleza,Dionisio Torres,1100000.0
+646,797604382,Apartamentos,950.0,150,3,,,Fortaleza,Dionisio Torres,750000.0
+647,797603963,Casas,1.0,442,5 ou mais,,,Fortaleza,Dionisio Torres,1500000.0
+648,794169825,Apartamentos,954.0,96,3,3,2,Fortaleza,Dionisio Torres,550000.0
+649,794183815,Apartamentos,1100.0,134,3,3,3,Fortaleza,Dionisio Torres,1150000.0
+650,789487554,Casas,0.0,486,5 ou mais,2,5 ou mais,Fortaleza,Tauape,3750000.0
+651,785458087,Apartamentos,732.0,92,3,,2,Fortaleza,Dionisio Torres,720000.0
+652,783321822,Apartamentos,0.0,50,2,2,0,Fortaleza,Dionisio Torres,457000.0
+653,782958238,Apartamentos,0.0,96,3,,2,Fortaleza,Dionisio Torres,360000.0
+654,766190566,Apartamentos,0.0,162,3,4,3,Fortaleza,Dionisio Torres,1595000.0
+655,766193280,Apartamentos,970.0,136,3,3,3,Fortaleza,Dionisio Torres,1050000.0
+656,757021858,Apartamentos,0.0,160,3,3,3,Fortaleza,Aldeota,650000.0
+657,755778318,Apartamentos,630.0,98,3,3,2,Fortaleza,Dionisio Torres,695000.0
+658,742326116,Apartamentos,0.0,196,3,5 ou mais,3,Fortaleza,Dionisio Torres,949000.0
+659,732017253,Apartamentos,1800.0,230,4,5 ou mais,5 ou mais,Fortaleza,Dionisio Torres,0.0
+660,732003444,Apartamentos,924.0,154,3,5 ou mais,3,Fortaleza,Dionisio Torres,0.0
+661,720755698,Apartamentos,1000.0,117,3,4,2,Fortaleza,Dionisio Torres,650000.0
+662,683788698,Apartamentos,750.0,133,3,4,2,Fortaleza,Dionisio Torres,449900.0
+663,645996845,Apartamentos,355.0,96,2,,2,Fortaleza,Dionisio Torres,395000.0
+664,622546707,Apartamentos,750.0,95,3,,2,Fortaleza,Dionisio Torres,385000.0
+665,599496880,Apartamentos,780.0,132,3,,1,Fortaleza,São João do Tauape,450000.0
+666,584288780,Apartamentos,588.0,92,3,4,2,Fortaleza,Dionisio Torres,340000.0
+667,558918715,Casas,0.0,170,3,,6,Fortaleza,Dionisio Torres,1150000.0

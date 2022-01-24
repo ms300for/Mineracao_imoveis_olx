@@ -1,0 +1,478 @@
+,Código,Categoria,Condomínio,Área,Quartos,Banheiros,Vagas na garagem,Município,Bairro,Preço
+0,960063729,Apartamentos,370.0,71,2,2,0,Fortaleza,Montese,185000.0
+1,920015586,Casas,0.0,0,0,0,2,Fortaleza,Montese,280000.0
+2,977532688,Apartamentos,640.0,65,3,2,1,Fortaleza,Montese,230000.0
+3,962349818,Casas,0.0,148,3,3,2,Fortaleza,Montese,270000.0
+4,972299769,Casas,0.0,250,5 ou mais,5 ou mais,3,Fortaleza,Montese,600000.0
+5,971513300,Casas,0.0,110,3,2,2,Fortaleza,Montese,20000.0
+6,636184999,Casas,0.0,97,3,2,2,Fortaleza,Bom Futuro,350000.0
+7,977450162,Apartamentos,350.0,74,3,2,2,Fortaleza,Bom Futuro,363000.0
+8,977448281,Apartamentos,250.0,75,3,2,1,Fortaleza,Montese,220000.0
+9,920684281,Casas,0.0,334,3,5 ou mais,1,Fortaleza,Montese,900000.0
+10,977405503,Apartamentos,400.0,90,3,3,2,Fortaleza,Montese,470000.0
+11,969005972,Casas,0.0,180,3,2,1,Fortaleza,Montese,20000.0
+12,938282230,Apartamentos,380.0,74,3,2,1,Fortaleza,Bom Futuro,220000.0
+13,962031344,Apartamentos,640.0,64,3,2,2,Fortaleza,Montese,220000.0
+14,952300007,Apartamentos,290.0,56,2,1,1,Fortaleza,Montese,190000.0
+15,972286561,Casas,0.0,120,3,2,2,Fortaleza,Montese,21000.0
+16,941630483,Casas,0.0,550,5 ou mais,4,3,Fortaleza,Montese,980000.0
+17,960008004,Apartamentos,150.0,120,4,3,2,Fortaleza,Montese,250000.0
+18,953116779,Apartamentos,0.0,76,2,2,1,Fortaleza,Montese,160000.0
+19,972693353,Casas,0.0,380,3,2,2,Fortaleza,Montese,17000.0
+20,977087438,Casas,0.0,0,2,1,,Fortaleza,Montese,95000.0
+21,972760846,Casas,0.0,120,3,2,2,Fortaleza,Montese,20000.0
+22,950235024,Casas,0.0,130,3,2,0,Fortaleza,Montese,260000.0
+23,961299383,Apartamentos,480.0,86,3,2,2,Fortaleza,Montese,395000.0
+24,958000196,Apartamentos,380.0,83,3,2,2,Fortaleza,Bom Futuro,400000.0
+25,972693750,Casas,0.0,350,3,2,2,Fortaleza,Montese,19000.0
+26,972299755,Apartamentos,373.0,61,2,2,1,Fortaleza,Montese,275000.0
+27,976708971,Apartamentos,0.0,0,2,1,1,Fortaleza,Montese,200000.0
+28,971513440,Casas,0.0,120,3,2,2,Fortaleza,Montese,20000.0
+29,950250239,Casas,0.0,240,3,2,5 ou mais,Fortaleza,Montese,515000.0
+30,976588409,Apartamentos,380.0,110,4,4,2,Fortaleza,Montese,205000.0
+31,960008014,Apartamentos,300.0,110,4,3,2,Fortaleza,Montese,200000.0
+32,972760940,Casas,0.0,110,3,2,2,Fortaleza,Montese,19000.0
+33,976453110,Apartamentos,350.0,77,3,1,1,Fortaleza,Montese,220000.0
+34,976441380,Casas,0.0,119,5 ou mais,5 ou mais,1,Fortaleza,Montese,190000.0
+35,959042726,Apartamentos,617.0,58,2,1,1,Fortaleza,Montese,175000.0
+36,795130513,Apartamentos,500.0,55,2,2,1,Fortaleza,Montese,179900.0
+37,976349284,Apartamentos,50.0,0,2,1,,Fortaleza,Montese,23000.0
+38,976320084,Casas,0.0,429,4,4,5 ou mais,Fortaleza,Montese,450000.0
+39,976297131,Casas,0.0,160,3,3,3,Fortaleza,Montese,435000.0
+40,963008503,Casas,0.0,250,4,2,4,Fortaleza,Montese,550000.0
+41,976242168,Apartamentos,330.0,75,2,2,1,Fortaleza,Montese,0.0
+42,976238286,Apartamentos,330.0,75,3,2,1,Fortaleza,Montese,0.0
+43,917762175,Apartamentos,250.0,64,3,2,1,Fortaleza,Damas,335000.0
+44,914170258,Casas,0.0,120,4,2,2,Fortaleza,Montese,385000.0
+45,907569014,Casas,0.0,360,3,3,2,Fortaleza,Bom Futuro,570000.0
+46,976193941,Casas,0.0,120,3,1,2,Fortaleza,Montese,19000.0
+47,976189267,Casas,0.0,140,3,2,2,Fortaleza,Montese,20000.0
+48,976188662,Casas,0.0,140,3,1,2,Fortaleza,Montese,19000.0
+49,976188415,Casas,0.0,120,3,2,2,Fortaleza,Montese,20000.0
+50,969360032,Casas,0.0,190,2,2,1,Fortaleza,Montese,20000.0
+51,663822100,Apartamentos,200.0,80,3,3,1,Fortaleza,Montese,210000.0
+52,943863500,Apartamentos,0.0,51,2,1,1,Fortaleza,Montese,190000.0
+53,976064972,Apartamentos,350.0,74,3,2,2,Fortaleza,Bom Futuro,0.0
+54,976006698,Casas,0.0,120,3,3,2,Fortaleza,Montese,20000.0
+55,975797573,Apartamentos,810.0,131,3,1,1,Fortaleza,Montese,260000.0
+56,975789794,Casas,0.0,350,3,5 ou mais,5 ou mais,Fortaleza,Montese,2200000.0
+57,975789668,Casas,0.0,150,4,2,2,Fortaleza,Montese,670000.0
+58,975789625,Apartamentos,675.0,54,2,1,1,Fortaleza,Montese,160000.0
+59,946634909,Apartamentos,280.0,56,2,2,1,Fortaleza,Montese,252582.0
+60,909177328,Apartamentos,300.0,74,3,2,2,Fortaleza,Bom Futuro,425000.0
+61,975714696,Apartamentos,200.0,70,2,2,1,Fortaleza,Montese,168000.0
+62,926551042,Casas,0.0,125,2,2,2,Fortaleza,Bom Futuro,0.0
+63,907566225,Apartamentos,225.0,75,3,1,0,Fortaleza,Montese,200000.0
+64,975697762,Casas,0.0,150,3,2,2,Fortaleza,Montese,19000.0
+65,975693612,Casas,0.0,130,3,2,2,Fortaleza,Montese,19000.0
+66,975693028,Casas,0.0,150,3,2,2,Fortaleza,Montese,20000.0
+67,926551131,Casas,0.0,125,2,2,2,Fortaleza,Bom Futuro,0.0
+68,932972248,Apartamentos,600.0,65,2,2,1,Fortaleza,Montese,210000.0
+69,920202478,Casas,0.0,53,3,1,1,Fortaleza,Montese,350000.0
+70,972694252,Casas,0.0,350,3,2,2,Fortaleza,Montese,18000.0
+71,975380112,Casas,0.0,616,4,4,5 ou mais,Fortaleza,Montese,1850000.0
+72,950665489,Apartamentos,350.0,75,3,2,1,Fortaleza,Montese,180000.0
+73,975368435,Casas,0.0,120,3,2,2,Fortaleza,Montese,20000.0
+74,975367661,Casas,0.0,120,3,2,2,Fortaleza,Montese,23000.0
+75,975367411,Casas,0.0,140,3,2,2,Fortaleza,Montese,21000.0
+76,787825338,Apartamentos,480.0,51,3,2,1,Fortaleza,Montese,190000.0
+77,946635085,Apartamentos,500.0,90,3,2,1,Fortaleza,Montese,175000.0
+78,975319466,Apartamentos,0.0,48,2,2,1,Fortaleza,Montese,190000.0
+79,896318797,Casas,0.0,160,3,2,2,Fortaleza,Montese,309999.0
+80,971081136,Casas,0.0,400,4,3,2,Fortaleza,Montese,900000.0
+81,972285287,Casas,0.0,120,3,2,2,Fortaleza,Montese,20000.0
+82,975246404,Apartamentos,0.0,0,2,2,1,Fortaleza,Montese,240000.0
+83,975233672,Apartamentos,0.0,0,2,2,1,Fortaleza,Montese,190000.0
+84,854215409,Apartamentos,350.0,50,2,2,1,Fortaleza,Montese,150000.0
+85,953362894,Apartamentos,300.0,85,3,3,,Fortaleza,Montese,190000.0
+86,972694679,Casas,0.0,260,3,2,2,Fortaleza,Montese,19000.0
+87,975119871,Casas,0.0,0,3,,,Fortaleza,Montese,120000.0
+88,557194110,Casas,0.0,125,3,4,1,Fortaleza,Montese,530000.0
+89,972299759,Casas,0.0,200,5 ou mais,5 ou mais,2,Fortaleza,Montese,499000.0
+90,974898464,Casas,0.0,0,0,1,,Fortaleza,Montese,80000.0
+91,938013481,Apartamentos,0.0,58,3,2,1,Fortaleza,Montese,245000.0
+92,972299803,Apartamentos,330.0,53,2,2,1,Fortaleza,Montese,238000.0
+93,972687859,Casas,0.0,140,3,2,0,Fortaleza,Montese,20000.0
+94,960984712,Apartamentos,345.0,64,2,,1,Fortaleza,Montese,185000.0
+95,953393275,Apartamentos,0.0,47,2,2,1,Fortaleza,Montese,190000.0
+96,969246641,Casas,0.0,180,3,2,1,Fortaleza,Montese,20000.0
+97,902044586,Casas,0.0,0,3,2,1,Fortaleza,Montese,600000.0
+98,956249041,Apartamentos,400.0,63,3,1,1,Fortaleza,Damas,285000.0
+99,960726356,Apartamentos,460.0,65,3,2,1,Fortaleza,Montese,299000.0
+100,970266510,Casas,0.0,220,3,3,1,Fortaleza,Montese,18000.0
+101,969318929,Casas,0.0,320,4,2,5 ou mais,Fortaleza,Montese,750000.0
+102,941252610,Casas,0.0,240,5 ou mais,5 ou mais,2,Fortaleza,Montese,549000.0
+103,937693715,Apartamentos,300.0,56,2,1,1,Fortaleza,Montese,189000.0
+104,932285389,Apartamentos,300.0,74,3,2,2,Fortaleza,Montese,249000.0
+105,945169772,Apartamentos,560.0,76,2,1,1,Fortaleza,Montese,195000.0
+106,897622306,Apartamentos,471.0,97,3,3,1,Fortaleza,Montese,280000.0
+107,950836555,Apartamentos,0.0,5699,2,2,1,Fortaleza,Montese,199900.0
+108,950250251,Apartamentos,350.0,76,2,2,1,Fortaleza,Montese,199000.0
+109,907569303,Apartamentos,350.0,76,3,2,1,Fortaleza,Montese,210000.0
+110,891049468,Apartamentos,450.0,52,2,2,2,Fortaleza,Montese,238000.0
+111,936416993,Apartamentos,320.0,48,2,2,1,Fortaleza,Montese,195000.0
+112,971139415,Casas,0.0,196,3,2,1,Fortaleza,Montese,20000.0
+113,953689663,Apartamentos,320.0,68,2,1,2,Fortaleza,Montese,190000.0
+114,958149837,Apartamentos,314.0,95,3,2,1,Fortaleza,Montese,240000.0
+115,974408877,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407882.0
+116,974404072,Casas,0.0,150,3,2,2,Fortaleza,Montese,19000.0
+117,974404001,Casas,0.0,140,3,2,2,Fortaleza,Montese,20000.0
+118,974403895,Casas,0.0,120,3,2,2,Fortaleza,Montese,20000.0
+119,971513227,Casas,0.0,100,3,2,2,Fortaleza,Montese,20000.0
+120,971510350,Casas,0.0,126,3,3,1,Fortaleza,Montese,20000.0
+121,952748497,Apartamentos,250.0,85,3,2,1,Fortaleza,Montese,200000.0
+122,972296840,Apartamentos,350.0,76,3,2,1,Fortaleza,Bom Futuro,235000.0
+123,969361628,Casas,0.0,220,3,1,2,Fortaleza,Montese,20000.0
+124,937797800,Casas,0.0,128,3,4,2,Fortaleza,Bom Futuro,799000.0
+125,966628483,Apartamentos,680.0,66,3,,1,Fortaleza,Montese,210000.0
+126,956186310,Apartamentos,250.0,95,4,3,2,Fortaleza,Montese,230000.0
+127,972296784,Apartamentos,680.0,54,2,1,1,Fortaleza,Montese,230000.0
+128,909177528,Apartamentos,0.0,74,3,2,1,Fortaleza,Montese,403010.0
+129,906390911,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+130,906429417,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+131,936417023,Apartamentos,0.0,63,2,2,2,Fortaleza,Damas,315670.0
+132,636184539,Casas,0.0,196,3,2,1,Fortaleza,Montese,370000.0
+133,907569394,Apartamentos,120.0,81,3,1,0,Fortaleza,Montese,200000.0
+134,963873739,Apartamentos,460.0,65,3,2,1,Fortaleza,Montese,315000.0
+135,815818989,Apartamentos,600.0,65,2,2,1,Fortaleza,Montese,210000.0
+136,952748495,Apartamentos,250.0,73,3,2,1,Fortaleza,Montese,220000.0
+137,943259063,Casas,0.0,374,2,1,1,Fortaleza,Montese,300000.0
+138,964579764,Casas,0.0,192,5 ou mais,4,2,Fortaleza,Montese,420000.0
+139,953393394,Apartamentos,0.0,53,2,2,0,Fortaleza,Montese,190000.0
+140,918458800,Casas,0.0,175,4,5 ou mais,4,Fortaleza,Montese,580000.0
+141,973803568,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407395.0
+142,850610850,Apartamentos,350.0,69,3,2,2,Fortaleza,Bom Futuro,190000.0
+143,946911041,Apartamentos,561.0,76,2,2,1,Fortaleza,Montese,130000.0
+144,953393273,Apartamentos,0.0,57,2,2,0,Fortaleza,Montese,199000.0
+145,973634031,Apartamentos,330.0,75,2,2,1,Fortaleza,Montese,0.0
+146,973630478,Apartamentos,330.0,75,3,2,1,Fortaleza,Montese,0.0
+147,973526567,Apartamentos,330.0,75,2,2,1,Fortaleza,Montese,0.0
+148,967343498,Apartamentos,373.0,53,2,2,1,Fortaleza,Montese,238000.0
+149,765305797,Apartamentos,0.0,63,3,2,2,Fortaleza,Montese,244990.0
+150,936040947,Apartamentos,500.0,73,3,2,1,Fortaleza,Montese,230000.0
+151,923478897,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+152,955183475,Apartamentos,340.0,64,2,1,1,Fortaleza,Montese,110000.0
+153,953393268,Apartamentos,0.0,48,2,2,0,Fortaleza,Montese,199000.0
+154,871936535,Apartamentos,0.0,75,3,2,3,Fortaleza,Montese,510000.0
+155,799500986,Apartamentos,0.0,61,3,2,2,Fortaleza,Damas,357772.0
+156,950665497,Apartamentos,255.0,78,3,2,1,Fortaleza,Montese,220000.0
+157,923478828,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+158,923474432,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+159,907568945,Apartamentos,320.0,97,3,1,2,Fortaleza,Montese,210000.0
+160,903240002,Apartamentos,730.0,64,3,2,1,Fortaleza,Montese,280000.0
+161,972899689,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407747.0
+162,785114968,Apartamentos,365.0,65,3,2,1,Fortaleza,Damas,208000.0
+163,949491252,Apartamentos,0.0,47,2,2,1,Fortaleza,Montese,190000.0
+164,955795122,Apartamentos,240.0,75,3,2,0,Fortaleza,Montese,185000.0
+165,970207683,Casas,0.0,195,3,3,1,Fortaleza,Montese,20000.0
+166,909177410,Casas,0.0,260,4,4,5 ou mais,Fortaleza,Montese,750000.0
+167,946635092,Apartamentos,0.0,53,2,2,1,Fortaleza,Montese,238000.0
+168,967435891,Casas,0.0,419,3,3,0,Fortaleza,Bom Futuro,1000000.0
+169,972694798,Casas,0.0,160,3,3,2,Fortaleza,Montese,25000.0
+170,972622409,Casas,0.0,148,3,3,2,Fortaleza,Montese,270000.0
+171,957432966,Apartamentos,314.0,86,3,2,1,Fortaleza,Montese,240000.0
+172,941315034,Apartamentos,300.0,56,2,1,1,Fortaleza,Montese,189000.0
+173,972569533,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407556.0
+174,940701894,Apartamentos,140.0,54,3,2,1,Fortaleza,Montese,185000.0
+175,922031320,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+176,922030803,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+177,669762412,Apartamentos,0.0,58,3,2,2,Fortaleza,Montese,250000.0
+178,972304590,Apartamentos,600.0,70,3,2,1,Fortaleza,Bom Futuro,249000.0
+179,972298669,Casas,0.0,339,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Montese,1600000.0
+180,972297462,Casas,0.0,90,2,1,1,Fortaleza,Montese,380000.0
+181,972224038,Apartamentos,0.0,58,3,2,2,Fortaleza,Montese,0.0
+182,972222377,Apartamentos,0.0,58,2,2,1,Fortaleza,Montese,0.0
+183,950665378,Apartamentos,270.0,55,2,2,1,Fortaleza,Montese,150000.0
+184,972172563,Casas,0.0,137,3,2,2,Fortaleza,Montese,380000.0
+185,959152670,Casas,0.0,345,5 ou mais,4,5 ou mais,Fortaleza,Montese,465000.0
+186,920515748,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+187,920515795,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+188,950158854,Apartamentos,400.0,85,3,2,1,Fortaleza,Montese,220000.0
+189,971899757,Casas,0.0,264,4,5 ou mais,0,Fortaleza,Montese,800000.0
+190,911603574,Apartamentos,560.0,76,2,2,2,Fortaleza,Montese,220000.0
+191,886417551,Casas,0.0,350,3,5 ou mais,5 ou mais,Fortaleza,Montese,2200000.0
+192,918585535,Casas,0.0,174,4,5 ou mais,4,Fortaleza,Montese,650000.0
+193,907566899,Apartamentos,320.0,53,2,2,1,Fortaleza,Montese,245000.0
+194,971516288,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407884.0
+195,955796682,Apartamentos,90.0,81,2,2,1,Fortaleza,Montese,159990.0
+196,950252452,Apartamentos,0.0,47,2,2,1,Fortaleza,Montese,199000.0
+197,971328412,Casas,0.0,0,0,0,0,Fortaleza,Montese,275000.0
+198,971305182,Apartamentos,350.0,74,3,2,2,Fortaleza,Bom Futuro,0.0
+199,971303711,Apartamentos,250.0,75,3,2,1,Fortaleza,Montese,0.0
+200,971268669,Casas,0.0,80,2,1,1,Fortaleza,Montese,320000.0
+201,949857652,Apartamentos,350.0,60,3,2,2,Fortaleza,Damas,376000.0
+202,971260544,Apartamentos,380.0,110,4,4,2,Fortaleza,Montese,0.0
+203,842334845,Apartamentos,580.0,70,3,2,1,Fortaleza,Montese,230000.0
+204,971093784,Casas,0.0,429,2,2,0,Fortaleza,Montese,800000.0
+205,970919261,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407543.0
+206,909177506,Apartamentos,300.0,58,3,2,2,Fortaleza,Montese,250000.0
+207,907566018,Apartamentos,250.0,82,3,2,1,Fortaleza,Montese,220000.0
+208,970219405,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407177.0
+209,909963368,Apartamentos,325.0,76,3,2,,Fortaleza,Montese,160000.0
+210,903227811,Apartamentos,329.0,75,2,2,,Fortaleza,Montese,155000.0
+211,915925677,Casas,0.0,125,2,2,2,Fortaleza,Bom Futuro,0.0
+212,915925826,Casas,0.0,125,2,2,2,Fortaleza,Bom Futuro,0.0
+213,969894503,Casas,0.0,0,2,3,,Fortaleza,Montese,15000.0
+214,969848784,Casas,0.0,80,3,2,2,Fortaleza,Montese,15000.0
+215,969845676,Casas,0.0,100,3,3,2,Fortaleza,Montese,15000.0
+216,942233043,Casas,0.0,148,3,3,1,Fortaleza,Bom Futuro,259000.0
+217,909177515,Apartamentos,650.0,60,2,1,1,Fortaleza,Montese,195000.0
+218,813473867,Apartamentos,280.0,74,3,2,1,Fortaleza,Damas,180000.0
+219,940850649,Apartamentos,300.0,50,2,1,1,Fortaleza,Montese,189000.0
+220,849845011,Casas,0.0,180,5 ou mais,4,2,Fortaleza,Montese,580000.0
+221,657354263,Apartamentos,300.0,62,3,2,2,Fortaleza,Montese,250000.0
+222,886409580,Apartamentos,810.0,131,3,1,1,Fortaleza,Montese,260000.0
+223,909177301,Apartamentos,0.0,60,3,2,2,Fortaleza,Damas,341596.0
+224,635627613,Apartamentos,350.0,61,3,2,2,Fortaleza,Montese,238000.0
+225,968837339,Casas,0.0,123,3,2,2,Fortaleza,Montese,250000.0
+226,968800772,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407174.0
+227,636184618,Apartamentos,330.0,52,2,2,1,Fortaleza,Montese,238000.0
+228,909177473,Apartamentos,0.0,52,2,2,1,Fortaleza,Montese,239990.0
+229,968649482,Apartamentos,350.0,74,3,2,2,Fortaleza,Bom Futuro,0.0
+230,968646452,Apartamentos,250.0,75,3,2,1,Fortaleza,Montese,0.0
+231,968458424,Casas,0.0,110,3,0,2,Fortaleza,Bom Futuro,0.0
+232,968455326,Casas,0.0,22500,2,2,2,Fortaleza,Montese,60000.0
+233,683354746,Apartamentos,0.0,64,3,2,2,Fortaleza,Montese,309990.0
+234,886417566,Casas,0.0,150,4,2,2,Fortaleza,Montese,670000.0
+235,968288352,Casas,0.0,0,3,2,2,Fortaleza,Montese,190000.0
+236,968279753,Casas,0.0,0,3,2,2,Fortaleza,Montese,180000.0
+237,915980038,Casas,0.0,125,2,2,2,Fortaleza,Bom Futuro,0.0
+238,915979925,Casas,0.0,125,2,2,2,Fortaleza,Bom Futuro,0.0
+239,965574897,Apartamentos,150.0,83,3,3,1,Fortaleza,Montese,215000.0
+240,968123827,Apartamentos,397.0,72,3,3,1,Fortaleza,Montese,200000.0
+241,836115492,Apartamentos,294.0,86,3,2,1,Fortaleza,Montese,190000.0
+242,968037691,Apartamentos,380.0,110,4,4,2,Fortaleza,Montese,0.0
+243,890577108,Casas,1.0,350,5 ou mais,4,3,Fortaleza,Montese,760000.0
+244,701584520,Apartamentos,0.0,75,3,3,2,Fortaleza,Montese,0.0
+245,512584173,Apartamentos,0.0,122,4,3,0,Fortaleza,Bom Futuro,250000.0
+246,967821145,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407897.0
+247,967698756,Apartamentos,330.0,75,3,2,1,Fortaleza,Montese,158000.0
+248,967627976,Casas,0.0,85,2,1,1,Fortaleza,Montese,90000.0
+249,967592697,Casas,0.0,0,1,1,,Fortaleza,Montese,0.0
+250,967496061,Apartamentos,600.0,120,4,3,2,Fortaleza,Bom Futuro,240000.0
+251,967364435,Casas,0.0,79,3,2,2,Fortaleza,Montese,380000.0
+252,967351813,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407085.0
+253,967069918,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407554.0
+254,966987865,Apartamentos,0.0,0,2,1,1,Fortaleza,Montese,75000.0
+255,966740785,Apartamentos,440.0,85,3,2,1,Fortaleza,Bom Futuro,270000.0
+256,920225195,Apartamentos,675.0,54,2,1,1,Fortaleza,Montese,160000.0
+257,907567941,Casas,0.0,380,3,2,2,Fortaleza,Montese,1500000.0
+258,966534868,Casas,0.0,0,5 ou mais,5 ou mais,2,Fortaleza,Montese,500000.0
+259,966512822,Apartamentos,350.0,74,3,2,2,Fortaleza,Bom Futuro,363000.0
+260,966483888,Casas,0.0,200000,2,2,2,Fortaleza,Montese,0.0
+261,966432658,Apartamentos,0.0,62,3,2,1,Fortaleza,Montese,190000.0
+262,663970312,Casas,0.0,750,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Montese,848000.0
+263,915171918,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+264,966370984,Casas,0.0,175,3,4,1,Fortaleza,Montese,450000.0
+265,966370962,Casas,0.0,200,2,2,2,Fortaleza,Montese,280000.0
+266,966359957,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407868.0
+267,915172596,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+268,909177293,Apartamentos,500.0,73,3,2,1,Fortaleza,Montese,250000.0
+269,966312447,Casas,0.0,180,3,3,3,Fortaleza,Montese,0.0
+270,966312453,Casas,0.0,216,3,2,3,Fortaleza,Montese,0.0
+271,966312443,Apartamentos,0.0,52,2,1,1,Fortaleza,Montese,0.0
+272,966312242,Apartamentos,0.0,48,2,2,2,Fortaleza,Montese,0.0
+273,966297185,Casas,0.0,180,3,3,3,Fortaleza,Montese,0.0
+274,966297067,Casas,0.0,216,3,2,3,Fortaleza,Montese,0.0
+275,966296948,Apartamentos,0.0,52,2,1,1,Fortaleza,Montese,0.0
+276,966296964,Apartamentos,0.0,48,2,2,2,Fortaleza,Montese,0.0
+277,752023138,Apartamentos,0.0,59,3,2,2,Fortaleza,Montese,250000.0
+278,907567970,Casas,0.0,198,3,1,4,Fortaleza,Montese,430000.0
+279,768372632,Apartamentos,250.0,47,2,2,1,Fortaleza,Montese,199000.0
+280,915142356,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+281,915113057,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+282,915143460,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+283,940947919,Casas,0.0,200,4,4,2,Fortaleza,Montese,590000.0
+284,965748492,Apartamentos,0.0,47,2,1,1,Fortaleza,Montese,190000.0
+285,915112151,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+286,907568069,Casas,0.0,150,5 ou mais,2,3,Fortaleza,Bom Futuro,600000.0
+287,965667766,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407934.0
+288,610167608,Apartamentos,0.0,61,3,2,2,Fortaleza,Montese,319000.0
+289,907567762,Casas,0.0,180,1,3,1,Fortaleza,Montese,280000.0
+290,965303395,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407885.0
+291,657658257,Casas,0.0,550,4,2,2,Fortaleza,Montese,670000.0
+292,907567512,Casas,0.0,300,5 ou mais,2,3,Fortaleza,Montese,900000.0
+293,935573836,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+294,935573834,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+295,935573831,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+296,935573823,Casas,0.0,180,3,2,2,Fortaleza,Montese,0.0
+297,935589102,Casas,0.0,180,3,2,2,Fortaleza,Montese,0.0
+298,935593238,Casas,0.0,151,2,2,4,Fortaleza,Montese,0.0
+299,935593227,Casas,0.0,52,2,2,1,Fortaleza,Montese,0.0
+300,935589104,Apartamentos,0.0,43,2,2,5 ou mais,Fortaleza,Montese,0.0
+301,935613221,Apartamentos,0.0,43,2,2,5 ou mais,Fortaleza,Montese,0.0
+302,935613370,Casas,0.0,180,3,2,2,Fortaleza,Montese,0.0
+303,935614951,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+304,935614950,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+305,965237588,Apartamentos,350.0,0,3,3,1,Fortaleza,Montese,250000.0
+306,907567558,Casas,0.0,416,4,4,5 ou mais,Fortaleza,Montese,750000.0
+307,955795759,Casas,0.0,200,4,2,3,Fortaleza,Montese,815000.0
+308,964627424,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407688.0
+309,964425674,Apartamentos,180.0,52,2,1,1,Fortaleza,Vila União,155000.0
+310,964419139,Apartamentos,0.0,56,2,2,1,Fortaleza,Montese,523053.0
+311,900787572,Apartamentos,560.0,76,2,2,1,Fortaleza,Montese,240000.0
+312,920230198,Apartamentos,300.0,83,4,3,1,Fortaleza,Montese,250000.0
+313,964127293,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407859.0
+314,741470613,Casas,0.0,192,4,5 ou mais,3,Fortaleza,Montese,500000.0
+315,944212037,Apartamentos,300.0,56,2,1,1,Fortaleza,Montese,189000.0
+316,911711460,Apartamentos,373.0,61,3,2,2,Fortaleza,Montese,275000.0
+317,884333855,Apartamentos,250.0,50,2,2,1,Fortaleza,Montese,135000.0
+318,963718074,Apartamentos,350.0,74,3,2,2,Fortaleza,Bom Futuro,363000.0
+319,963713500,Apartamentos,250.0,75,3,2,1,Fortaleza,Montese,220000.0
+320,963307048,Apartamentos,380.0,110,4,4,2,Fortaleza,Montese,205000.0
+321,963134089,Casas,0.0,160,4,4,4,Fortaleza,Montese,580000.0
+322,962997286,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407465.0
+323,907567628,Casas,0.0,206,3,1,1,Fortaleza,Montese,370000.0
+324,953070998,Casas,0.0,40,3,1,,Fortaleza,Montese,40000.0
+325,677380199,Apartamentos,0.0,64,3,2,2,Fortaleza,Montese,199999.0
+326,748741638,Apartamentos,0.0,47,2,2,1,Fortaleza,Montese,215000.0
+327,920230196,Casas,0.0,194,3,2,2,Fortaleza,Bom Futuro,550000.0
+328,962055527,Casas,0.0,700,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Montese,1450000.0
+329,961979942,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407522.0
+330,907566690,Apartamentos,320.0,61,2,1,2,Fortaleza,Montese,285000.0
+331,907567119,Apartamentos,280.0,58,2,1,2,Fortaleza,Montese,180000.0
+332,961392532,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407585.0
+333,935613914,Casas,0.0,52,2,2,1,Fortaleza,Montese,0.0
+334,807325078,Apartamentos,480.0,60,3,2,1,Fortaleza,Montese,190000.0
+335,935614246,Casas,0.0,151,2,2,4,Fortaleza,Montese,0.0
+336,961043099,Casas,0.0,180,2,2,2,Fortaleza,Montese,101648.0
+337,960687185,Apartamentos,600.0,70,2,3,1,Fortaleza,Bom Futuro,190000.0
+338,907567341,Apartamentos,770.0,107,3,3,1,Fortaleza,Montese,325000.0
+339,960636276,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407520.0
+340,858427418,Apartamentos,365.0,65,3,2,1,Fortaleza,Montese,245000.0
+341,643390963,Apartamentos,0.0,55,2,2,1,Fortaleza,Montese,219000.0
+342,960299821,Apartamentos,460.0,65,3,2,1,Fortaleza,Montese,299000.0
+343,959912617,Apartamentos,0.0,38,2,2,2,Fortaleza,Montese,145000.0
+344,959812426,Casas,0.0,148,3,3,2,Fortaleza,Montese,270000.0
+345,959766817,Apartamentos,0.0,60,3,2,0,Fortaleza,Damas,407220.0
+346,670329485,Apartamentos,0.0,68,3,2,2,Fortaleza,Montese,385000.0
+347,959432657,Apartamentos,550.0,60,3,2,1,Fortaleza,Montese,319000.0
+348,959350464,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407055.0
+349,907566453,Apartamentos,350.0,77,3,1,1,Fortaleza,Montese,220000.0
+350,958571554,Casas,0.0,0,2,2,,Fortaleza,Montese,120000.0
+351,958137164,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407063.0
+352,958033411,Apartamentos,0.0,86,2,2,1,Fortaleza,Montese,90000.0
+353,957766050,Apartamentos,0.0,58,2,2,1,Fortaleza,Montese,190000.0
+354,957530697,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407066.0
+355,957388450,Apartamentos,380.0,110,4,4,2,Fortaleza,Montese,0.0
+356,931137991,Apartamentos,0.0,43,2,2,5 ou mais,Fortaleza,Montese,0.0
+357,906369325,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+358,826618326,Apartamentos,400.0,70,3,2,1,Fortaleza,Montese,320000.0
+359,884446467,Apartamentos,400.0,60,2,2,2,Fortaleza,Damas,430000.0
+360,931386235,Apartamentos,0.0,43,2,2,5 ou mais,Fortaleza,Montese,0.0
+361,930614712,Apartamentos,800.0,110,3,3,1,Fortaleza,Montese,300000.0
+362,906441685,Casas,0.0,125,2,2,2,Fortaleza,Montese,0.0
+363,809476810,Apartamentos,400.0,74,2,2,1,Fortaleza,Montese,195000.0
+364,955924428,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407068.0
+365,666935801,Apartamentos,300.0,70,3,2,1,Fortaleza,Montese,229000.0
+366,955400132,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407064.0
+367,929514931,Apartamentos,0.0,43,2,2,5 ou mais,Fortaleza,Montese,0.0
+368,955299082,Casas,0.0,42,1,1,0,Fortaleza,Montese,40000.0
+369,955117448,Apartamentos,380.0,110,4,4,2,Fortaleza,Montese,205000.0
+370,955099109,Casas,0.0,310,2,2,2,Fortaleza,Montese,145000.0
+371,954955564,Apartamentos,0.0,60,3,2,1,Fortaleza,Damas,407067.0
+372,736681312,Apartamentos,320.0,48,2,2,1,Fortaleza,Montese,195000.0
+373,953086081,Apartamentos,0.0,127,2,2,0,Fortaleza,Montese,189999.0
+374,830482255,Casas,0.0,179,3,2,2,Fortaleza,Montese,400000.0
+375,952015640,Apartamentos,720.0,64,3,2,1,Fortaleza,Montese,210000.0
+376,950628065,Apartamentos,675.0,53,2,1,1,Fortaleza,Montese,175000.0
+377,950252258,Apartamentos,329.0,71,2,2,2,Fortaleza,Montese,210000.0
+378,826494457,Apartamentos,150.0,85,3,3,1,Fortaleza,Montese,250000.0
+379,736681191,Apartamentos,350.0,63,2,2,2,Fortaleza,Damas,315670.0
+380,941614739,Apartamentos,640.0,64,3,2,2,Fortaleza,Montese,220000.0
+381,939097894,Apartamentos,470.0,78,2,1,2,Fortaleza,Montese,170000.0
+382,696995339,Apartamentos,0.0,63,3,2,,Fortaleza,Montese,220000.0
+383,696994863,Apartamentos,300.0,73,3,2,2,Fortaleza,Damas,385000.0
+384,933323004,Casas,0.0,120,2,2,,Fortaleza,Montese,150000.0
+385,928406498,Apartamentos,0.0,77,3,2,1,Fortaleza,Damas,275000.0
+386,810931511,Apartamentos,0.0,69,3,2,1,Fortaleza,Bom Futuro,240000.0
+387,924089530,Casas,0.0,412,5 ou mais,4,1,Fortaleza,Montese,1600000.0
+388,920741957,Apartamentos,320.0,47,2,2,1,Fortaleza,Damas,180000.0
+389,917703927,Casas,0.0,150,2,2,0,Fortaleza,Montese,790000.0
+390,738605241,Apartamentos,300.0,101,2,2,1,Fortaleza,Montese,200000.0
+391,915489239,Casas,0.0,242,2,3,3,Fortaleza,Montese,402000.0
+392,915489237,Casas,0.0,242,3,3,1,Fortaleza,Montese,402000.0
+393,912950737,Casas,0.0,345,3,1,3,Fortaleza,Montese,450000.0
+394,433580193,Apartamentos,365.0,65,3,,1,Fortaleza,Damas,215000.0
+395,345687360,Apartamentos,365.0,65,3,,2,Fortaleza,Damas,240000.0
+396,908379486,Apartamentos,780.0,112,4,3,2,Fortaleza,Bom Futuro,259000.0
+397,907923000,Casas,0.0,199,5 ou mais,5 ou mais,2,Fortaleza,Montese,700000.0
+398,876382232,Apartamentos,372.0,75,3,2,2,Fortaleza,Montese,195000.0
+399,906871650,Casas,0.0,150,5 ou mais,2,2,Fortaleza,Montese,289000.0
+400,906871652,Casas,0.0,189,3,2,1,Fortaleza,Montese,430000.0
+401,905564905,Apartamentos,355.0,64,3,2,1,Fortaleza,Bom Futuro,180000.0
+402,905554251,Casas,0.0,200,3,3,2,Fortaleza,Bom Futuro,550000.0
+403,904020975,Casas,0.0,106,3,4,2,Fortaleza,Montese,490000.0
+404,901498593,Apartamentos,150.0,83,3,3,1,Fortaleza,Montese,200000.0
+405,794463991,Apartamentos,500.0,55,2,2,1,Fortaleza,Montese,215000.0
+406,898716772,Apartamentos,330.0,70,3,3,1,Fortaleza,Damas,190000.0
+407,898038917,Apartamentos,320.0,103,3,1,,Fortaleza,Montese,190000.0
+408,896158903,Casas,0.0,204,3,3,3,Fortaleza,Montese,480000.0
+409,894218908,Apartamentos,400.0,85,3,2,1,Fortaleza,Bom Futuro,270000.0
+410,738604377,Apartamentos,450.0,70,3,2,1,Fortaleza,Montese,185000.0
+411,892002158,Apartamentos,400.0,61,3,2,2,Fortaleza,Damas,450000.0
+412,745369602,Apartamentos,800.0,110,3,2,1,Fortaleza,Montese,180000.0
+413,862103110,Apartamentos,800.0,110,3,3,1,Fortaleza,Montese,180000.0
+414,696994307,Apartamentos,0.0,63,3,2,2,Fortaleza,Damas,369000.0
+415,889118644,Apartamentos,0.0,32,2,2,,Fortaleza,Montese,100000.0
+416,886804211,Apartamentos,380.0,61,3,2,2,Fortaleza,Damas,380000.0
+417,884711270,Apartamentos,250.0,65,3,,,Fortaleza,Damas,170000.0
+418,881959507,Apartamentos,320.0,80,3,2,1,Fortaleza,Bom Futuro,140000.0
+419,875696170,Apartamentos,200.0,48,2,1,1,Fortaleza,Damas,140000.0
+420,875271078,Casas,0.0,165,3,2,1,Fortaleza,Montese,240000.0
+421,872405432,Casas,0.0,500,4,5 ou mais,5 ou mais,Fortaleza,Montese,850000.0
+422,837281044,Apartamentos,422.0,75,3,2,1,Fortaleza,Montese,200000.0
+423,870839029,Casas,0.0,120,3,3,,Fortaleza,Montese,230000.0
+424,868067849,Apartamentos,420.0,120,3,3,1,Fortaleza,Montese,190000.0
+425,866924510,Casas,0.0,120,2,1,1,Fortaleza,Montese,250000.0
+426,866465247,Apartamentos,650.0,120,3,3,2,Fortaleza,Bom Futuro,285000.0
+427,861574150,Casas,0.0,150,3,2,2,Fortaleza,Bom Futuro,370000.0
+428,858275655,Apartamentos,0.0,48,2,,1,Fortaleza,Montese,190000.0
+429,855398352,Casas,0.0,166,3,2,2,Fortaleza,Montese,500000.0
+430,853870920,Apartamentos,350.0,92,3,2,2,Fortaleza,Montese,220000.0
+431,843453234,Casas,0.0,100,4,2,2,Fortaleza,Montese,370000.0
+432,840708342,Apartamentos,314.0,86,2,1,1,Fortaleza,Bom Futuro,198000.0
+433,815585166,Apartamentos,372.0,73,3,0,0,Fortaleza,Montese,235000.0
+434,809863568,Apartamentos,150.0,81,4,3,1,Fortaleza,Montese,200000.0
+435,805923402,Apartamentos,540.0,120,3,3,2,Fortaleza,Bom Futuro,350000.0
+436,804130326,Apartamentos,350.0,83,3,2,1,Fortaleza,Montese,225000.0
+437,798636496,Casas,0.0,118,5 ou mais,5 ou mais,1,Fortaleza,Montese,215000.0
+438,795954637,Apartamentos,250.0,73,3,2,1,Fortaleza,Montese,160000.0
+439,782608777,Casas,0.0,170,3,2,2,Fortaleza,Montese,285000.0
+440,782608698,Apartamentos,365.0,67,3,2,1,Fortaleza,Montese,199000.0
+441,768399876,Apartamentos,250.0,75,3,2,,Fortaleza,Montese,95000.0
+442,758135485,Apartamentos,600.0,65,3,2,1,Fortaleza,Montese,215000.0
+443,757054002,Apartamentos,200.0,70,2,2,1,Fortaleza,Montese,160000.0
+444,739264912,Apartamentos,240.0,72,3,2,1,Fortaleza,Montese,160000.0
+445,739264895,Apartamentos,280.0,90,3,3,1,Fortaleza,Montese,165000.0
+446,739264846,Apartamentos,438.0,90,3,2,1,Fortaleza,Montese,239000.0
+447,720063657,Casas,0.0,367,5 ou mais,5 ou mais,3,Fortaleza,Montese,700000.0
+448,712693703,Apartamentos,352.0,72,3,3,1,Fortaleza,Montese,265000.0
+449,703256614,Casas,0.0,700,4,5 ou mais,5 ou mais,Fortaleza,Montese,950000.0
+450,672445445,Casas,0.0,240,3,4,4,Fortaleza,Montese,420000.0
+451,668780985,Apartamentos,700.0,112,4,3,2,Fortaleza,Bom Futuro,330000.0
+452,647880703,Apartamentos,0.0,74,2,1,1,Fortaleza,Montese,130000.0
+453,645587666,Apartamentos,0.0,90,3,,1,Fortaleza,Montese,220000.0
+454,645182173,Apartamentos,350.0,80,3,2,1,Fortaleza,Bom Futuro,200000.0
+455,624379809,Casas,0.0,300,5 ou mais,3,3,Fortaleza,Damas,550000.0
+456,619662713,Apartamentos,350.0,92,3,2,2,Fortaleza,Montese,220000.0
+457,602198548,Apartamentos,475.0,70,3,2,2,Fortaleza,Montese,279000.0
+458,597095426,Apartamentos,150.0,110,4,3,2,Fortaleza,Montese,280000.0
+459,587363728,Casas,0.0,236,3,5 ou mais,5 ou mais,Fortaleza,Montese,430000.0
+460,582165480,Apartamentos,423.0,75,3,2,1,Fortaleza,Montese,190000.0
+461,581837873,Apartamentos,430.0,75,3,,1,Fortaleza,Montese,190000.0
+462,581022405,Casas,0.0,320,4,4,5 ou mais,Fortaleza,Montese,730000.0
+463,578741329,Apartamentos,379.0,80,3,2,1,Fortaleza,Bom Futuro,170000.0
+464,567891966,Apartamentos,360.0,64,3,2,2,Fortaleza,Bom Futuro,258000.0
+465,567891705,Apartamentos,250.0,72,3,2,1,Fortaleza,Montese,180000.0
+466,567891445,Apartamentos,260.0,80,3,3,1,Fortaleza,Vila União,220000.0
+467,567889490,Apartamentos,350.0,72,3,2,2,Fortaleza,Montese,280000.0
+468,567888944,Casas,0.0,180,2,2,,Fortaleza,Montese,350000.0
+469,567888564,Casas,0.0,113,4,3,,Fortaleza,Bom Futuro,350000.0
+470,567888517,Casas,0.0,170,5 ou mais,3,3,Fortaleza,Montese,330000.0
+471,567886660,Apartamentos,280.0,102,4,3,2,Fortaleza,Montese,270000.0
+472,567885460,Casas,0.0,200,3,2,1,Fortaleza,Montese,310000.0
+473,567885415,Apartamentos,310.0,70,3,3,1,Fortaleza,Montese,240000.0
+474,567883506,Apartamentos,450.0,70,3,2,1,Fortaleza,Montese,200000.0
+475,567883445,Casas,0.0,480,5 ou mais,5 ou mais,4,Fortaleza,Montese,970000.0
+476,567880238,Apartamentos,0.0,45,2,1,1,Fortaleza,Damas,145000.0

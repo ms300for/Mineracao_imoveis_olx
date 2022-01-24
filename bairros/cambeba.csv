@@ -1,0 +1,607 @@
+,Código,Categoria,Condomínio,Área,Quartos,Banheiros,Vagas na garagem,Município,Bairro,Preço
+0,967717434,Casas,1450.0,263,4,3,5 ou mais,Fortaleza,Cambeba,820000.0
+1,948563532,Apartamentos,700.0,112,3,4,2,Fortaleza,Cambeba,750000.0
+2,977405516,Casas,0.0,250,4,4,4,Fortaleza,Cambeba,625000.0
+3,977405411,Casas,1750.0,390,4,5 ou mais,4,Fortaleza,Cambeba,1750000.0
+4,953191040,Apartamentos,0.0,101,3,3,2,Fortaleza,Cambeba,903870.0
+5,888572773,Casas,0.0,190,3,2,3,Fortaleza,Cambeba,550000.0
+6,894334736,Apartamentos,347.0,58,2,1,1,Fortaleza,Cambeba,380000.0
+7,949833879,Casas,0.0,134,3,3,5 ou mais,Fortaleza,Cambeba,550000.0
+8,641986590,Apartamentos,0.0,89,3,3,2,Fortaleza,Cambeba,555000.0
+9,886401736,Apartamentos,650.0,105,3,3,2,Fortaleza,Cambeba,690000.0
+10,918775505,Apartamentos,300.0,51,2,2,1,Fortaleza,Cambeba,241486.0
+11,893163188,Casas,520.0,180,4,5 ou mais,5 ou mais,Fortaleza,Cambeba,780000.0
+12,956996112,Apartamentos,0.0,62,3,2,2,Fortaleza,Cambeba,259000.0
+13,908858045,Casas,0.0,230,5 ou mais,3,3,Fortaleza,Cambeba,460000.0
+14,896758495,Apartamentos,364.0,128,4,3,2,Fortaleza,Cambeba,410000.0
+15,940454809,Apartamentos,0.0,51,2,1,1,Fortaleza,Cambeba,241486.0
+16,937964180,Apartamentos,350.0,57,2,1,1,Fortaleza,Cambeba,270000.0
+17,970510396,Apartamentos,542.0,65,3,2,1,Fortaleza,Cambeba,320000.0
+18,977039137,Apartamentos,0.0,61,3,2,1,Fortaleza,Cambeba,220000.0
+19,959072162,Apartamentos,0.0,80,3,2,2,Fortaleza,Cambeba,520000.0
+20,945913327,Apartamentos,661.0,105,3,4,2,Fortaleza,Cambeba,720000.0
+21,636184986,Apartamentos,0.0,80,3,2,2,Fortaleza,Cambeba,702000.0
+22,902930865,Casas,0.0,190,3,3,4,Fortaleza,Cambeba,550000.0
+23,888809078,Casas,350.0,138,3,4,2,Fortaleza,Cambeba,470000.0
+24,976956018,Apartamentos,0.0,0,3,3,2,Fortaleza,Cambeba,0.0
+25,976955658,Apartamentos,850.0,132,3,4,3,Fortaleza,Cambeba,830000.0
+26,964759665,Apartamentos,520.0,74,3,3,2,Fortaleza,Cambeba,420000.0
+27,970510412,Casas,0.0,227,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Cambeba,900000.0
+28,940459100,Casas,1150.0,220,4,5 ou mais,4,Fortaleza,Cambeba,629000.0
+29,970513901,Apartamentos,280.0,45,2,2,1,Fortaleza,Cambeba,198000.0
+30,969253957,Apartamentos,460.0,128,3,3,2,Fortaleza,Cambeba,445000.0
+31,940100844,Casas,0.0,231,3,4,3,Fortaleza,Cambeba,735000.0
+32,961604961,Apartamentos,500.0,80,3,3,2,Fortaleza,Cambeba,550000.0
+33,976865183,Apartamentos,320.0,51,2,1,1,Fortaleza,Cambeba,230000.0
+34,947012720,Apartamentos,570.0,70,3,2,2,Fortaleza,Cambeba,240000.0
+35,927042020,Apartamentos,474.0,64,3,2,2,Fortaleza,Cambeba,315000.0
+36,946635028,Apartamentos,520.0,64,3,2,2,Fortaleza,Cambeba,270000.0
+37,889552291,Apartamentos,500.0,90,3,3,2,Fortaleza,Cambeba,489990.0
+38,905807429,Casas,0.0,600,4,5 ou mais,5 ou mais,Fortaleza,Cambeba,999000.0
+39,915208087,Casas,0.0,265,4,4,3,Fortaleza,Cambeba,760000.0
+40,933763424,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,471134.0
+41,891278828,Apartamentos,410.0,65,3,,1,Fortaleza,Cambeba,330000.0
+42,944306240,Apartamentos,550.0,80,3,2,2,Fortaleza,Cambeba,499000.0
+43,943854956,Casas,0.0,290,3,3,3,Fortaleza,Cambeba,399000.0
+44,976711954,Apartamentos,0.0,0,2,2,1,Fortaleza,Cambeba,240000.0
+45,954960154,Casas,0.0,176,2,2,2,Fortaleza,Cambeba,450000.0
+46,949669074,Casas,0.0,223,4,5 ou mais,2,Fortaleza,Cambeba,680000.0
+47,976699434,Casas,0.0,223,4,1,2,Fortaleza,Cambeba,680000.0
+48,917761081,Apartamentos,320.0,54,3,2,1,Fortaleza,Cambeba,265000.0
+49,919851353,Casas,1050.0,182,4,5 ou mais,2,Fortaleza,Cambeba,630000.0
+50,946313839,Apartamentos,0.0,53,3,3,2,Fortaleza,Cambeba,481500.0
+51,974491305,Apartamentos,320.0,60,2,2,1,Fortaleza,Cambeba,230000.0
+52,976649443,Apartamentos,520.0,65,3,2,2,Fortaleza,Cambeba,319000.0
+53,976649403,Apartamentos,0.0,51,2,1,1,Fortaleza,Cambeba,244757.0
+54,950968181,Apartamentos,450.0,80,3,3,2,Fortaleza,Cambeba,400000.0
+55,976599513,Apartamentos,0.0,66,3,2,2,Fortaleza,Cambeba,300000.0
+56,954960156,Casas,0.0,195,3,4,4,Fortaleza,Cambeba,930000.0
+57,976574703,Casas,0.0,300,3,3,4,Fortaleza,Cambeba,900000.0
+58,976558935,Apartamentos,1200.0,132,3,4,2,Fortaleza,Cambeba,840000.0
+59,949837116,Apartamentos,360.0,65,3,3,2,Fortaleza,Cambeba,297000.0
+60,976500147,Casas,0.0,310,5 ou mais,5 ou mais,4,Fortaleza,Cambeba,785000.0
+61,969156711,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,240000.0
+62,914169908,Casas,0.0,260,3,5 ou mais,5 ou mais,Fortaleza,Cambeba,790000.0
+63,956186336,Casas,0.0,220,4,5 ou mais,3,Fortaleza,Cambeba,680000.0
+64,970513662,Apartamentos,0.0,65,3,2,1,Fortaleza,Cambeba,350000.0
+65,976395301,Apartamentos,400.0,53,2,2,1,Fortaleza,Cambeba,470000.0
+66,938508458,Apartamentos,0.0,51,2,1,1,Fortaleza,Cambeba,240000.0
+67,969854737,Apartamentos,370.0,60,2,2,1,Fortaleza,Cambeba,230000.0
+68,892067286,Apartamentos,840.0,68,3,2,2,Fortaleza,Cambeba,330000.0
+69,976319163,Casas,0.0,370,4,4,5 ou mais,Fortaleza,Cambeba,1800000.0
+70,976314988,Apartamentos,494.0,74,3,2,2,Fortaleza,Cambeba,450000.0
+71,976312648,Apartamentos,360.0,58,2,1,1,Fortaleza,Cambeba,240000.0
+72,935619010,Apartamentos,418.0,68,3,2,2,Fortaleza,Cambeba,450000.0
+73,976224341,Casas,0.0,0,3,2,,Fortaleza,Cambeba,100000.0
+74,912025541,Apartamentos,0.0,53,2,2,1,Fortaleza,Cambeba,468466.0
+75,888218027,Apartamentos,998.0,130,3,3,2,Fortaleza,Cambeba,580000.0
+76,967131458,Apartamentos,0.0,57,2,1,1,Fortaleza,Cambeba,255000.0
+77,940496327,Casas,0.0,340,3,3,4,Fortaleza,Cambeba,1500000.0
+78,964759737,Apartamentos,280.0,64,3,2,1,Fortaleza,Cambeba,250000.0
+79,953678802,Apartamentos,0.0,57,2,2,1,Fortaleza,Cambeba,168000.0
+80,730877873,Casas,630.0,120,3,4,4,Fortaleza,Cambeba,395008.0
+81,947177588,Casas,0.0,187,4,3,5 ou mais,Fortaleza,Cambeba,870000.0
+82,976137325,Apartamentos,400.0,53,2,2,1,Fortaleza,Cambeba,470000.0
+83,976132036,Apartamentos,0.0,0,2,1,1,Fortaleza,Cambeba,197493.0
+84,976106856,Apartamentos,400.0,53,2,2,1,Fortaleza,Cambeba,470000.0
+85,976065426,Casas,630.0,120,3,2,3,Fortaleza,Cambeba,380000.0
+86,886576603,Casas,0.0,159,4,2,4,Fortaleza,Cambeba,450000.0
+87,976034234,Apartamentos,380.0,68,3,2,2,Fortaleza,Cambeba,0.0
+88,955773040,Apartamentos,0.0,46,2,1,1,Fortaleza,Cambeba,197492.0
+89,963918482,Apartamentos,0.0,89,3,1,2,Fortaleza,Cambeba,495000.0
+90,975973962,Casas,0.0,136,0,1,,Fortaleza,Cambeba,400000.0
+91,971780397,Casas,100.0,320,3,4,5 ou mais,Fortaleza,Cambeba,780000.0
+92,895901616,Apartamentos,490.0,65,3,2,2,Fortaleza,Cambeba,320000.0
+93,955418220,Apartamentos,450.0,65,3,2,2,Fortaleza,Cambeba,325000.0
+94,850258318,Apartamentos,0.0,62,2,2,2,Fortaleza,Cambeba,348000.0
+95,956186363,Casas,0.0,200,4,5 ou mais,5 ou mais,Fortaleza,Cambeba,980000.0
+96,975797646,Casas,0.0,183,3,2,2,Fortaleza,Cambeba,420000.0
+97,975797542,Casas,0.0,193,3,3,2,Fortaleza,Cambeba,530000.0
+98,975792044,Apartamentos,360.0,65,3,2,1,Fortaleza,Cambeba,270000.0
+99,975789635,Apartamentos,650.0,105,3,3,2,Fortaleza,Cambeba,690000.0
+100,975789516,Apartamentos,700.0,80,3,2,2,Fortaleza,Cambeba,530000.0
+101,975789501,Casas,0.0,400,5 ou mais,4,5 ou mais,Fortaleza,Cambeba,1350000.0
+102,975789447,Apartamentos,700.0,80,3,2,2,Fortaleza,Cambeba,524000.0
+103,975789310,Apartamentos,430.0,74,3,1,2,Fortaleza,Cambeba,300000.0
+104,975781202,Apartamentos,0.0,80,3,2,1,Fortaleza,Cambeba,220000.0
+105,972268136,Apartamentos,0.0,80,3,2,2,Fortaleza,Cambeba,641671.0
+106,940100642,Apartamentos,520.0,65,3,2,2,Fortaleza,Cambeba,340000.0
+107,970510713,Casas,450.0,81,2,3,0,Fortaleza,Cambeba,267000.0
+108,955401070,Apartamentos,450.0,65,3,2,2,Fortaleza,Cambeba,325000.0
+109,975731429,Casas,0.0,281,5 ou mais,4,4,Fortaleza,Cambeba,1200004.0
+110,959072011,Apartamentos,0.0,65,3,2,2,Fortaleza,Cambeba,320000.0
+111,933322767,Apartamentos,320.0,54,2,2,,Fortaleza,Cambeba,250000.0
+112,972299741,Apartamentos,550.0,69,3,2,2,Fortaleza,Cambeba,205000.0
+113,961195023,Casas,0.0,158,4,4,4,Fortaleza,Cambeba,520000.0
+114,964178653,Apartamentos,1100.0,138,3,3,3,Fortaleza,Cambeba,800000.0
+115,917763197,Casas,0.0,183,3,5 ou mais,2,Fortaleza,Cambeba,700000.0
+116,957498617,Apartamentos,0.0,63,2,2,2,Fortaleza,Cambeba,380000.0
+117,933821139,Apartamentos,0.0,1211,0,1,0,Fortaleza,Cambeba,1000000.0
+118,969666912,Casas,0.0,368,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Cambeba,780000.0
+119,940100618,Apartamentos,0.0,80,3,2,2,Fortaleza,Cambeba,530000.0
+120,955418931,Apartamentos,520.0,74,3,2,2,Fortaleza,Cambeba,410000.0
+121,975490090,Apartamentos,0.0,63,3,2,1,Fortaleza,Cambeba,237077.0
+122,947850088,Casas,0.0,223,4,4,4,Fortaleza,Cambeba,680000.0
+123,928346316,Casas,0.0,223,4,5 ou mais,2,Fortaleza,Cambeba,680000.0
+124,942623516,Casas,0.0,300,4,5 ou mais,5 ou mais,Fortaleza,Cambeba,550000.0
+125,962092116,Apartamentos,500.0,52,2,2,1,Fortaleza,Cambeba,245000.0
+126,975327662,Casas,0.0,380,3,3,4,Fortaleza,Cambeba,850000.0
+127,975318905,Apartamentos,0.0,47,2,1,1,Fortaleza,Cambeba,189999.0
+128,961554334,Casas,900.0,229,4,5 ou mais,4,Fortaleza,Cambeba,685000.0
+129,954960104,Casas,0.0,249,3,4,5 ou mais,Fortaleza,Cambeba,630000.0
+130,886591720,Apartamentos,0.0,105,3,3,2,Fortaleza,Cambeba,650000.0
+131,944076298,Apartamentos,280.0,52,2,2,1,Fortaleza,Cambeba,239000.0
+132,952650688,Casas,0.0,310,4,5 ou mais,5 ou mais,Fortaleza,Cambeba,785000.0
+133,895437534,Casas,0.0,310,5 ou mais,5 ou mais,4,Fortaleza,Cambeba,785000.0
+134,712051112,Casas,0.0,335,4,5 ou mais,4,Fortaleza,Cambeba,1495000.0
+135,896319189,Apartamentos,330.0,44,1,1,1,Fortaleza,Cambeba,190000.0
+136,930589704,Apartamentos,350.0,58,2,1,1,Fortaleza,Cambeba,270000.0
+137,923157523,Apartamentos,0.0,52,2,2,1,Fortaleza,Cambeba,253000.0
+138,514714304,Apartamentos,372.0,68,3,,2,Fortaleza,Cambeba,310000.0
+139,975243645,Apartamentos,0.0,0,2,1,1,Fortaleza,Cambeba,190000.0
+140,917471196,Casas,0.0,280,3,4,5 ou mais,Fortaleza,Cambeba,850000.0
+141,935873699,Apartamentos,570.0,69,2,2,2,Fortaleza,Cambeba,230000.0
+142,949118218,Apartamentos,400.0,64,3,2,2,Fortaleza,Cambeba,280000.0
+143,967718506,Casas,0.0,120,3,1,2,Fortaleza,Cambeba,20000.0
+144,975040526,Apartamentos,400.0,53,2,2,1,Fortaleza,Cambeba,470000.0
+145,945604140,Casas,0.0,240,4,4,2,Fortaleza,Cambeba,595000.0
+146,974983005,Apartamentos,0.0,61,3,0,1,Fortaleza,Cambeba,0.0
+147,917556878,Apartamentos,0.0,970,0,1,4,Fortaleza,Cambeba,3300000.0
+148,972296888,Apartamentos,0.0,53,2,2,1,Fortaleza,Cambeba,250976.0
+149,926682300,Apartamentos,560.0,65,3,2,0,Fortaleza,Cambeba,325000.0
+150,954392656,Apartamentos,365.0,64,3,2,1,Fortaleza,Cambeba,260000.0
+151,946269285,Apartamentos,0.0,55,3,3,2,Fortaleza,Cambeba,491832.0
+152,883383031,Apartamentos,520.0,73,3,2,,Fortaleza,Cambeba,420000.0
+153,967720374,Apartamentos,360.0,65,3,2,2,Fortaleza,Cambeba,325000.0
+154,974897797,Apartamentos,610.0,130,3,1,2,Fortaleza,Cambeba,630000.0
+155,974897795,Apartamentos,473.0,64,3,1,2,Fortaleza,Cambeba,330000.0
+156,949374596,Casas,0.0,134,3,3,5 ou mais,Fortaleza,Cambeba,550000.0
+157,954030867,Apartamentos,0.0,101,3,3,2,Fortaleza,Cambeba,898482.0
+158,964023819,Apartamentos,0.0,52,2,1,1,Fortaleza,Cambeba,242000.0
+159,967773730,Apartamentos,0.0,63,3,2,1,Fortaleza,Cambeba,300000.0
+160,881286113,Apartamentos,0.0,65,3,2,1,Fortaleza,Cambeba,350000.0
+161,937359468,Apartamentos,400.0,64,3,1,2,Fortaleza,Cambeba,290000.0
+162,944294460,Apartamentos,280.0,65,3,1,1,Fortaleza,Cambeba,310000.0
+163,957737815,Apartamentos,300.0,73,2,2,1,Fortaleza,Cambeba,200000.0
+164,962819502,Apartamentos,0.0,74,3,3,2,Fortaleza,Cambeba,400000.0
+165,917478581,Casas,0.0,280,4,5 ou mais,4,Fortaleza,Cambeba,850000.0
+166,972296738,Casas,0.0,86,3,1,2,Fortaleza,Cambeba,300000.0
+167,918785820,Apartamentos,350.0,63,3,2,1,Fortaleza,Cambeba,292493.0
+168,962865675,Apartamentos,0.0,57,2,1,1,Fortaleza,Cambeba,230000.0
+169,950164839,Casas,0.0,207,5 ou mais,4,5 ou mais,Fortaleza,Cambeba,900000.0
+170,964759740,Casas,0.0,160,3,5 ou mais,0,Fortaleza,Cambeba,580000.0
+171,962913525,Apartamentos,0.0,62,2,2,2,Fortaleza,Cambeba,350000.0
+172,967347265,Apartamentos,1135.0,133,3,4,2,Fortaleza,Cambeba,849900.0
+173,960555886,Casas,0.0,320,4,4,3,Fortaleza,Cambeba,790000.0
+174,940100862,Casas,1200.0,186,4,5 ou mais,2,Fortaleza,Cambeba,750000.0
+175,933612472,Apartamentos,0.0,44,2,1,1,Fortaleza,Cambeba,197490.0
+176,923899993,Apartamentos,0.0,52,2,2,1,Fortaleza,Cambeba,239000.0
+177,974656036,Apartamentos,0.0,0,2,1,1,Fortaleza,Cambeba,197492.0
+178,890268205,Apartamentos,460.0,61,2,2,2,Fortaleza,Cambeba,365000.0
+179,947695524,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,242700.0
+180,897614976,Casas,480.0,267,4,5 ou mais,5 ou mais,Fortaleza,Cambeba,750000.0
+181,945169769,Apartamentos,0.0,60,3,2,1,Fortaleza,Cambeba,160000.0
+182,961392255,Apartamentos,473.0,64,3,2,2,Fortaleza,Cambeba,329999.0
+183,802151904,Apartamentos,0.0,65,3,2,2,Fortaleza,Cambeba,320000.0
+184,714930883,Apartamentos,278.0,44,2,2,1,Fortaleza,Cambeba,220000.0
+185,940101100,Apartamentos,0.0,105,3,3,2,Fortaleza,Cambeba,650000.0
+186,940101105,Apartamentos,0.0,105,3,2,2,Fortaleza,Cambeba,600000.0
+187,940101140,Apartamentos,0.0,51,2,2,2,Fortaleza,Cambeba,365000.0
+188,929919883,Casas,0.0,152,3,2,5 ou mais,Fortaleza,Cambeba,1500000.0
+189,970620151,Casas,0.0,281,5 ou mais,5 ou mais,4,Fortaleza,Cambeba,1200000.0
+190,794266949,Apartamentos,599.0,87,3,2,2,Fortaleza,Cambeba,509000.0
+191,613117373,Apartamentos,0.0,87,3,3,2,Fortaleza,Cambeba,499000.0
+192,964759577,Apartamentos,460.0,61,3,2,2,Fortaleza,Cambeba,320000.0
+193,962897252,Apartamentos,0.0,105,3,4,2,Fortaleza,Cambeba,580000.0
+194,962538636,Apartamentos,0.0,212,5 ou mais,5 ou mais,2,Fortaleza,Cambeba,470000.0
+195,946910831,Apartamentos,0.0,38,1,1,1,Fortaleza,Cambeba,174490.0
+196,967045744,Casas,640.0,105,3,3,2,Fortaleza,Cambeba,379000.0
+197,964456623,Apartamentos,495.0,74,3,1,2,Fortaleza,Cambeba,489000.0
+198,970511511,Apartamentos,300.0,120,3,3,2,Fortaleza,Cambeba,400000.0
+199,899628228,Apartamentos,0.0,101,3,3,2,Fortaleza,Cambeba,730000.0
+200,962076678,Apartamentos,278.0,44,2,2,1,Fortaleza,Cambeba,229900.0
+201,967153283,Apartamentos,460.0,73,3,3,2,Fortaleza,Cambeba,445000.0
+202,897616587,Apartamentos,400.0,103,3,2,2,Fortaleza,Cambeba,300000.0
+203,940101345,Apartamentos,280.0,68,3,2,1,Fortaleza,Cambeba,297000.0
+204,959072229,Apartamentos,0.0,105,3,3,2,Fortaleza,Cambeba,680000.0
+205,959072584,Casas,0.0,113,4,5 ou mais,4,Fortaleza,Cambeba,840000.0
+206,929064741,Apartamentos,473.0,64,3,2,2,Fortaleza,Cambeba,330000.0
+207,947695622,Apartamentos,0.0,105,3,3,2,Fortaleza,Cambeba,690000.0
+208,967055753,Apartamentos,0.0,44,2,2,1,Fortaleza,Cambeba,190000.0
+209,974246103,Apartamentos,300.0,70,2,2,1,Fortaleza,Cambeba,225000.0
+210,916406298,Casas,0.0,198,5 ou mais,1,3,Fortaleza,Cambeba,850000.0
+211,940101129,Apartamentos,580.0,73,3,2,2,Fortaleza,Cambeba,420000.0
+212,847317190,Apartamentos,500.0,75,3,2,2,Fortaleza,Cambeba,249000.0
+213,928456787,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,235500.0
+214,941416201,Apartamentos,0.0,52,3,2,2,Fortaleza,Cambeba,238000.0
+215,974084425,Casas,0.0,105,3,4,2,Fortaleza,Cambeba,420000.0
+216,907568457,Casas,0.0,145,4,1,0,Fortaleza,Cambeba,995000.0
+217,964759689,Casas,0.0,190,3,4,0,Fortaleza,Cambeba,550000.0
+218,726902779,Casas,0.0,225,4,4,4,Fortaleza,Cambeba,820000.0
+219,886400940,Casas,0.0,193,3,3,2,Fortaleza,Cambeba,530000.0
+220,952654607,Apartamentos,0.0,47,2,1,1,Fortaleza,Cambeba,189490.0
+221,974050366,Apartamentos,0.0,61,2,0,1,Fortaleza,Cambeba,0.0
+222,971780459,Casas,0.0,265,5 ou mais,5 ou mais,2,Fortaleza,Cambeba,770000.0
+223,922883314,Apartamentos,280.0,65,3,2,1,Fortaleza,Cambeba,250000.0
+224,709054427,Apartamentos,280.0,57,2,1,1,Fortaleza,Cambeba,259000.0
+225,657453066,Apartamentos,0.0,66,3,2,2,Fortaleza,Cambeba,249000.0
+226,613609832,Apartamentos,0.0,63,3,2,1,Fortaleza,Cambeba,259000.0
+227,894332770,Apartamentos,409.0,65,3,1,1,Fortaleza,Cambeba,360000.0
+228,940101255,Casas,0.0,550,4,5 ou mais,5 ou mais,Fortaleza,Cambeba,1200000.0
+229,943359942,Apartamentos,0.0,52,2,1,1,Fortaleza,Cambeba,242000.0
+230,930990332,Apartamentos,0.0,74,3,2,2,Fortaleza,Cambeba,430000.0
+231,964759706,Apartamentos,464.0,61,3,2,2,Fortaleza,Cambeba,260000.0
+232,932049454,Casas,0.0,244,4,5 ou mais,2,Fortaleza,Cambeba,750000.0
+233,973683071,Casas,0.0,223,4,5 ou mais,2,Fortaleza,Cambeba,680000.0
+234,963045786,Apartamentos,0.0,70,3,2,2,Fortaleza,Cambeba,249999.0
+235,950509863,Apartamentos,0.0,112,3,3,2,Fortaleza,Cambeba,750000.0
+236,712824343,Apartamentos,0.0,44,2,1,1,Fortaleza,Cambeba,179916.0
+237,958696644,Casas,0.0,370,4,4,4,Fortaleza,Cambeba,980000.0
+238,960572455,Apartamentos,950.0,165,3,3,2,Fortaleza,Cambeba,590000.0
+239,973582147,Apartamentos,0.0,73,3,0,2,Fortaleza,Cambeba,0.0
+240,962910388,Apartamentos,0.0,75,3,3,2,Fortaleza,Cambeba,400000.0
+241,973550599,Apartamentos,550.0,80,3,1,2,Fortaleza,Cambeba,540000.0
+242,958153498,Apartamentos,300.0,72,2,2,1,Fortaleza,Cambeba,200000.0
+243,683191032,Apartamentos,0.0,50,2,1,1,Fortaleza,Cambeba,159000.0
+244,903227790,Casas,0.0,125,3,3,2,Fortaleza,Cambeba,650000.0
+245,954960143,Apartamentos,260.0,57,2,1,1,Fortaleza,Cambeba,290000.0
+246,959149571,Apartamentos,464.0,64,3,2,2,Fortaleza,Cambeba,310000.0
+247,973427045,Apartamentos,550.0,80,3,2,2,Fortaleza,Cambeba,495000.0
+248,922912236,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,241486.0
+249,950665427,Casas,450.0,100,2,3,2,Fortaleza,Cambeba,280000.0
+250,949609127,Apartamentos,328.0,53,3,2,2,Fortaleza,Cambeba,340000.0
+251,792542573,Casas,0.0,240,5 ou mais,5 ou mais,4,Fortaleza,Cambeba,570000.0
+252,956256411,Casas,630.0,120,3,4,2,Fortaleza,Cambeba,380000.0
+253,918149796,Apartamentos,300.0,62,3,2,1,Fortaleza,Cambeba,240000.0
+254,960572206,Apartamentos,436.0,72,3,2,2,Fortaleza,Cambeba,250000.0
+255,949520871,Apartamentos,780.0,132,3,4,3,Fortaleza,Cambeba,780000.0
+256,949832657,Apartamentos,0.0,61,3,0,0,Fortaleza,Cambeba,0.0
+257,942770846,Apartamentos,0.0,63,2,2,1,Fortaleza,Cambeba,170000.0
+258,781176667,Apartamentos,0.0,80,3,2,2,Fortaleza,Cambeba,520000.0
+259,924043628,Apartamentos,390.0,65,3,2,1,Fortaleza,Cambeba,320000.0
+260,969578599,Apartamentos,0.0,46,2,1,1,Fortaleza,Cambeba,197494.0
+261,962902420,Apartamentos,0.0,65,3,2,2,Fortaleza,Cambeba,300000.0
+262,958625896,Casas,0.0,150,3,4,4,Fortaleza,Cambeba,780000.0
+263,951352504,Casas,0.0,234,3,3,4,Fortaleza,Cambeba,700000.0
+264,972958219,Apartamentos,0.0,0,2,1,1,Fortaleza,Cambeba,197491.0
+265,940101014,Apartamentos,612.0,105,3,3,2,Fortaleza,Cambeba,700000.0
+266,891278832,Apartamentos,410.0,65,3,,1,Fortaleza,Cambeba,330000.0
+267,958176834,Apartamentos,400.0,65,3,2,2,Fortaleza,Cambeba,325000.0
+268,969156757,Apartamentos,0.0,80,3,2,2,Fortaleza,Cambeba,703781.0
+269,940100961,Casas,0.0,190,3,3,3,Fortaleza,Cambeba,550000.0
+270,886400959,Casas,0.0,400,5 ou mais,4,5 ou mais,Fortaleza,Cambeba,1350000.0
+271,962894679,Apartamentos,0.0,62,3,2,1,Fortaleza,Cambeba,255000.0
+272,962901525,Apartamentos,0.0,57,2,2,1,Fortaleza,Cambeba,270000.0
+273,705877546,Apartamentos,590.0,87,3,3,2,Fortaleza,Cambeba,519999.0
+274,705883466,Apartamentos,590.0,87,3,2,2,Fortaleza,Cambeba,519999.0
+275,962076660,Casas,0.0,435,4,5 ou mais,5 ou mais,Fortaleza,Cambeba,1999999.0
+276,955917726,Apartamentos,0.0,80,3,1,2,Fortaleza,Cambeba,530124.0
+277,880984403,Casas,0.0,249,3,5 ou mais,5 ou mais,Fortaleza,Cambeba,550000.0
+278,894332727,Apartamentos,475.0,65,3,1,2,Fortaleza,Cambeba,350000.0
+279,925600485,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,244805.0
+280,950704885,Apartamentos,982.0,176,3,2,2,Fortaleza,Cambeba,575000.0
+281,883150205,Casas,0.0,193,3,2,4,Fortaleza,Cambeba,480000.0
+282,962819217,Apartamentos,0.0,130,3,4,2,Fortaleza,Cambeba,650000.0
+283,958764134,Apartamentos,0.0,46,2,1,1,Fortaleza,Cambeba,197490.0
+284,969908755,Apartamentos,0.0,46,2,1,1,Fortaleza,Cambeba,197495.0
+285,958176849,Casas,0.0,115,3,3,4,Fortaleza,Cambeba,380000.0
+286,612272802,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,241000.0
+287,608893229,Apartamentos,0.0,68,3,2,2,Fortaleza,Cambeba,348000.0
+288,950252470,Apartamentos,0.0,56,2,2,0,Fortaleza,Cambeba,168000.0
+289,916886804,Apartamentos,320.0,52,2,1,1,Fortaleza,Cambeba,225000.0
+290,950077194,Apartamentos,500.0,65,3,2,1,Fortaleza,Cambeba,350000.0
+291,962882958,Apartamentos,0.0,55,2,2,1,Fortaleza,Cambeba,200000.0
+292,943500339,Casas,0.0,290,3,3,3,Fortaleza,Cambeba,480000.0
+293,924721015,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,238000.0
+294,962896529,Apartamentos,0.0,80,3,3,2,Fortaleza,Cambeba,500000.0
+295,929650961,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,241487.0
+296,958625802,Casas,0.0,129,3,2,4,Fortaleza,Cambeba,440000.0
+297,725507559,Apartamentos,320.0,65,3,2,2,Fortaleza,Cambeba,245000.0
+298,748234418,Apartamentos,0.0,65,3,2,1,Fortaleza,Cambeba,245000.0
+299,724768942,Apartamentos,320.0,68,3,2,2,Fortaleza,Cambeba,240000.0
+300,556004032,Casas,0.0,260,4,5 ou mais,5 ou mais,Fortaleza,Cambeba,1050000.0
+301,576391555,Casas,0.0,120,3,3,4,Fortaleza,Cambeba,380000.0
+302,972299302,Apartamentos,1.0,105,2,3,2,Fortaleza,Cambeba,726313.0
+303,972298088,Casas,0.0,190,3,2,5 ou mais,Fortaleza,Cambeba,550000.0
+304,972298093,Casas,1450.0,250,3,5 ou mais,4,Fortaleza,Cambeba,1050000.0
+305,972298019,Casas,0.0,249,4,4,5 ou mais,Fortaleza,Cambeba,580000.0
+306,972297687,Casas,0.0,219,3,3,2,Fortaleza,Cambeba,950000.0
+307,972297688,Apartamentos,550.0,56,3,2,2,Fortaleza,Cambeba,250000.0
+308,972297600,Apartamentos,450.0,105,3,3,2,Fortaleza,Cambeba,720000.0
+309,972297584,Casas,0.0,255,4,5 ou mais,5 ou mais,Fortaleza,Cambeba,1100000.0
+310,972297480,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,261262.0
+311,972297427,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,244805.0
+312,972297370,Apartamentos,0.0,63,3,2,1,Fortaleza,Cambeba,290547.0
+313,972297300,Casas,0.0,135,3,3,3,Fortaleza,Cambeba,600000.0
+314,972297014,Casas,0.0,130,3,3,3,Fortaleza,Cambeba,680000.0
+315,899046241,Casas,630.0,120,3,4,2,Fortaleza,Cambeba,380000.0
+316,972245637,Apartamentos,478.0,68,3,2,2,Fortaleza,Cambeba,348000.0
+317,911160893,Apartamentos,400.0,65,3,2,1,Fortaleza,Cambeba,160000.0
+318,970697727,Apartamentos,0.0,60,3,2,1,Fortaleza,Cambeba,220000.0
+319,936416736,Casas,1600.0,400,4,5 ou mais,5 ou mais,Fortaleza,Cambeba,1790000.0
+320,967596273,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,241486.0
+321,972216194,Apartamentos,0.0,91,2,1,1,Fortaleza,Cambeba,0.0
+322,943578250,Apartamentos,320.0,52,2,1,1,Fortaleza,Cambeba,205000.0
+323,958176836,Casas,0.0,262,4,4,2,Fortaleza,Cambeba,900000.0
+324,931476438,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,245000.0
+325,891052975,Casas,1500.0,275,3,4,4,Fortaleza,Cambeba,1200000.0
+326,962869400,Apartamentos,0.0,65,3,2,2,Fortaleza,Cambeba,320000.0
+327,932285214,Casas,0.0,440,4,5 ou mais,5 ou mais,Fortaleza,Cambeba,2290000.0
+328,967596180,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,256706.0
+329,971884904,Apartamentos,519.0,74,3,2,2,Fortaleza,Cambeba,489000.0
+330,971882583,Casas,0.0,223,4,5 ou mais,4,Fortaleza,Cambeba,680000.0
+331,886580156,Apartamentos,470.0,64,3,2,2,Fortaleza,Cambeba,300000.0
+332,955796609,Casas,450.0,120,2,3,2,Fortaleza,Cambeba,285000.0
+333,919393311,Casas,0.0,115,3,3,4,Fortaleza,Cambeba,380000.0
+334,930990158,Apartamentos,0.0,101,3,2,2,Fortaleza,Cambeba,599000.0
+335,947127830,Casas,0.0,223,4,5 ou mais,2,Fortaleza,Cambeba,680000.0
+336,916735362,Apartamentos,0.0,115,3,3,1,Fortaleza,Cambeba,197000.0
+337,971623887,Apartamentos,380.0,68,3,2,2,Fortaleza,Cambeba,0.0
+338,956329082,Apartamentos,0.0,46,2,1,1,Fortaleza,Cambeba,197491.0
+339,941416216,Apartamentos,0.0,65,3,2,2,Fortaleza,Cambeba,325000.0
+340,761170925,Casas,780.0,117,3,5 ou mais,4,Fortaleza,Cambeba,400000.0
+341,971533869,Apartamentos,0.0,90,3,3,2,Fortaleza,Cambeba,600124.0
+342,971533866,Apartamentos,370.0,102,3,3,2,Fortaleza,Cambeba,400000.0
+343,824237387,Apartamentos,0.0,105,3,3,2,Fortaleza,Cambeba,680000.0
+344,971497602,Casas,1200.0,213,3,4,2,Fortaleza,Cambeba,800000.0
+345,888809733,Casas,0.0,156,4,4,3,Fortaleza,Cambeba,650000.0
+346,959072173,Casas,0.0,335,4,5 ou mais,4,Fortaleza,Cambeba,1495000.0
+347,728117703,Apartamentos,360.0,64,3,1,1,Fortaleza,Cambeba,160000.0
+348,683927859,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,241489.0
+349,964544111,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,242718.0
+350,971405352,Casas,0.0,260,3,3,4,Fortaleza,Cambeba,850000.0
+351,886577660,Casas,0.0,168,3,2,3,Fortaleza,Cambeba,480000.0
+352,886417722,Casas,0.0,183,3,2,2,Fortaleza,Cambeba,420000.0
+353,971232032,Apartamentos,0.0,0,2,1,1,Fortaleza,Cambeba,197490.0
+354,958176841,Apartamentos,280.0,67,3,2,1,Fortaleza,Cambeba,289900.0
+355,946725808,Apartamentos,700.0,112,3,2,2,Fortaleza,Cambeba,750000.0
+356,879955822,Apartamentos,850.0,99,3,3,1,Fortaleza,Cambeba,380000.0
+357,954713788,Apartamentos,0.0,46,2,1,1,Fortaleza,Cambeba,197493.0
+358,669249659,Casas,0.0,202,5 ou mais,1,2,Fortaleza,Cambeba,800000.0
+359,960914316,Casas,0.0,260,3,5 ou mais,4,Fortaleza,Cambeba,1200000.0
+360,905586543,Casas,0.0,160,3,3,4,Fortaleza,Cambeba,479000.0
+361,941326103,Casas,0.0,320,3,2,5 ou mais,Fortaleza,Cambeba,1500000.0
+362,970906134,Casas,0.0,0,3,1,2,Fortaleza,Cambeba,310000.0
+363,970900768,Casas,0.0,85,3,3,2,Fortaleza,Cambeba,300000.0
+364,940100704,Apartamentos,511.0,68,3,2,2,Fortaleza,Cambeba,275000.0
+365,943056393,Casas,600.0,120,3,4,4,Fortaleza,Cambeba,380000.0
+366,970844271,Apartamentos,330.0,48,2,2,1,Fortaleza,Cambeba,180000.0
+367,947762394,Apartamentos,0.0,58,3,2,2,Fortaleza,Cambeba,449000.0
+368,669249742,Casas,0.0,309,5 ou mais,1,5 ou mais,Fortaleza,Cambeba,1320000.0
+369,886578247,Apartamentos,0.0,101,2,4,2,Fortaleza,Cambeba,934462.0
+370,930530361,Apartamentos,0.0,63,3,2,2,Fortaleza,Cambeba,309000.0
+371,894332863,Apartamentos,470.0,65,3,2,2,Fortaleza,Cambeba,320000.0
+372,962986539,Apartamentos,0.0,132,3,4,3,Fortaleza,Cambeba,699999.0
+373,970486911,Apartamentos,370.0,60,2,2,1,Fortaleza,Cambeba,230000.0
+374,940100703,Casas,0.0,171,4,5 ou mais,5 ou mais,Fortaleza,Cambeba,770000.0
+375,655433898,Apartamentos,0.0,74,3,3,2,Fortaleza,Cambeba,389000.0
+376,926700423,Apartamentos,0.0,63,3,2,1,Fortaleza,Cambeba,290547.0
+377,970226904,Apartamentos,0.0,60,3,2,1,Fortaleza,Cambeba,220000.0
+378,886417645,Apartamentos,700.0,80,3,2,2,Fortaleza,Cambeba,530000.0
+379,947695242,Apartamentos,0.0,64,2,2,1,Fortaleza,Cambeba,256900.0
+380,955450534,Casas,1200.0,213,4,3,2,Fortaleza,Cambeba,800000.0
+381,970085592,Apartamentos,328.0,55,2,2,1,Fortaleza,Cambeba,215000.0
+382,613121601,Casas,0.0,220,4,5 ou mais,4,Fortaleza,Cambeba,585000.0
+383,916623271,Apartamentos,700.0,105,3,4,2,Fortaleza,Cambeba,650000.0
+384,969945705,Apartamentos,700.0,75,3,2,2,Fortaleza,Cambeba,340000.0
+385,958955707,Apartamentos,328.0,52,2,2,0,Fortaleza,Cambeba,215000.0
+386,969886048,Apartamentos,613.0,73,3,3,2,Fortaleza,Cambeba,420000.0
+387,932284578,Apartamentos,0.0,105,3,3,2,Fortaleza,Cambeba,650000.0
+388,915498682,Casas,0.0,252,3,4,1,Fortaleza,Cambeba,460000.0
+389,815766549,Apartamentos,570.0,69,3,2,2,Fortaleza,Cambeba,240000.0
+390,969803422,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,0.0
+391,969774007,Apartamentos,400.0,53,2,2,1,Fortaleza,Cambeba,470000.0
+392,969707286,Apartamentos,0.0,68,3,2,2,Fortaleza,Cambeba,250000.0
+393,917704187,Casas,0.0,300,5 ou mais,4,3,Fortaleza,Cambeba,450000.0
+394,942843355,Apartamentos,465.0,68,3,,2,Fortaleza,Cambeba,335000.0
+395,949161255,Apartamentos,450.0,60,2,2,1,Fortaleza,Cambeba,219000.0
+396,955287932,Apartamentos,0.0,74,3,3,2,Fortaleza,Cambeba,375000.0
+397,955474431,Casas,0.0,265,4,5 ou mais,3,Fortaleza,Cambeba,770000.0
+398,945912765,Apartamentos,336.0,65,3,2,1,Fortaleza,Cambeba,360000.0
+399,888808087,Apartamentos,600.0,80,3,2,2,Fortaleza,Cambeba,490000.0
+400,969575162,Casas,400.0,53,2,2,1,Fortaleza,Cambeba,470000.0
+401,894332664,Apartamentos,0.0,80,3,2,2,Fortaleza,Cambeba,658881.0
+402,821100315,Casas,0.0,310,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Cambeba,785000.0
+403,940100718,Apartamentos,409.0,65,3,2,0,Fortaleza,Cambeba,360000.0
+404,842143550,Casas,0.0,0,3,3,5 ou mais,Fortaleza,Cambeba,900000.0
+405,969448416,Casas,0.0,223,4,5 ou mais,2,Fortaleza,Cambeba,680000.0
+406,969403689,Apartamentos,0.0,73,0,0,2,Fortaleza,Cambeba,410000.0
+407,926719248,Apartamentos,450.0,65,3,2,2,Fortaleza,Cambeba,325000.0
+408,868494631,Casas,1050.0,200,4,5 ou mais,4,Fortaleza,Cambeba,680000.0
+409,959974285,Apartamentos,0.0,132,3,4,3,Fortaleza,Cambeba,850000.0
+410,969177240,Apartamentos,0.0,51,2,0,1,Fortaleza,Cambeba,0.0
+411,969142524,Apartamentos,0.0,101,3,3,2,Fortaleza,Cambeba,580000.0
+412,969083382,Apartamentos,0.0,57,2,1,1,Fortaleza,Cambeba,230000.0
+413,969081824,Apartamentos,0.0,55,2,2,1,Fortaleza,Cambeba,200000.0
+414,969080717,Apartamentos,0.0,75,3,3,2,Fortaleza,Cambeba,400000.0
+415,657400991,Apartamentos,0.0,60,3,2,1,Fortaleza,Cambeba,235000.0
+416,844988511,Apartamentos,450.0,81,3,2,2,Fortaleza,Cambeba,676713.0
+417,917704282,Apartamentos,600.0,76,3,2,2,Fortaleza,Cambeba,220000.0
+418,968792329,Apartamentos,0.0,54,3,1,,Fortaleza,Cambeba,0.0
+419,968791711,Apartamentos,0.0,0,3,1,1,Fortaleza,Cambeba,0.0
+420,821134553,Apartamentos,280.0,70,3,2,2,Fortaleza,Cambeba,310000.0
+421,968685507,Casas,0.0,300,3,3,0,Fortaleza,Cambeba,520000.0
+422,968679538,Casas,0.0,120,3,4,1,Fortaleza,Cambeba,400000.0
+423,968641096,Apartamentos,320.0,58,2,2,1,Fortaleza,Cambeba,230000.0
+424,968570645,Apartamentos,435.0,62,2,2,2,Fortaleza,Cambeba,360000.0
+425,968557481,Apartamentos,550.0,60,2,2,1,Fortaleza,Cambeba,250000.0
+426,968555311,Apartamentos,0.0,57,2,0,1,Fortaleza,Cambeba,0.0
+427,917942490,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,243000.0
+428,968524567,Apartamentos,550.0,75,3,2,2,Fortaleza,Cambeba,485000.0
+429,968507803,Apartamentos,320.0,58,2,2,1,Fortaleza,Cambeba,215000.0
+430,941626069,Apartamentos,652.0,112,3,3,2,Fortaleza,Cambeba,750000.0
+431,583448120,Apartamentos,0.0,129,3,2,1,Fortaleza,Cambeba,235000.0
+432,946914747,Casas,0.0,223,4,5 ou mais,2,Fortaleza,Cambeba,680000.0
+433,968368958,Casas,0.0,138,3,3,2,Fortaleza,Cambeba,470012.0
+434,968350879,Apartamentos,0.0,62,3,0,1,Fortaleza,Cambeba,0.0
+435,894336315,Casas,0.0,121,3,2,2,Fortaleza,Cambeba,415000.0
+436,886573732,Apartamentos,814000.0,105,3,2,2,Fortaleza,Cambeba,943948.0
+437,955796211,Apartamentos,270.0,57,2,2,0,Fortaleza,Cambeba,168000.0
+438,916735121,Apartamentos,0.0,65,3,2,1,Fortaleza,Cambeba,330000.0
+439,937602001,Apartamentos,300.0,76,3,2,1,Fortaleza,Cambeba,280000.0
+440,899210753,Apartamentos,464.0,64,3,2,2,Fortaleza,Cambeba,320000.0
+441,955999224,Apartamentos,225.0,45,2,1,1,Fortaleza,Cambeba,125000.0
+442,894349001,Casas,0.0,223,4,1,2,Fortaleza,Cambeba,680000.0
+443,967439981,Apartamentos,650.0,105,3,4,2,Fortaleza,Cambeba,650000.0
+444,967439669,Casas,1450.0,270,4,4,4,Fortaleza,Cambeba,1050000.0
+445,967439597,Casas,0.0,129,3,2,4,Fortaleza,Cambeba,440000.0
+446,966986210,Apartamentos,0.0,63,3,3,1,Fortaleza,Cambeba,300000.0
+447,894340160,Casas,0.0,174,4,4,3,Fortaleza,Cambeba,735050.0
+448,943053371,Casas,0.0,110,3,2,3,Fortaleza,Cambeba,520000.0
+449,922108355,Apartamentos,300.0,51,2,2,1,Fortaleza,Cambeba,238000.0
+450,966833050,Apartamentos,0.0,63,3,1,1,Fortaleza,Cambeba,0.0
+451,940100632,Apartamentos,530.0,80,3,2,2,Fortaleza,Cambeba,480000.0
+452,931792590,Apartamentos,270.0,60,2,2,1,Fortaleza,Cambeba,220000.0
+453,966736007,Apartamentos,0.0,73,3,0,0,Fortaleza,Cambeba,0.0
+454,966657464,Apartamentos,0.0,62,3,0,1,Fortaleza,Cambeba,0.0
+455,966656296,Apartamentos,0.0,51,2,0,1,Fortaleza,Cambeba,0.0
+456,966618523,Apartamentos,0.0,103,3,3,2,Fortaleza,Cambeba,107000.0
+457,966489423,Apartamentos,380.0,68,3,2,2,Fortaleza,Cambeba,300000.0
+458,966466865,Casas,0.0,223,4,5 ou mais,2,Fortaleza,Cambeba,680000.0
+459,917704007,Apartamentos,600.0,105,3,4,2,Fortaleza,Cambeba,635000.0
+460,951704518,Apartamentos,360.0,65,3,2,1,Fortaleza,Cambeba,270000.0
+461,894331748,Apartamentos,500.0,62,2,2,2,Fortaleza,Cambeba,375000.0
+462,669249156,Casas,0.0,249,3,4,5 ou mais,Fortaleza,Cambeba,580000.0
+463,934593276,Casas,0.0,54,2,2,2,Fortaleza,Cambeba,189900.0
+464,611521164,Apartamentos,0.0,68,3,2,2,Fortaleza,Cambeba,329000.0
+465,915010537,Apartamentos,0.0,63,3,2,1,Fortaleza,Cambeba,237077.0
+466,940776823,Casas,0.0,245,3,4,2,Fortaleza,Cambeba,400000.0
+467,929838157,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,244800.0
+468,879672132,Apartamentos,460.0,64,3,2,2,Fortaleza,Cambeba,330000.0
+469,860883540,Apartamentos,520.0,73,3,2,2,Fortaleza,Cambeba,445000.0
+470,920934020,Apartamentos,0.0,5111,2,2,1,Fortaleza,Cambeba,240000.0
+471,920984223,Apartamentos,520.0,74,3,1,2,Fortaleza,Cambeba,420000.0
+472,727846265,Apartamentos,600.0,69,3,2,2,Fortaleza,Cambeba,230000.0
+473,714498729,Apartamentos,0.0,80,3,2,2,Fortaleza,Cambeba,0.0
+474,920034082,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,0.0
+475,552817960,Casas,400.0,240,3,5 ou mais,4,Fortaleza,Cambeba,830000.0
+476,947340541,Apartamentos,484.0,63,3,2,2,Fortaleza,Cambeba,309000.0
+477,669247882,Casas,0.0,176,3,1,1,Fortaleza,Cambeba,400000.0
+478,935873704,Casas,0.0,400,4,5 ou mais,4,Fortaleza,Cambeba,1350000.0
+479,920266422,Casas,0.0,190,4,4,3,Fortaleza,Cambeba,499000.0
+480,908853781,Casas,0.0,100,3,2,4,Fortaleza,Cambeba,420000.0
+481,894336351,Casas,1150.0,200,4,5 ou mais,0,Fortaleza,Cambeba,600000.0
+482,888809050,Apartamentos,250.0,65,3,2,1,Fortaleza,Cambeba,260000.0
+483,817284242,Apartamentos,350.0,56,2,2,1,Fortaleza,Cambeba,150000.0
+484,947266949,Apartamentos,484.0,63,3,2,2,Fortaleza,Cambeba,309000.0
+485,907567296,Casas,0.0,250,4,5 ou mais,5 ou mais,Fortaleza,Cambeba,1000000.0
+486,886838202,Apartamentos,550.0,80,3,2,2,Fortaleza,Cambeba,260000.0
+487,888808391,Casas,450.0,120,2,3,2,Fortaleza,Cambeba,289000.0
+488,964825510,Casas,0.0,281,5 ou mais,5 ou mais,4,Fortaleza,Cambeba,1200020.0
+489,964789064,Casas,0.0,145,3,2,4,Fortaleza,Cambeba,450000.0
+490,888808161,Apartamentos,484.0,65,3,2,2,Fortaleza,Cambeba,340000.0
+491,712286229,Apartamentos,0.0,126,3,3,2,Fortaleza,Cambeba,395000.0
+492,879955918,Apartamentos,460.0,60,3,2,1,Fortaleza,Cambeba,219000.0
+493,964616780,Apartamentos,0.0,63,3,2,1,Fortaleza,Cambeba,255000.0
+494,964616001,Apartamentos,0.0,74,3,3,2,Fortaleza,Cambeba,400000.0
+495,846464306,Apartamentos,450.0,58,2,2,1,Fortaleza,Cambeba,260000.0
+496,842036469,Casas,0.0,190,3,,3,Fortaleza,Cambeba,550000.0
+497,938287711,Casas,0.0,281,4,5 ou mais,4,Fortaleza,Cambeba,1200030.0
+498,939167458,Apartamentos,0.0,67,2,2,1,Fortaleza,Cambeba,271652.0
+499,964180721,Apartamentos,0.0,0,2,1,1,Fortaleza,Cambeba,195498.0
+500,886572547,Casas,0.0,200,3,3,5 ou mais,Fortaleza,Cambeba,680000.0
+501,888807968,Apartamentos,580.0,105,3,3,2,Fortaleza,Cambeba,720000.0
+502,963986337,Apartamentos,600.0,90,3,2,1,Fortaleza,Cambeba,260000.0
+503,963750251,Casas,0.0,140,3,3,5 ou mais,Fortaleza,Cambeba,550000.0
+504,963728559,Casas,0.0,140,3,2,1,Fortaleza,Cambeba,150000.0
+505,963420039,Casas,0.0,260,4,4,5 ou mais,Fortaleza,Cambeba,850000.0
+506,887250681,Apartamentos,290.0,60,2,2,1,Fortaleza,Cambeba,290000.0
+507,739531502,Casas,0.0,1502,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Cambeba,1400000.0
+508,884033876,Apartamentos,300.0,62,3,2,1,Fortaleza,Cambeba,255000.0
+509,963014520,Casas,1050.0,281,5 ou mais,4,4,Fortaleza,Cambeba,1200603.0
+510,962950388,Apartamentos,0.0,58,2,1,1,Fortaleza,Cambeba,250000.0
+511,756952044,Casas,0.0,235,3,4,5 ou mais,Fortaleza,Cambeba,620000.0
+512,950410119,Apartamentos,409.0,65,3,2,2,Fortaleza,Cambeba,350000.0
+513,908358633,Apartamentos,820.0,132,4,4,3,Fortaleza,Cambeba,680000.0
+514,962405249,Apartamentos,0.0,73,3,2,2,Fortaleza,Cambeba,0.0
+515,821896662,Apartamentos,0.0,53,3,4,2,Fortaleza,Cambeba,376000.0
+516,935033908,Casas,0.0,71,2,2,2,Fortaleza,Cambeba,279000.0
+517,675996924,Apartamentos,330.0,68,3,2,1,Fortaleza,Cambeba,259000.0
+518,961898096,Apartamentos,350.0,58,2,1,1,Fortaleza,Cambeba,270000.0
+519,961715131,Apartamentos,0.0,0,2,1,1,Fortaleza,Cambeba,195466.0
+520,961714554,Apartamentos,0.0,57,2,1,1,Fortaleza,Cambeba,0.0
+521,961713890,Apartamentos,0.0,57,2,1,1,Fortaleza,Cambeba,0.0
+522,961700953,Apartamentos,0.0,73,3,2,2,Fortaleza,Cambeba,0.0
+523,961700516,Apartamentos,0.0,73,3,2,2,Fortaleza,Cambeba,0.0
+524,961700219,Apartamentos,0.0,73,3,2,2,Fortaleza,Cambeba,0.0
+525,898745210,Apartamentos,982.0,176,3,2,2,Fortaleza,Cambeba,575000.0
+526,961347067,Apartamentos,300.0,65,2,2,1,Fortaleza,Cambeba,230000.0
+527,765127972,Apartamentos,450.0,89,3,2,2,Fortaleza,Cambeba,585000.0
+528,942637384,Casas,0.0,245,4,3,4,Fortaleza,Cambeba,610000.0
+529,666951050,Apartamentos,490.0,75,3,3,2,Fortaleza,Cambeba,420000.0
+530,960647524,Apartamentos,0.0,130,3,4,2,Fortaleza,Cambeba,650000.0
+531,960645661,Apartamentos,0.0,65,3,2,2,Fortaleza,Cambeba,330000.0
+532,735847895,Apartamentos,0.0,73,3,2,2,Fortaleza,Cambeba,420000.0
+533,778630757,Casas,0.0,120,3,3,3,Fortaleza,Cambeba,380000.0
+534,676271021,Apartamentos,0.0,68,3,2,2,Fortaleza,Cambeba,258000.0
+535,959865148,Casas,0.0,0,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Cambeba,0.0
+536,959718368,Apartamentos,0.0,57,2,2,1,Fortaleza,Cambeba,270000.0
+537,959718352,Apartamentos,0.0,65,3,2,2,Fortaleza,Cambeba,300000.0
+538,959718321,Apartamentos,0.0,133,3,4,3,Fortaleza,Cambeba,700000.0
+539,959718198,Apartamentos,0.0,62,2,2,2,Fortaleza,Cambeba,350000.0
+540,959718151,Apartamentos,0.0,83,3,3,2,Fortaleza,Cambeba,500000.0
+541,696998511,Apartamentos,0.0,74,3,2,2,Fortaleza,Cambeba,400000.0
+542,947638357,Apartamentos,280.0,65,2,1,1,Fortaleza,Cambeba,250000.0
+543,959288769,Casas,0.0,47,0,0,0,Fortaleza,Cambeba,190000.0
+544,959166057,Apartamentos,420.0,60,3,2,2,Fortaleza,Cambeba,265000.0
+545,949832507,Apartamentos,0.0,62,3,0,0,Fortaleza,Cambeba,0.0
+546,958944744,Apartamentos,380.0,89,3,2,1,Fortaleza,Cambeba,290000.0
+547,646024284,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,500000.0
+548,958345248,Casas,0.0,0,1,,,Fortaleza,Cambeba,24000.0
+549,676256829,Apartamentos,700.0,132,3,4,3,Fortaleza,Cambeba,799000.0
+550,929643627,Casas,0.0,145,3,4,5 ou mais,Fortaleza,Cambeba,590000.0
+551,958106258,Apartamentos,0.0,0,3,,1,Fortaleza,Cambeba,0.0
+552,958105545,Apartamentos,0.0,50,2,,1,Fortaleza,Cambeba,0.0
+553,958105037,Apartamentos,0.0,62,3,,1,Fortaleza,Cambeba,0.0
+554,958104583,Apartamentos,0.0,51,2,,1,Fortaleza,Cambeba,0.0
+555,957929433,Apartamentos,0.0,54,2,2,3,Fortaleza,Cambeba,490000.0
+556,957920154,Apartamentos,0.0,50,2,1,1,Fortaleza,Cambeba,189000.0
+557,957767703,Apartamentos,0.0,0,2,1,1,Fortaleza,Cambeba,195465.0
+558,923234984,Apartamentos,0.0,51,2,2,1,Fortaleza,Cambeba,238000.0
+559,957527190,Apartamentos,0.0,45,2,1,1,Fortaleza,Cambeba,189900.0
+560,957430309,Casas,0.0,281,4,5 ou mais,4,Fortaleza,Cambeba,1200016.0
+561,884057431,Apartamentos,0.0,54,2,2,1,Fortaleza,Cambeba,477978.0
+562,956628369,Apartamentos,0.0,73,3,0,2,Fortaleza,Cambeba,410000.0
+563,956549507,Apartamentos,400.0,60,2,2,1,Fortaleza,Cambeba,255000.0
+564,956474122,Apartamentos,0.0,62,3,0,0,Fortaleza,Cambeba,0.0
+565,956472998,Apartamentos,0.0,51,2,0,0,Fortaleza,Cambeba,0.0
+566,956162429,Casas,0.0,265,4,5 ou mais,3,Fortaleza,Cambeba,770000.0
+567,874628899,Apartamentos,0.0,0,3,2,2,Fortaleza,Cambeba,390000.0
+568,748235446,Apartamentos,0.0,70,3,2,2,Fortaleza,Cambeba,250000.0
+569,672953398,Apartamentos,350.0,67,3,2,2,Fortaleza,Cambeba,289000.0
+570,955130010,Apartamentos,0.0,72,3,0,2,Fortaleza,Cambeba,410005.0
+571,955081186,Apartamentos,0.0,45,2,1,1,Fortaleza,Cambeba,189490.0
+572,955072766,Apartamentos,0.0,73,3,2,2,Fortaleza,Cambeba,0.0
+573,955070958,Apartamentos,0.0,73,3,2,2,Fortaleza,Cambeba,410000.0
+574,924418259,Casas,0.0,155,3,2,3,Fortaleza,Cambeba,550000.0
+575,954929756,Apartamentos,330.0,44,2,2,1,Fortaleza,Cambeba,200000.0
+576,954737227,Casas,0.0,186,4,4,4,Fortaleza,Cambeba,680090.0
+577,922980234,Apartamentos,450.0,60,1,2,1,Fortaleza,Cambeba,219000.0
+578,954605984,Casas,0.0,138,3,3,2,Fortaleza,Cambeba,470009.0
+579,954601760,Apartamentos,350.0,51,2,2,1,Fortaleza,Cambeba,242700.0
+580,954503268,Apartamentos,500.0,66,3,2,2,Fortaleza,Cambeba,265000.0
+581,954487899,Apartamentos,0.0,112,3,3,2,Fortaleza,Cambeba,750000.0
+582,928648773,Casas,0.0,125,2,2,2,Fortaleza,Cambeba,0.0
+583,928648758,Casas,0.0,125,2,2,2,Fortaleza,Cambeba,0.0
+584,954142246,Apartamentos,0.0,52,2,2,1,Fortaleza,Cambeba,159000.0
+585,953672367,Apartamentos,560.0,62,2,2,2,Fortaleza,Cambeba,349000.0
+586,673211720,Casas,1150.0,220,3,4,5 ou mais,Fortaleza,Cambeba,630000.0
+587,625957012,Apartamentos,330.0,57,2,,1,Fortaleza,Cambeba,265000.0
+588,948558130,Casas,0.0,310,5 ou mais,5 ou mais,4,Fortaleza,Cambeba,785000.0
+589,920765056,Casas,0.0,214,2,3,5 ou mais,Fortaleza,Cambeba,680000.0
+590,950619181,Casas,1450.0,217,4,,5 ou mais,Fortaleza,Cambeba,1050000.0
+591,669250068,Apartamentos,0.0,80,3,1,2,Fortaleza,Cambeba,739327.0
+592,669313140,Casas,0.0,157,3,1,3,Fortaleza,Cambeba,550000.0
+593,798746446,Casas,450.0,80,2,3,,Fortaleza,Cambeba,267000.0
+594,868066881,Apartamentos,320.0,65,3,2,1,Fortaleza,Cambeba,230000.0
+595,801193143,Apartamentos,0.0,80,3,2,2,Fortaleza,Cambeba,641671.0
+596,944368175,Apartamentos,500.0,80,3,2,2,Fortaleza,Cambeba,480000.0
+597,696996289,Apartamentos,0.0,74,3,4,2,Fortaleza,Cambeba,395000.0
+598,696996601,Apartamentos,0.0,72,3,2,,Fortaleza,Cambeba,410000.0
+599,943381085,Apartamentos,320.0,54,3,2,1,Fortaleza,Cambeba,260000.0
+600,724396801,Apartamentos,350.0,66,3,2,2,Fortaleza,Cambeba,280000.0
+601,714210098,Casas,0.0,190,4,5 ou mais,4,Fortaleza,Cambeba,490000.0
+602,663321436,Apartamentos,470.0,62,2,2,2,Fortaleza,Cambeba,360000.0
+603,627014184,Casas,0.0,258,5 ou mais,5 ou mais,5 ou mais,Fortaleza,Cambeba,1050000.0
+604,579366236,Casas,0.0,0,3,5 ou mais,4,Fortaleza,Cambeba,575000.0
+605,567880982,Casas,0.0,220,3,4,3,Fortaleza,Cambeba,590000.0
